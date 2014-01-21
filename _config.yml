@@ -1,0 +1,18 @@
+# markdown: 
+pygments: true
+auto: true
+
+
+#url: http://localhost:4000
+url: http://kidschant.com
+
+ftp_host: 'ftp.repleatur.net'
+ftp_dir: './'
+ftp_passive: false
+
+# optional
+ftp_port: 21                  # default 21
+ftp_username: 'kidschant@repleatur.net'     # default read from stdin
+ftp_password: '*ooluG4mct@K' # default read from stdin
+
+excerpt_separator: ""
