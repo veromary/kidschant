@@ -1,0 +1,88 @@
+This is TeX, Version 3.1415926 (TeX Live 2012/Debian) (format=tex 2014.3.6)  19 MAR 2014 21:39
+**puzzle.tex
+(./puzzle.tex (/home/veronica/texmf/tex/generic/puzmac.tex
+(/home/veronica/texmf/tex/generic/doubleco.tex
+\pagewidth=\dimen16
+\pageheight=\dimen17
+\colwidth=\dimen18
+\partialpage=\box16
+))
+Overfull \vbox (69.08443pt too high) has occurred while \output is active
+\vbox(722.7+0.0)x542.025
+.\vbox(0.0+0.0)x542.025, glue set 14.0fil
+..\glue -22.5
+..\hbox(8.5+0.0)x542.025, glue set 542.025fil
+...\vbox(8.5+0.0)x0.0
+...\glue 0.0 plus 1.0fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\glue(\topskip) 0.0
+.\vbox(791.78442+0.0)x506.32076
+..\hbox(17.23148+0.0)x506.32076
+...\glue 3.33333 plus 1.66666 minus 1.11111
+...\vbox(17.23148+0.0)x20.95781 []
+...\vbox(17.23148+0.0)x20.95781 []
+...\vbox(17.23148+0.0)x20.95781 []
+...\vbox(17.23148+0.0)x20.95781 []
+...etc.
+..\glue(\lineskip) 0.0
+..\hbox(18.03146+0.0)x506.32076
+...\glue 3.33333 plus 1.66666 minus 1.11111
+...\vbox(17.23148+0.0)x20.95781 []
+...\vbox(17.23148+0.0)x20.95781 []
+...\vbox(17.23148+0.0)x20.95781 []
+...\vbox(17.23148+0.0)x20.95781 []
+...etc.
+..\glue(\lineskip) 0.0
+..\hbox(18.03146+0.0)x506.32076
+...\glue 3.33333 plus 1.66666 minus 1.11111
+...\vbox(17.23148+0.0)x20.95781 []
+...\vbox(17.23148+0.0)x20.95781 []
+...\vbox(17.23148+0.0)x20.95781 []
+...\vbox(17.23148+0.0)x20.95781 []
+...etc.
+..etc.
+.\hbox(0.0+0.0)x542.025, glue set 542.025fil
+..\glue 0.0 plus 1.0fil
+
+
+[1]
+Overfull \vbox (34.62148pt too high) has occurred while \output is active
+\vbox(722.7+0.0)x542.025
+.\vbox(0.0+0.0)x542.025, glue set 14.0fil
+..\glue -22.5
+..\hbox(8.5+0.0)x542.025, glue set 542.025fil
+...\vbox(8.5+0.0)x0.0
+...\glue 0.0 plus 1.0fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\glue(\topskip) 0.0
+.\vbox(757.32147+0.0)x464.40514
+..\hbox(18.03146+0.0)x464.40514
+...\glue 3.33333 plus 1.66666 minus 1.11111
+...\vbox(17.23148+0.0)x20.95781 []
+...\vbox(17.23148+0.0)x20.95781 []
+...\vbox(17.23148+0.0)x20.95781 []
+...\vbox(17.23148+0.0)x20.95781 []
+...etc.
+..\glue(\lineskip) 0.0
+..\hbox(18.03146+0.0)x464.40514
+...\glue 3.33333 plus 1.66666 minus 1.11111
+...\vbox(17.23148+0.0)x20.95781 []
+...\vbox(17.23148+0.0)x20.95781 []
+...\vbox(17.23148+0.0)x20.95781 []
+...\vbox(17.23148+0.0)x20.95781 []
+...etc.
+..\glue(\lineskip) 0.0
+..\hbox(18.03146+0.0)x464.40514
+...\glue 3.33333 plus 1.66666 minus 1.11111
+...\vbox(17.23148+0.0)x20.95781 []
+...\vbox(17.23148+0.0)x20.95781 []
+...\vbox(17.23148+0.0)x20.95781 []
+...\vbox(17.23148+0.0)x20.95781 []
+...etc.
+..etc.
+.\hbox(0.0+0.0)x542.025, glue set 542.025fil
+..\glue 0.0 plus 1.0fil
+
+
+[2] [3] )
+Output written on puzzle.dvi (3 pages, 59528 bytes).
