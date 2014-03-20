@@ -1,0 +1,122 @@
+\documentclass[a5paper, 12pt]{memoir}
+\usepackage[cm]{fullpage}
+\usepackage{pdfpages}
+\usepackage[T1]{fontenc}
+%\usepackage{libertine}
+\usepackage{luatextra}
+%\usepackage{urwgaramond}
+%\usepackage[utf8]{inputenc}
+\usepackage{gregoriotex}
+\setmainfont{EB Garamond}
+\setsansfont{Linux Biolinum O}
+\newfontfamily{\anavio}{EB Garamond}
+%\newfontfamily{\vectis}{Vectis}
+\newfontface{\vectis}{Vectis Bold}
+\newfontfamily{\libertine}{Linux Libertine O}
+\newfontface{\versicles}{Versiculum}
+\newfontface{\inglesh}{Worstveld Sling}
+%\usepackage{parallel}
+%\usepackage{lettrine}
+\newfontface{\cruci}{Juuji}
+
+\renewcommand\gretranslationformat[1]{{\inglesh \fontsize{14}{10}\selectfont #1}}
+\def\latin#1{\selectlanguage{latin}#1\selectlanguage{british}\\}
+\def\vern#1{{\inglesh \fontsize{14}{11}\selectfont #1}\par}
+
+\newcommand\maltese{{\tiny \cruci V}\ }
+
+\renewcommand\Vbar{\makebox[1em][l]{\versicles v}}
+\renewcommand\Rbar{\makebox[1em][l]{\versicles r}}
+
+\let\oldtextbf\textbf
+
+\newcommand\rubrics[1]{\textit{#1}}
+\newcommand\bibleref[2]{\oldtextbf{#1} \hfill \textit{#2}}
+\newcommand\psalm[1]{~ \hfill \oldtextbf{Psalm #1.} \hfill ~}
+
+\makepagestyle{kidschant}
+\makeevenfoot{kidschant}{}{2014 kidschant.com}{}
+\makeoddfoot{kidschant}{}{2014 kidschant.com}{}
+
+\setcounter{secnumdepth}{-1}
+
+\title{Kids Chant}
+\author{Veronica Brandt}
+\date{2014}
+
+\begin{document}
+
+\setlength{\parindent}{0mm}
+
+\pagestyle{kidschant}
+
+\setcounter{secnumdepth}{0}
+
+\renewcommand\textbf[1]{%
+    \pdfliteral direct {2 Tr 0.2 w}%
+     \oldtextbf{#1}%
+    \pdfliteral direct {0 Tr 0 w}%
+}
+\newcommand\embolden[1]{%
+    \pdfliteral direct {2 Tr 0.2 w}%
+     #1%
+    \pdfliteral direct {0 Tr 0 w}%
+}
+\renewcommand\greboldfont[1]{%
+    \pdfliteral direct {2 Tr 0.2 w}%
+    \oldtextbf{#1}%
+    \pdfliteral direct {0 Tr 0 w}%
+}
+
+\begin{center}
+\textsc{Sorrowful Mysteries}
+\end{center}
+
+%The Agony in the Garden
+
+\includescore{gabc/co--pater_si_non_potest--solesmes}
+
+\bigskip
+
+\emph{My Father, if it be possible, let this chalice pass from me. Nevertheless not as I will, but as thou wilt.} \qquad Matthew 26:39
+
+\bigskip
+
+%The Scourging at the Pillar
+
+\includescore{gabc/im--ego_te_pavi--solesmes}
+
+\bigskip
+
+\emph{I fed thee with manna in the desert; and thou hast beaten Me with whips and scourges.}
+
+\bigskip
+
+%The Crowning with Thorns
+
+\includescore{gabc/im--ego_dedi_tibi--solesmes}
+
+\bigskip
+
+\emph{I gave thee a royal sceptre: and thou hast given to My head a crown of thorns.}
+
+\bigskip
+
+The Carrying of the Cross
+
+\includescore{gabc/an--adoramus_te--solesmes}
+
+\emph{We adore thee, O Christ, and we bless thee, because by thy holy Cross thou hast redeemed the world.}
+
+\bigskip
+
+The Crucifixion
+
+\includescore{gabc/im--hagios_o_theos--solesmes}
+
+\includescore{gabc/hagiosischyros}
+
+\emph{Holy God, Holy Mighty One, Holy Immortal One, have mercy on us and on the whole world!}
+
+\end{document}
+
