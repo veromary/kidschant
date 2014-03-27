@@ -1,0 +1,13 @@
+InfoKey: Creator
+InfoValue: dvips(k) 5.992 Copyright 2012 Radical Eye Software
+InfoKey: Title
+InfoValue: puzzle.dvi
+InfoKey: Producer
+InfoValue: GPL Ghostscript 9.05
+InfoKey: ModDate
+InfoValue: D:20140319221301+11'00'
+InfoKey: CreationDate
+InfoValue: D:20140319221301+11'00'
+PdfID0: 67206b872e99f4a7928e30e95ccf9b43
+PdfID1: 67206b872e99f4a7928e30e95ccf9b43
+NumberOfPages: 3

@@ -1,0 +1,47 @@
+This is TeX, Version 3.1415926 (TeX Live 2012/Debian) (format=tex 2014.3.6)  27 MAR 2014 15:57
+**justpater.tex
+(./justpater.tex
+Underfull \vbox (badness 10000) detected at line 17
+
+\vbox(227.62204+1.94444)x469.75499
+.\hbox(6.94444+1.94444)x469.75499, glue set 224.8657fil
+..\tenrm P
+..\kern-0.27779
+..\tenrm a
+..\tenrm t
+..\tenrm e
+..etc.
+.\penalty 150
+.\glue(\baselineskip) 3.11111
+.\hbox(6.94444+1.94444)x469.75499, glue set 170.5322fil
+..\tenrm A
+..\tenrm d
+..\tenrm v
+..\kern-0.27779
+..\tenrm e
+..etc.
+.\glue(\baselineskip) 3.11111
+.etc.
+
+
+Overfull \hbox (108.69159pt too wide) in paragraph at lines 11--18
+[] [] |
+
+\hbox(227.62204+1.94444)x469.75499
+.\hbox(0.0+0.0)x20.0
+.\glue 85.35826
+.\hbox(227.62204+1.94444)x473.08832
+..\glue 3.33333 plus 1.66666 minus 1.11111
+..\vbox(227.62204+1.94444)x469.75499
+...\hbox(6.94444+1.94444)x469.75499, glue set 224.8657fil []
+...\penalty 150
+...\glue(\baselineskip) 3.11111
+...\hbox(6.94444+1.94444)x469.75499, glue set 170.5322fil []
+...\glue(\baselineskip) 3.11111
+...etc.
+.\penalty 10000
+.\glue(\parfillskip) 0.0 plus 1.0fil
+.etc.
+
+[1] )
+Output written on justpater.dvi (1 page, 604 bytes).
