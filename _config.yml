@@ -2,6 +2,6 @@
 pygments: true
 auto: true
 
-url: http://localhost:4000
-#url: http://www.kidschant.com
+#url: http://localhost:4000
+url: http://www.kidschant.com
 
