@@ -21,8 +21,7 @@
 </reading>
 
 <matching-exercise>
-<default-right-item>???
-</default-right-item>
+<default-right-item>???</default-right-item>
 
 <pair>
 <left-item><text>ad altare</text>
@@ -61,6 +60,14 @@
 <fixed>1</fixed>
 </left-item>
 <right-item><text>unto ages</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>ad vitam</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>to life</text>
 <fixed>0</fixed>
 </right-item></pair>
 </matching-exercise>

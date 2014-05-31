@@ -4,12 +4,12 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <rdf:Description rdf:about="">
     <dc:creator>Veronica Brandt</dc:creator>
-    <dc:title>Exercise 1, second chunk</dc:title>
+    <dc:title>Third chunk</dc:title>
   </rdf:Description>
 </rdf:RDF><version>6</version>
 
 <data>
-<title>Exercise 1, second chunk</title>
+<title>Third chunk</title>
 
 <timer><seconds>60</seconds><include-timer>0</include-timer></timer>
 
@@ -21,70 +21,61 @@
 </reading>
 
 <matching-exercise>
-<default-right-item>???
-</default-right-item>
+<default-right-item>???</default-right-item>
 
 <pair>
-<left-item><text></text>
+<left-item><text>in nomine</text>
 <fixed>1</fixed>
 </left-item>
-<right-item><text></text>
+<right-item><text>in the name</text>
 <fixed>0</fixed>
 </right-item></pair>
 
 <pair>
-<left-item><text>ad Dominum</text>
+<left-item><text>de gente</text>
 <fixed>1</fixed>
 </left-item>
-<right-item><text>to the Lord</text>
+<right-item><text>from a nation</text>
 <fixed>0</fixed>
 </right-item></pair>
 
 <pair>
-<left-item><text>ad te</text>
+<left-item><text>ab homine</text>
 <fixed>1</fixed>
 </left-item>
-<right-item><text>unto thee</text>
+<right-item><text>from the man</text>
 <fixed>0</fixed>
 </right-item></pair>
 
 <pair>
-<left-item><text>apud Deum</text>
+<left-item><text>in cithara</text>
 <fixed>1</fixed>
 </left-item>
-<right-item><text>with God</text>
+<right-item><text>on the harp</text>
 <fixed>0</fixed>
 </right-item></pair>
 
 <pair>
-<left-item><text>ad laudem et gloriam</text>
+<left-item><text>in Deo</text>
 <fixed>1</fixed>
 </left-item>
-<right-item><text>to the praise and glory</text>
+<right-item><text>in God</text>
 <fixed>0</fixed>
 </right-item></pair>
 
 <pair>
-<left-item><text>ad nostram utilitatem</text>
+<left-item><text>in principio</text>
 <fixed>1</fixed>
 </left-item>
-<right-item><text>to our benefit</text>
+<right-item><text>in the beginning</text>
 <fixed>0</fixed>
 </right-item></pair>
 
 <pair>
-<left-item><text>per saecula</text>
+<left-item><text>pro me</text>
 <fixed>1</fixed>
 </left-item>
-<right-item><text>through ages</text>
-<fixed>0</fixed>
-</right-item></pair>
-
-<pair>
-<left-item><text>in tentationem</text>
-<fixed>1</fixed>
-</left-item>
-<right-item><text>into temptation</text>
+<right-item><text>for me</text>
 <fixed>0</fixed>
 </right-item></pair>
 </matching-exercise>
@@ -118,8 +109,8 @@
 <next-ex-caption>=&amp;#x003E;</next-ex-caption>
 <back-caption>&amp;#x003C;=</back-caption>
 <contents-caption>Index</contents-caption>
-<include-next-ex>0</include-next-ex>
-<include-contents>0</include-contents>
+<include-next-ex>1</include-next-ex>
+<include-contents>1</include-contents>
 <include-back>0</include-back>
 <contents-url>contents.htm</contents-url>
 <graphic-url></graphic-url>
