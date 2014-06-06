@@ -1,0 +1,49 @@
+This is TeX, Version 3.1415926 (TeX Live 2012/Debian) (format=tex 2014.3.6)  6 JUN 2014 13:56
+**puzzle.tex
+(./puzzle.tex (/home/veronica/texmf/tex/generic/puzmac.tex
+(/home/veronica/texmf/tex/generic/doubleco.tex
+\pagewidth=\dimen16
+\pageheight=\dimen17
+\colwidth=\dimen18
+\partialpage=\box16
+))
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(722.7+0.0)x632.06761
+.\vbox(0.0+0.0)x542.025, glue set 14.0fil
+..\glue -22.5
+..\hbox(8.5+0.0)x542.025, glue set 542.025fil
+...\vbox(8.5+0.0)x0.0
+...\glue 0.0 plus 1.0fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\glue(\topskip) 0.0
+.\vbox(431.15515+0.0)x632.06761
+..\hbox(17.23148+0.0)x632.06761
+...\glue 3.33333 plus 1.66666 minus 1.11111
+...\vbox(17.23148+0.0)x20.95781 []
+...\vbox(17.23148+0.0)x20.95781 []
+...\vbox(17.23148+0.0)x20.95781 []
+...\vbox(17.23148+0.0)x20.95781 []
+...etc.
+..\glue(\lineskip) 0.0
+..\hbox(18.03146+0.0)x632.06761
+...\glue 3.33333 plus 1.66666 minus 1.11111
+...\vbox(17.23148+0.0)x20.95781 []
+...\vbox(17.23148+0.0)x20.95781 []
+...\vbox(17.23148+0.0)x20.95781 []
+...\vbox(17.23148+0.0)x20.95781 []
+...etc.
+..\glue(\lineskip) 0.0
+..\hbox(18.03146+0.0)x632.06761
+...\glue 3.33333 plus 1.66666 minus 1.11111
+...\vbox(17.23148+0.0)x20.95781 []
+...\vbox(17.23148+0.0)x20.95781 []
+...\vbox(17.23148+0.0)x20.95781 []
+...\vbox(17.23148+0.0)x20.95781 []
+...etc.
+..etc.
+.\hbox(0.0+0.0)x542.025, glue set 542.025fil
+..\glue 0.0 plus 1.0fil
+
+ [1]
+[2] [3] )
+Output written on puzzle.dvi (3 pages, 44528 bytes).
