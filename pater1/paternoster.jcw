@@ -42,7 +42,7 @@
 <include-hint>1</include-hint>
 <case-sensitive>0</case-sensitive>
 <next-ex-url>nextpage.htm</next-ex-url>
-<send-email>0</send-email>
+<send-email>1</send-email>
 <separate-javascript-file>0</separate-javascript-file>
 </jcross>
 
@@ -71,8 +71,8 @@
 <link-color>#0000FF</link-color>
 <vlink-color>#0000CC</vlink-color>
 <nav-bar-color>#ffff80</nav-bar-color>
-<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
-<email>you@yourserver.com</email>
+<formmail-url>http://repleatur.net/cgi-bin/FormMail.pl</formmail-url>
+<email>answers@kidschant.com</email>
 <name-please>Please enter your name:</name-please>
 <user-string-1>one</user-string-1>
 <user-string-2>two</user-string-2>
