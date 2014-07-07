@@ -2293,10 +2293,14 @@ function PrintResultsTable(doc) {
   }
   doc.writeln("<TR class='results_TH_class'><TD nowrap class='results_TD_class'><SPAN class='results_table_others_class'>&#160;&#160;Date</SPAN></TD>");
   doc.writeln("    <TD class='results_TD_class' nowrap><SPAN class='results_table_others_class'>&#160;&#160;"+DataToStringa()+"</SPAN></TD></TR>");
+
   if (computeMarkErr==0) {
   doc.writeln("<TR class='results_TH_class'><TD nowrap class='results_TD_class'><SPAN class='results_table_mark_class'>&#160;&#160;MARK</SPAN></TD>");
+   if (maxvoto == voto) {
+  doc.writeln(" <td class='results_TD_class' nowrap><span class='results_table_mark_class'>&#160; Congratulations! You got full marks! <a href="http://www.kidschant.com/images/Paternoster.png">Here</a> is your certificate.</span></td></tr>
+} else {
   doc.writeln("    <TD class='results_TD_class' nowrap><SPAN class='results_table_mark_class'>&#160;&#160;"+GetVoto(voto)+"</SPAN></TD></TR>");
-  } else {
+}  } else {
   doc.writeln("<TR class='results_TH_class'><TD nowrap class='results_TD_class'><SPAN class='results_table_mark_class'>&#160;&#160;MARK</SPAN></TD>");
   doc.writeln("    <TD class='results_TD_class' nowrap><SPAN class='results_table_mark_class'>&#160;&#160;No mark</SPAN></TD></TR>");
   }
