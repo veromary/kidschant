@@ -31,7 +31,7 @@ var incl_linkback = 1;
 var questSlide  = 0;
 var lockRightAns = 0;
 var reportNotation  = 1;
-var remRepAlways  = 0;
+var remRepAlways  = 1;
 var confirmEachQst = 1;
 var compressReport = 0
 var finalMess = '';
@@ -2345,7 +2345,7 @@ function initShortQuestion() {
  qstHead[8]="Fill in the blanks for the last part of the Pater Noster:";
  qstHead[9]="Which noster/nostra/nostrum goes with which gender?";
  qstHead[10]="Three ways to translate debita";
- qstHead[11]="Malevolent, malicious and maleficient all come from the Latin word malo whi...";
+ qstHead[11]="Malevolent, malicious and maleficient all come from the Latin word malo which means:";
  qstHead[12]="True or false?";
  qstHead[13]="Match the Latin with its translation:";
  qstHead[14]="Which word means Name:";
