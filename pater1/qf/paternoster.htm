@@ -1,0 +1,1275 @@
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; CHARSET=Windows-1252">
+<META name="Author" content="Produced using Galli's QuizFaber 3.0">
+<META name="generator" content="Galli's QuizFaber 3.0">
+<META name="keywords" content="quiz">
+<META name="description" content="Pater Noster Vocabulary">
+<TITLE>Quiz</TITLE>
+<LINK href="css/paternoster.css" rel="stylesheet" type="text/css">
+<STYLE>
+<!--
+.cardShow  { display: block; position:absolute; }
+.cardHide  { display: none;  position:absolute; }
+.checkShow { display: block; position:relative; }
+.checkHide { display: none;  position:absolute; }
+.spaceShow { display: block; position:relative; }
+.spaceHide { display: none;  position:absolute; }
+A { text-decoration:none }
+.UStyle { text-decoration :none}
+.tooltipShow { display: block; position:absolute; }
+.tooltipHide { display: none; position:absolute; }
+.okButtonClass { display: block;  }
+.okButtonHidden { display: none;  }
+textarea  { border:1px solid #999999; width:100%; margin:5px 0; padding:3px; }
+-->
+</STYLE>
+<SCRIPT LANGUAGE='JavaScript' SRC='./paternoster.js'></SCRIPT>
+
+<script language="javascript" type="text/javascript">
+function startQuiz() {
+  var status;
+
+  Constructor();
+  window.focus();
+  UnmanageAllDialogs();
+  init_valid();
+  AskMeName();
+  startFloatLayer();
+  oldtime=StartTime();
+  Timer();
+  if (n_repeat==0) initShortQuestion();
+  end_test=0;
+}
+
+</script>
+</HEAD>
+<BODY OnLoad='startQuiz()'>
+<div style="width:100%; margin:0 auto;">
+<script language="javascript" type="text/javascript">
+if (n_repeat==0) {
+  keyword = "ut243AR";
+}
+</script>
+  <form class="hidden_style"><input type="hidden" id="hidden_url" value="css/paternoster.css"></form>
+<CENTER>
+<SPAN class='quiz_title_class'>Pater Noster Vocabulary</SPAN><BR>
+</CENTER>
+<HR class='horizontal-bar'>
+<FORM NAME='domanda'>
+
+<TABLE id='FloatingStatusbarPanel' width='95%' style='position:absolute; left:100px; top:-100px; z-index:2;'>
+<TR>
+<TD ALIGN='left' ID='clock' CLASS='floating_statusbar_class'>00:30:00</TD>
+<TD ALIGN='center' CLASS='floating_statusbar_class'>
+correct :<SPAN ID='nRight'>0</SPAN>
+</TD><TD ALIGN='center' CLASS='floating_statusbar_class'>
+wrong :<SPAN ID='nWrong'>0</SPAN>
+</TD><TD ALIGN='center' CLASS='floating_statusbar_class'>
+to be answered :<SPAN ID='nToDo'>15</SPAN>
+</TD><TD ALIGN='right' CLASS='floating_statusbar_class'>
+</TD></TR></TABLE>
+
+<script language="javascript" type="text/javascript">
+function initValuate1()
+{
+ this.length = 4;
+ var choice,valuation,remark;
+ if (document.domanda.radio001000[0].checked==true) choice=1;
+ else if (document.domanda.radio001000[1].checked==true) choice=0;
+ else choice=-1;
+ valuation = DecodeNumber('RDe6p9XouCM=',488,-1,1);
+ this[0] = new AnsReport(choice,valuation,'',0);
+ if (document.domanda.radio001001[0].checked==true) choice=1;
+ else if (document.domanda.radio001001[1].checked==true) choice=0;
+ else choice=-1;
+ valuation = DecodeNumber('/ddOSLNP+OM=',501,-1,1);
+ this[1] = new AnsReport(choice,valuation,'',0);
+ if (document.domanda.radio001002[0].checked==true) choice=1;
+ else if (document.domanda.radio001002[1].checked==true) choice=0;
+ else choice=-1;
+ valuation = DecodeNumber('42ap3+uv3x8=',514,-1,1);
+ this[2] = new AnsReport(choice,valuation,'',0);
+ if (document.domanda.radio001003[0].checked==true) choice=1;
+ else if (document.domanda.radio001003[1].checked==true) choice=0;
+ else choice=-1;
+ valuation = DecodeNumber('rRLKen4jICc=',527,-1,1);
+ this[3] = new AnsReport(choice,valuation,'',0);
+ pesi[0]=DecodeNumber('qx3WAzX+jhA=',530,0,99999);
+
+}
+
+function Domanda1()
+{
+ var status;
+ if (valid[0]!=0) { DoneBefore(); return; }
+ if (!checkTrueOrFalse(document.domanda.radio001000)) { IncompletedQuest(); return 0; }
+ if (!checkTrueOrFalse(document.domanda.radio001001)) { IncompletedQuest(); return 0; }
+ if (!checkTrueOrFalse(document.domanda.radio001002)) { IncompletedQuest(); return 0; }
+ if (!checkTrueOrFalse(document.domanda.radio001003)) { IncompletedQuest(); return 0; }
+ allAnsReport[0] = new initValuate1();
+ doValuate(0);
+ PrintBooleanAnswer(0,0);
+ return 1;
+}
+
+</script>
+<IMG SRC="media/check.png" CLASS='checkHide' ID='check0' ALIGN='LEFT' HSPACE='5'>
+<A NAME='qstAnchor0'>
+</A>
+<SPAN class='quiz_quest_header_class'> Question 1  </SPAN>
+<DIV ID='hideAns0' CLASS='cardHide'>
+<TABLE class="qst_feedback_table_class"><TR class="qst_feedback_TH_class"><TD CLASS="qst_feedback_TD_class">
+<SPAN ID='hideTxt0'></SPAN>
+</TD></TR></TABLE>
+</DIV>
+<BR />
+<TABLE WIDTH="100%">
+<TR><TD class="quiz_quest_class">
+<b><span style="background-color:#FFFFFF;font-family:Times New Roman;font-size:12pt;">True or false?</span></b></TD></TR></TABLE>
+<BR />
+<TABLE WIDTH='100%'>
+<TR><TD WIDTH='50' ALIGN='CENTER' class="quiz_letter_class">
+<SPAN class='quiz_letter_class'> A </SPAN></TD>
+<TD ALIGN='LEFT' class="quiz_table_answer"><span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">Pater means Our.</span></TD></TR>
+<TR><TD WIDTH='50'></TD><TD ALIGN='LEFT'><INPUT TYPE='radio' NAME='radio001000'> <SPAN class='true_false_class'>TRUE</SPAN> <INPUT TYPE='radio' NAME='radio001000'> <SPAN class='true_false_class'>FALSE</SPAN></TD></TR>
+<TR><TD WIDTH='50' ALIGN='CENTER' class="quiz_letter_class">
+<SPAN class='quiz_letter_class'> B </SPAN></TD>
+<TD ALIGN='LEFT' class="quiz_table_answer"><span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">qui means who</span></TD></TR>
+<TR><TD WIDTH='50'></TD><TD ALIGN='LEFT'><INPUT TYPE='radio' NAME='radio001001'> <SPAN class='true_false_class'>TRUE</SPAN> <INPUT TYPE='radio' NAME='radio001001'> <SPAN class='true_false_class'>FALSE</SPAN></TD></TR>
+<TR><TD WIDTH='50' ALIGN='CENTER' class="quiz_letter_class">
+<SPAN class='quiz_letter_class'> C </SPAN></TD>
+<TD ALIGN='LEFT' class="quiz_table_answer"><span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">caelum means heaven</span></TD></TR>
+<TR><TD WIDTH='50'></TD><TD ALIGN='LEFT'><INPUT TYPE='radio' NAME='radio001002'> <SPAN class='true_false_class'>TRUE</SPAN> <INPUT TYPE='radio' NAME='radio001002'> <SPAN class='true_false_class'>FALSE</SPAN></TD></TR>
+<TR><TD WIDTH='50' ALIGN='CENTER' class="quiz_letter_class">
+<SPAN class='quiz_letter_class'> D </SPAN></TD>
+<TD ALIGN='LEFT' class="quiz_table_answer"><span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">rex means king</span></TD></TR>
+<TR><TD WIDTH='50'></TD><TD ALIGN='LEFT'><INPUT TYPE='radio' NAME='radio001003'> <SPAN class='true_false_class'>TRUE</SPAN> <INPUT TYPE='radio' NAME='radio001003'> <SPAN class='true_false_class'>FALSE</SPAN></TD></TR>
+</TABLE>
+<P><CENTER>
+<SPAN id='okButtonId0' class='okButtonClass'><INPUT TYPE='button' VALUE='OK' onClick="Domanda1()" class="quiz_verify_box_class"></SPAN></CENTER>
+<HR class='horizontal-bar'>
+<script language="javascript" type="text/javascript">
+function initValuate2()
+{
+ this.length = 4;
+ var choice,valuation,remark,data,answer;
+ if (document.domanda.radio002000.checked==true) choice=1; else choice=0;
+ answer = "";
+ remark = "";
+ valuation = DecodeNumber('177LHr+FXG0=',553,-1,1);
+ this[0] = new AnsReport(choice,valuation,remark,0,answer);
+ if (document.domanda.radio002001.checked==true) choice=1; else choice=0;
+ answer = "";
+ remark = "";
+ valuation = DecodeNumber('ZyOzFfOpwDM=',566,-1,1);
+ this[1] = new AnsReport(choice,valuation,remark,0,answer);
+ if (document.domanda.radio002002.checked==true) choice=1; else choice=0;
+ answer = "";
+ remark = "";
+ valuation = DecodeNumber('ljdjDKQ1rKQ=',579,-1,1);
+ this[2] = new AnsReport(choice,valuation,remark,0,answer);
+ if (document.domanda.radio002003.checked==true) choice=1; else choice=0;
+ answer = "";
+ remark = "";
+ valuation = DecodeNumber('q1D4El61MHo=',592,-1,1);
+ this[3] = new AnsReport(choice,valuation,remark,0,answer);
+ pesi[1]=DecodeNumber('Tjauhlttz3E=',595,0,99999);
+
+}
+
+function Domanda2()
+{
+ if (valid[1]!=0) { DoneBefore(); return; }
+ allAnsReport[1] = new initValuate2();
+ doValuate(1);
+ PrintAnswer(1,1);
+ return 1;
+}
+
+</script>
+<IMG SRC="media/check.png" CLASS='checkHide' ID='check1' ALIGN='LEFT' HSPACE='5'>
+<A NAME='qstAnchor1'>
+</A>
+<SPAN class='quiz_quest_header_class'> Question 2  </SPAN>
+<DIV ID='hideAns1' CLASS='cardHide'>
+<TABLE class="qst_feedback_table_class"><TR class="qst_feedback_TH_class"><TD CLASS="qst_feedback_TD_class">
+<SPAN ID='hideTxt1'></SPAN>
+</TD></TR></TABLE>
+</DIV>
+<BR />
+<TABLE WIDTH="100%">
+<TR><TD class="quiz_quest_class">
+<b><span style="background-color:#FFFFFF;font-family:Times New Roman;font-size:12pt;">Noster means:</span></b></TD></TR></TABLE>
+<BR />
+<TABLE WIDTH='100%'>
+<TR>
+<TD ALIGN='CENTER' class="quiz_letter_class"  WIDTH='50'>
+<SPAN class='quiz_letter_class'> A </SPAN><INPUT TYPE='radio' NAME='radio002000'  OnClick=" document.domanda.radio002001.checked=0; document.domanda.radio002002.checked=0; document.domanda.radio002003.checked=0;" ></TD>
+<TD ALIGN='LEFT' class="quiz_answer_class">
+<span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">Our</span></TD>
+</TR>
+<TR>
+<TD ALIGN='CENTER' class="quiz_letter_class"  WIDTH='50'>
+<SPAN class='quiz_letter_class'> B </SPAN><INPUT TYPE='radio' NAME='radio002001'  OnClick=" document.domanda.radio002000.checked=0; document.domanda.radio002002.checked=0; document.domanda.radio002003.checked=0;" ></TD>
+<TD ALIGN='LEFT' class="quiz_answer_class">
+<span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">Tree</span></TD>
+</TR>
+<TR>
+<TD ALIGN='CENTER' class="quiz_letter_class"  WIDTH='50'>
+<SPAN class='quiz_letter_class'> C </SPAN><INPUT TYPE='radio' NAME='radio002002'  OnClick=" document.domanda.radio002000.checked=0; document.domanda.radio002001.checked=0; document.domanda.radio002003.checked=0;" ></TD>
+<TD ALIGN='LEFT' class="quiz_answer_class">
+<span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">Father</span></TD>
+</TR>
+<TR>
+<TD ALIGN='CENTER' class="quiz_letter_class"  WIDTH='50'>
+<SPAN class='quiz_letter_class'> D </SPAN><INPUT TYPE='radio' NAME='radio002003'  OnClick=" document.domanda.radio002000.checked=0; document.domanda.radio002001.checked=0; document.domanda.radio002002.checked=0;" ></TD>
+<TD ALIGN='LEFT' class="quiz_answer_class">
+<span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">Us</span></TD>
+</TR>
+</TABLE>
+<P><CENTER>
+<SPAN id='okButtonId1' class='okButtonClass'><INPUT TYPE='button' VALUE='OK' onClick="Domanda2()" class="quiz_verify_box_class"></SPAN></CENTER>
+<HR class='horizontal-bar'>
+<script language="javascript" type="text/javascript">
+function initValuate3()
+{
+ this.length = 2;
+ var choice,valuation,data,remark;
+ choice = document.domanda.gap003000.value;
+ valuation = new init_array(1);
+ valuation.length = 1;
+ valuation[0] = unescape(DecodeString("UcApMonQ13A="));
+ data = unescape("<span style=%22background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;%22>Pater noster, ");
+ this[0] = new AnsReport(choice,valuation,data,0);
+ choice = document.domanda.gap003001.value;
+ valuation = new init_array(1);
+ valuation.length = 1;
+ valuation[0] = unescape(DecodeString("29wQPNjh/ms="));
+ data = unescape(" es in caelis. Sanctificetur ");
+ this[1] = new AnsReport(choice,valuation,data,0);
+ pesi[2]=DecodeNumber('Wb2ettfOhqU=',617,0,99999);
+
+}
+
+function Domanda3()
+{
+ var status;
+ if (valid[2]!=0) { DoneBefore(); return; }
+ allAnsReport[2] = new initValuate3();
+ doValuate(2);
+ PrintBooleanAnswer(2,2);
+ return 1;
+}
+
+</script>
+<IMG SRC="media/check.png" CLASS='checkHide' ID='check2' ALIGN='LEFT' HSPACE='5'>
+<A NAME='qstAnchor2'>
+</A>
+<SPAN class='quiz_quest_header_class'> Question 3  </SPAN>
+<DIV ID='hideAns2' CLASS='cardHide'>
+<TABLE class="qst_feedback_table_class"><TR class="qst_feedback_TH_class"><TD CLASS="qst_feedback_TD_class">
+<SPAN ID='hideTxt2'></SPAN>
+</TD></TR></TABLE>
+</DIV>
+<BR />
+<TABLE WIDTH="100%">
+<TR><TD class="quiz_quest_class">
+<b><span style="background-color:#FFFFFF;font-family:Times New Roman;font-size:12pt;">Fill in the blanks in the first part of the Pater noster.</span></b></TD></TR></TABLE>
+<BR />
+<TABLE WIDTH='100%'>
+<TR><TD ALIGN='LEFT' class='quiz_answer_class' style='padding:5px'>
+<span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">Pater noster,  <INPUT TYPE='text' NAME='gap003000' SIZE=8>  es in caelis. Sanctificetur  <INPUT TYPE='text' NAME='gap003001' SIZE=8>  tuum.</span></TD></TR></TABLE>
+<P><CENTER>
+<SPAN id='okButtonId2' class='okButtonClass'><INPUT TYPE='button' VALUE='OK' onClick="Domanda3()" class="quiz_verify_box_class"></SPAN></CENTER>
+<HR class='horizontal-bar'>
+<script language="javascript" type="text/javascript">
+function initValuate4()
+{
+ this.length = 4;
+ var choice,valuation,remark,data,answer;
+ if (document.domanda.radio004000.checked==true) choice=1; else choice=0;
+ answer = "";
+ remark = "";
+ valuation = DecodeNumber('Lxl+W0wYMTQ=',640,-1,1);
+ this[0] = new AnsReport(choice,valuation,remark,0,answer);
+ if (document.domanda.radio004001.checked==true) choice=1; else choice=0;
+ answer = "";
+ remark = "";
+ valuation = DecodeNumber('dRaPk8M2YHQ=',653,-1,1);
+ this[1] = new AnsReport(choice,valuation,remark,0,answer);
+ if (document.domanda.radio004002.checked==true) choice=1; else choice=0;
+ answer = "";
+ remark = "";
+ valuation = DecodeNumber('lNcIn0N6c9k=',666,-1,1);
+ this[2] = new AnsReport(choice,valuation,remark,0,answer);
+ if (document.domanda.radio004003.checked==true) choice=1; else choice=0;
+ answer = "";
+ remark = "";
+ valuation = DecodeNumber('2Mp5y9787fU=',679,-1,1);
+ this[3] = new AnsReport(choice,valuation,remark,0,answer);
+ pesi[3]=DecodeNumber('dr02uEFNyUY=',682,0,99999);
+
+}
+
+function Domanda4()
+{
+ if (valid[3]!=0) { DoneBefore(); return; }
+ allAnsReport[3] = new initValuate4();
+ doValuate(3);
+ PrintAnswer(3,3);
+ return 1;
+}
+
+</script>
+<IMG SRC="media/check.png" CLASS='checkHide' ID='check3' ALIGN='LEFT' HSPACE='5'>
+<A NAME='qstAnchor3'>
+</A>
+<SPAN class='quiz_quest_header_class'> Question 4  </SPAN>
+<DIV ID='hideAns3' CLASS='cardHide'>
+<TABLE class="qst_feedback_table_class"><TR class="qst_feedback_TH_class"><TD CLASS="qst_feedback_TD_class">
+<SPAN ID='hideTxt3'></SPAN>
+</TD></TR></TABLE>
+</DIV>
+<BR />
+<TABLE WIDTH="100%">
+<TR><TD class="quiz_quest_class">
+<b><span style="background-color:#FFFFFF;font-family:Times New Roman;font-size:12pt;">in terra means: </span></b></TD></TR></TABLE>
+<BR />
+<TABLE WIDTH='100%'>
+<TR>
+<TD ALIGN='CENTER' class="quiz_letter_class"  WIDTH='50'>
+<SPAN class='quiz_letter_class'> A </SPAN><INPUT TYPE='radio' NAME='radio004000'  OnClick=" document.domanda.radio004001.checked=0; document.domanda.radio004002.checked=0; document.domanda.radio004003.checked=0;" ></TD>
+<TD ALIGN='LEFT' class="quiz_answer_class">
+<span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">in terror</span></TD>
+</TR>
+<TR>
+<TD ALIGN='CENTER' class="quiz_letter_class"  WIDTH='50'>
+<SPAN class='quiz_letter_class'> B </SPAN><INPUT TYPE='radio' NAME='radio004001'  OnClick=" document.domanda.radio004000.checked=0; document.domanda.radio004002.checked=0; document.domanda.radio004003.checked=0;" ></TD>
+<TD ALIGN='LEFT' class="quiz_answer_class">
+<span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">on earth</span></TD>
+</TR>
+<TR>
+<TD ALIGN='CENTER' class="quiz_letter_class"  WIDTH='50'>
+<SPAN class='quiz_letter_class'> C </SPAN><INPUT TYPE='radio' NAME='radio004002'  OnClick=" document.domanda.radio004000.checked=0; document.domanda.radio004001.checked=0; document.domanda.radio004003.checked=0;" ></TD>
+<TD ALIGN='LEFT' class="quiz_answer_class">
+<span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">in heaven</span></TD>
+</TR>
+<TR>
+<TD ALIGN='CENTER' class="quiz_letter_class"  WIDTH='50'>
+<SPAN class='quiz_letter_class'> D </SPAN><INPUT TYPE='radio' NAME='radio004003'  OnClick=" document.domanda.radio004000.checked=0; document.domanda.radio004001.checked=0; document.domanda.radio004002.checked=0;" ></TD>
+<TD ALIGN='LEFT' class="quiz_answer_class">
+<span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">on mars</span></TD>
+</TR>
+</TABLE>
+<P><CENTER>
+<SPAN id='okButtonId3' class='okButtonClass'><INPUT TYPE='button' VALUE='OK' onClick="Domanda4()" class="quiz_verify_box_class"></SPAN></CENTER>
+<HR class='horizontal-bar'>
+<script language="javascript" type="text/javascript">
+function initValuate5()
+{
+ this.length = 4;
+ var choice,valuation,remark,data,answer;
+ if (document.domanda.radio005000.checked==true) choice=1; else choice=0;
+ answer = "";
+ remark = "";
+ valuation = DecodeNumber('ZTOcScoLJ/k=',705,-1,1);
+ this[0] = new AnsReport(choice,valuation,remark,0,answer);
+ if (document.domanda.radio005001.checked==true) choice=1; else choice=0;
+ answer = "";
+ remark = "";
+ valuation = DecodeNumber('nd3MVFKHEfI=',718,-1,1);
+ this[1] = new AnsReport(choice,valuation,remark,0,answer);
+ if (document.domanda.radio005002.checked==true) choice=1; else choice=0;
+ answer = "";
+ remark = "";
+ valuation = DecodeNumber('cCI50IIKhOY=',731,-1,1);
+ this[2] = new AnsReport(choice,valuation,remark,0,answer);
+ if (document.domanda.radio005003.checked==true) choice=1; else choice=0;
+ answer = "";
+ remark = "";
+ valuation = DecodeNumber('anS8j/Y+WNk=',744,-1,1);
+ this[3] = new AnsReport(choice,valuation,remark,0,answer);
+ pesi[4]=DecodeNumber('4X5Lx3mhToE=',747,0,99999);
+
+}
+
+function Domanda5()
+{
+ if (valid[4]!=0) { DoneBefore(); return; }
+ allAnsReport[4] = new initValuate5();
+ doValuate(4);
+ PrintAnswer(4,4);
+ return 1;
+}
+
+</script>
+<IMG SRC="media/check.png" CLASS='checkHide' ID='check4' ALIGN='LEFT' HSPACE='5'>
+<A NAME='qstAnchor4'>
+</A>
+<SPAN class='quiz_quest_header_class'> Question 5  </SPAN>
+<DIV ID='hideAns4' CLASS='cardHide'>
+<TABLE class="qst_feedback_table_class"><TR class="qst_feedback_TH_class"><TD CLASS="qst_feedback_TD_class">
+<SPAN ID='hideTxt4'></SPAN>
+</TD></TR></TABLE>
+</DIV>
+<BR />
+<TABLE WIDTH="100%">
+<TR><TD class="quiz_quest_class">
+<b><span style="background-color:#FFFFFF;font-family:Times New Roman;font-size:12pt;">Be hallowed in Latin is</span></b></TD></TR></TABLE>
+<BR />
+<TABLE WIDTH='100%'>
+<TR>
+<TD ALIGN='CENTER' class="quiz_letter_class"  WIDTH='50'>
+<SPAN class='quiz_letter_class'> A </SPAN><INPUT TYPE='radio' NAME='radio005000'  OnClick=" document.domanda.radio005001.checked=0; document.domanda.radio005002.checked=0; document.domanda.radio005003.checked=0;" ></TD>
+<TD ALIGN='LEFT' class="quiz_answer_class">
+<span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">nomen tuum</span></TD>
+</TR>
+<TR>
+<TD ALIGN='CENTER' class="quiz_letter_class"  WIDTH='50'>
+<SPAN class='quiz_letter_class'> B </SPAN><INPUT TYPE='radio' NAME='radio005001'  OnClick=" document.domanda.radio005000.checked=0; document.domanda.radio005002.checked=0; document.domanda.radio005003.checked=0;" ></TD>
+<TD ALIGN='LEFT' class="quiz_answer_class">
+<span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">in caelis</span></TD>
+</TR>
+<TR>
+<TD ALIGN='CENTER' class="quiz_letter_class"  WIDTH='50'>
+<SPAN class='quiz_letter_class'> C </SPAN><INPUT TYPE='radio' NAME='radio005002'  OnClick=" document.domanda.radio005000.checked=0; document.domanda.radio005001.checked=0; document.domanda.radio005003.checked=0;" ></TD>
+<TD ALIGN='LEFT' class="quiz_answer_class">
+<span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">sanctificetur</span></TD>
+</TR>
+<TR>
+<TD ALIGN='CENTER' class="quiz_letter_class"  WIDTH='50'>
+<SPAN class='quiz_letter_class'> D </SPAN><INPUT TYPE='radio' NAME='radio005003'  OnClick=" document.domanda.radio005000.checked=0; document.domanda.radio005001.checked=0; document.domanda.radio005002.checked=0;" ></TD>
+<TD ALIGN='LEFT' class="quiz_answer_class">
+<span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">benedicamus</span></TD>
+</TR>
+</TABLE>
+<P><CENTER>
+<SPAN id='okButtonId4' class='okButtonClass'><INPUT TYPE='button' VALUE='OK' onClick="Domanda5()" class="quiz_verify_box_class"></SPAN></CENTER>
+<HR class='horizontal-bar'>
+<script language="javascript" type="text/javascript">
+function initValuate6()
+{
+  this.length = 4;
+  var i,j,n,m,a,b,num;
+  var choice,valuation,data;
+  for (i=0; i<ordineLeft5.length*2; i+=2) {
+    n = getSelezione(document.domanda.select5[i]);
+    m = getSelezione(document.domanda.select5[i+1]);
+    a = ordineLeft5[n];
+    b = ordineRight5[m];
+    choice = new init_array(2);
+    choice.length = 2;
+    choice[0]=listaLeft5[a]
+    choice[1]=listaRight5[b];
+    num=0;
+    for (j=0; j<listaLeft5.length; j++)
+      if (listaLeft5[j]==listaLeft5[a]) num++;
+    valuation = new init_array(num);
+    valuation.length = num;
+    num=0;
+    for (j=0; j<listaLeft5.length; j++)
+      if (listaLeft5[j]==listaLeft5[a]) { valuation[num]=listaRight5[j]; num++; }
+    this[i/2] = new AnsReport(choice,valuation,'',0);
+  }
+ pesi[5]=DecodeNumber('MwRSGo/xHFI=',768,0,99999);
+
+}
+
+function Domanda6()
+{
+ var status;
+ if (valid[5]!=0) { DoneBefore(); return; }
+ allAnsReport[5] = new initValuate6();
+ doValuate(5);
+ var spaceObj = document.getElementById("space6");
+ spaceObj.className='spaceShow';
+ PrintBooleanAnswer(5,5);
+ return 1;
+}
+
+</script>
+<IMG SRC="media/check.png" CLASS='checkHide' ID='check5' ALIGN='LEFT' HSPACE='5'>
+<A NAME='qstAnchor5'>
+</A>
+<SPAN class='quiz_quest_header_class'> Question 6  </SPAN>
+<DIV ID='hideAns5' CLASS='cardHide'>
+<TABLE class="qst_feedback_table_class"><TR class="qst_feedback_TH_class"><TD CLASS="qst_feedback_TD_class">
+<SPAN ID='hideTxt5'></SPAN>
+</TD></TR></TABLE>
+</DIV>
+<BR />
+<TABLE WIDTH="100%">
+<TR><TD class="quiz_quest_class">
+<b><span style="background-color:#FFFFFF;font-family:Times New Roman;font-size:12pt;">Match up these words:</span></b></TD></TR></TABLE>
+<BR />
+<DIV CLASS='spaceHide' ID='space6'><BR><BR><BR></DIV>
+<TABLE WIDTH=100%>
+<script language="javascript" type="text/javascript">
+function creaListaLeft5() {
+  this.length = 4;
+ this[0] = unescape(DecodeString("hnKWodSn/8A="));
+ this[1] = unescape(DecodeString("3O3Qzz69T3M="));
+ this[2] = unescape(DecodeString("xFDJsRxepdw="));
+ this[3] = unescape(DecodeString("ZQQiJsbyBho="));
+}
+function creaListaRight5() {
+  this.length = 4;
+ this[0] = unescape(DecodeString("yMDiT96W7WE="));
+ this[1] = unescape(DecodeString("ynNhTT1Vwzs="));
+ this[2] = unescape(DecodeString("OqeBg1pYKSA="));
+ this[3] = unescape(DecodeString("YG/xtU6qzIM="));
+}
+  var listaLeft5   = new creaListaLeft5();
+  var listaRight5  = new creaListaRight5();
+  var ordineLeft5  = new determinaOrdineIniziale(listaLeft5.length);
+  var ordineRight5 = new determinaOrdineIniziale(listaRight5.length); 
+creaMatching (document,listaLeft5,listaRight5,ordineLeft5,ordineRight5,'select5',0);
+</script>
+</TABLE>
+<P><CENTER>
+<SPAN id='okButtonId5' class='okButtonClass'><INPUT TYPE='button' VALUE='OK' onClick="Domanda6()" class="quiz_verify_box_class"></SPAN></CENTER>
+<HR class='horizontal-bar'>
+<script language="javascript" type="text/javascript">
+function initValuate7()
+{
+ this.length = 4;
+ var choice,valuation,remark;
+ if (document.domanda.radio007000[0].checked==true) choice=1;
+ else if (document.domanda.radio007000[1].checked==true) choice=0;
+ else choice=-1;
+ valuation = DecodeNumber('Ma/4kZzGlrE=',791,-1,1);
+ this[0] = new AnsReport(choice,valuation,'',0);
+ if (document.domanda.radio007001[0].checked==true) choice=1;
+ else if (document.domanda.radio007001[1].checked==true) choice=0;
+ else choice=-1;
+ valuation = DecodeNumber('/j4JSK/ff7c=',804,-1,1);
+ this[1] = new AnsReport(choice,valuation,'',0);
+ if (document.domanda.radio007002[0].checked==true) choice=1;
+ else if (document.domanda.radio007002[1].checked==true) choice=0;
+ else choice=-1;
+ valuation = DecodeNumber('dNArDnDPSxE=',817,-1,1);
+ this[2] = new AnsReport(choice,valuation,'',0);
+ if (document.domanda.radio007003[0].checked==true) choice=1;
+ else if (document.domanda.radio007003[1].checked==true) choice=0;
+ else choice=-1;
+ valuation = DecodeNumber('2rwtDslAZ2s=',830,-1,1);
+ this[3] = new AnsReport(choice,valuation,'',0);
+ pesi[6]=DecodeNumber('7wvsyfo6CJY=',834,0,99999);
+
+}
+
+function Domanda7()
+{
+ var status;
+ if (valid[6]!=0) { DoneBefore(); return; }
+ if (!checkTrueOrFalse(document.domanda.radio007000)) { IncompletedQuest(); return 0; }
+ if (!checkTrueOrFalse(document.domanda.radio007001)) { IncompletedQuest(); return 0; }
+ if (!checkTrueOrFalse(document.domanda.radio007002)) { IncompletedQuest(); return 0; }
+ if (!checkTrueOrFalse(document.domanda.radio007003)) { IncompletedQuest(); return 0; }
+ allAnsReport[6] = new initValuate7();
+ doValuate(6);
+ PrintBooleanAnswer(6,6);
+ return 1;
+}
+
+</script>
+<IMG SRC="media/check.png" CLASS='checkHide' ID='check6' ALIGN='LEFT' HSPACE='5'>
+<A NAME='qstAnchor6'>
+</A>
+<SPAN class='quiz_quest_header_class'> Question 7  </SPAN>
+<DIV ID='hideAns6' CLASS='cardHide'>
+<TABLE class="qst_feedback_table_class"><TR class="qst_feedback_TH_class"><TD CLASS="qst_feedback_TD_class">
+<SPAN ID='hideTxt6'></SPAN>
+</TD></TR></TABLE>
+</DIV>
+<BR />
+<TABLE WIDTH="100%">
+<TR><TD class="quiz_quest_class">
+<b><span style="background-color:#FFFFFF;font-family:Times New Roman;font-size:12pt;">True or false?</span></b></TD></TR></TABLE>
+<BR />
+<TABLE WIDTH='100%'>
+<TR><TD WIDTH='50' ALIGN='CENTER' class="quiz_letter_class">
+<SPAN class='quiz_letter_class'> A </SPAN></TD>
+<TD ALIGN='LEFT' class="quiz_table_answer"><span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">panem means bread</span></TD></TR>
+<TR><TD WIDTH='50'></TD><TD ALIGN='LEFT'><INPUT TYPE='radio' NAME='radio007000'> <SPAN class='true_false_class'>TRUE</SPAN> <INPUT TYPE='radio' NAME='radio007000'> <SPAN class='true_false_class'>FALSE</SPAN></TD></TR>
+<TR><TD WIDTH='50' ALIGN='CENTER' class="quiz_letter_class">
+<SPAN class='quiz_letter_class'> B </SPAN></TD>
+<TD ALIGN='LEFT' class="quiz_table_answer"><span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">quotidianum means give us</span></TD></TR>
+<TR><TD WIDTH='50'></TD><TD ALIGN='LEFT'><INPUT TYPE='radio' NAME='radio007001'> <SPAN class='true_false_class'>TRUE</SPAN> <INPUT TYPE='radio' NAME='radio007001'> <SPAN class='true_false_class'>FALSE</SPAN></TD></TR>
+<TR><TD WIDTH='50' ALIGN='CENTER' class="quiz_letter_class">
+<SPAN class='quiz_letter_class'> C </SPAN></TD>
+<TD ALIGN='LEFT' class="quiz_table_answer"><span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">nobis means to us</span></TD></TR>
+<TR><TD WIDTH='50'></TD><TD ALIGN='LEFT'><INPUT TYPE='radio' NAME='radio007002'> <SPAN class='true_false_class'>TRUE</SPAN> <INPUT TYPE='radio' NAME='radio007002'> <SPAN class='true_false_class'>FALSE</SPAN></TD></TR>
+<TR><TD WIDTH='50' ALIGN='CENTER' class="quiz_letter_class">
+<SPAN class='quiz_letter_class'> D </SPAN></TD>
+<TD ALIGN='LEFT' class="quiz_table_answer"><span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">da means give</span></TD></TR>
+<TR><TD WIDTH='50'></TD><TD ALIGN='LEFT'><INPUT TYPE='radio' NAME='radio007003'> <SPAN class='true_false_class'>TRUE</SPAN> <INPUT TYPE='radio' NAME='radio007003'> <SPAN class='true_false_class'>FALSE</SPAN></TD></TR>
+</TABLE>
+<P><CENTER>
+<SPAN id='okButtonId6' class='okButtonClass'><INPUT TYPE='button' VALUE='OK' onClick="Domanda7()" class="quiz_verify_box_class"></SPAN></CENTER>
+<HR class='horizontal-bar'>
+<script language="javascript" type="text/javascript">
+function initValuate8()
+{
+ this.length = 4;
+ var choice,valuation,remark,data,answer;
+ if (document.domanda.radio008000.checked==true) choice=1; else choice=0;
+ answer = "";
+ remark = "";
+ valuation = DecodeNumber('eQCFr2YgvgY=',857,-1,1);
+ this[0] = new AnsReport(choice,valuation,remark,0,answer);
+ if (document.domanda.radio008001.checked==true) choice=1; else choice=0;
+ answer = "";
+ remark = "";
+ valuation = DecodeNumber('HPcOtdT4vT4=',870,-1,1);
+ this[1] = new AnsReport(choice,valuation,remark,0,answer);
+ if (document.domanda.radio008002.checked==true) choice=1; else choice=0;
+ answer = "";
+ remark = "";
+ valuation = DecodeNumber('PI34+KD2cTc=',883,-1,1);
+ this[2] = new AnsReport(choice,valuation,remark,0,answer);
+ if (document.domanda.radio008003.checked==true) choice=1; else choice=0;
+ answer = "";
+ remark = unescape(DecodeString("bRNYscdiAM3/PSa6QP/12ejcC3Y="));
+ valuation = DecodeNumber('1UnURGg02TM=',896,-1,1);
+ this[3] = new AnsReport(choice,valuation,remark,0,answer);
+ pesi[7]=DecodeNumber('SdZNIBXqYMw=',899,0,99999);
+
+}
+
+function Domanda8()
+{
+ if (valid[7]!=0) { DoneBefore(); return; }
+ allAnsReport[7] = new initValuate8();
+ doValuate(7);
+ PrintAnswer(7,7);
+ return 1;
+}
+
+</script>
+<IMG SRC="media/check.png" CLASS='checkHide' ID='check7' ALIGN='LEFT' HSPACE='5'>
+<A NAME='qstAnchor7'>
+</A>
+<SPAN class='quiz_quest_header_class'> Question 8  </SPAN>
+<DIV ID='hideAns7' CLASS='cardHide'>
+<TABLE class="qst_feedback_table_class"><TR class="qst_feedback_TH_class"><TD CLASS="qst_feedback_TD_class">
+<SPAN ID='hideTxt7'></SPAN>
+</TD></TR></TABLE>
+</DIV>
+<BR />
+<TABLE WIDTH="100%">
+<TR><TD class="quiz_quest_class">
+<b><span style="background-color:#FFFFFF;font-family:Times New Roman;font-size:12pt;">Hodie means</span></b></TD></TR></TABLE>
+<BR />
+<TABLE WIDTH='100%'>
+<TR>
+<TD ALIGN='CENTER' class="quiz_letter_class"  WIDTH='50'>
+<SPAN class='quiz_letter_class'> A </SPAN><INPUT TYPE='radio' NAME='radio008000'  OnClick=" document.domanda.radio008001.checked=0; document.domanda.radio008002.checked=0; document.domanda.radio008003.checked=0;" ></TD>
+<TD ALIGN='LEFT' class="quiz_answer_class">
+<span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">daily</span></TD>
+</TR>
+<TR>
+<TD ALIGN='CENTER' class="quiz_letter_class"  WIDTH='50'>
+<SPAN class='quiz_letter_class'> B </SPAN><INPUT TYPE='radio' NAME='radio008001'  OnClick=" document.domanda.radio008000.checked=0; document.domanda.radio008002.checked=0; document.domanda.radio008003.checked=0;" ></TD>
+<TD ALIGN='LEFT' class="quiz_answer_class">
+<span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">today</span></TD>
+</TR>
+<TR>
+<TD ALIGN='CENTER' class="quiz_letter_class"  WIDTH='50'>
+<SPAN class='quiz_letter_class'> C </SPAN><INPUT TYPE='radio' NAME='radio008002'  OnClick=" document.domanda.radio008000.checked=0; document.domanda.radio008001.checked=0; document.domanda.radio008003.checked=0;" ></TD>
+<TD ALIGN='LEFT' class="quiz_answer_class">
+<span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">tomorrow</span></TD>
+</TR>
+<TR>
+<TD ALIGN='CENTER' class="quiz_letter_class"  WIDTH='50'>
+<SPAN class='quiz_letter_class'> D </SPAN><INPUT TYPE='radio' NAME='radio008003'  OnClick=" document.domanda.radio008000.checked=0; document.domanda.radio008001.checked=0; document.domanda.radio008002.checked=0;" ></TD>
+<TD ALIGN='LEFT' class="quiz_answer_class">
+<span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">yesterday</span></TD>
+</TR>
+</TABLE>
+<P><CENTER>
+<SPAN id='okButtonId7' class='okButtonClass'><INPUT TYPE='button' VALUE='OK' onClick="Domanda8()" class="quiz_verify_box_class"></SPAN></CENTER>
+<HR class='horizontal-bar'>
+<script language="javascript" type="text/javascript">
+function initValuate9()
+{
+ this.length = 6;
+ var choice,valuation,data,remark;
+ choice = document.domanda.gap009000.value;
+ valuation = new init_array(1);
+ valuation.length = 1;
+ valuation[0] = unescape(DecodeString("vktAuKspkX4="));
+ data = unescape("<span style=%22background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;%22>Et dimitte ");
+ this[0] = new AnsReport(choice,valuation,data,0);
+ choice = document.domanda.gap009001.value;
+ valuation = new init_array(1);
+ valuation.length = 1;
+ valuation[0] = unescape(DecodeString("mIFX94/t2nU="));
+ data = unescape(" debita nostra, ");
+ this[1] = new AnsReport(choice,valuation,data,0);
+ choice = document.domanda.gap009002.value;
+ valuation = new init_array(1);
+ valuation.length = 1;
+ valuation[0] = unescape(DecodeString("QZ2F4Z73Y98="));
+ data = unescape(" et nos dimittimus debitoribus ");
+ this[2] = new AnsReport(choice,valuation,data,0);
+ choice = document.domanda.gap009003.value;
+ valuation = new init_array(1);
+ valuation.length = 1;
+ valuation[0] = unescape(DecodeString("PuoV010MlDo="));
+ data = unescape(".</span></p>    <p><span style=%22background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;%22>Et ne nos inducas ");
+ this[3] = new AnsReport(choice,valuation,data,0);
+ choice = document.domanda.gap009004.value;
+ valuation = new init_array(1);
+ valuation.length = 1;
+ valuation[0] = unescape(DecodeString("JwT9WWIxggY="));
+ data = unescape(" tentationem.</span></p>    <p><span style=%22background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;%22>Sed libera ");
+ this[4] = new AnsReport(choice,valuation,data,0);
+ choice = document.domanda.gap009005.value;
+ valuation = new init_array(1);
+ valuation.length = 1;
+ valuation[0] = unescape(DecodeString("jTOcjAbYZsw="));
+ data = unescape(" a ");
+ this[5] = new AnsReport(choice,valuation,data,0);
+ pesi[8]=DecodeNumber('xhd47/O1fN8=',920,0,99999);
+
+}
+
+function Domanda9()
+{
+ var status;
+ if (valid[8]!=0) { DoneBefore(); return; }
+ allAnsReport[8] = new initValuate9();
+ doValuate(8);
+ PrintBooleanAnswer(8,8);
+ return 1;
+}
+
+</script>
+<IMG SRC="media/check.png" CLASS='checkHide' ID='check8' ALIGN='LEFT' HSPACE='5'>
+<A NAME='qstAnchor8'>
+</A>
+<SPAN class='quiz_quest_header_class'> Question 9  </SPAN>
+<DIV ID='hideAns8' CLASS='cardHide'>
+<TABLE class="qst_feedback_table_class"><TR class="qst_feedback_TH_class"><TD CLASS="qst_feedback_TD_class">
+<SPAN ID='hideTxt8'></SPAN>
+</TD></TR></TABLE>
+</DIV>
+<BR />
+<TABLE WIDTH="100%">
+<TR><TD class="quiz_quest_class">
+<b><span style="background-color:#FFFFFF;font-family:Times New Roman;font-size:12pt;">Fill in the blanks for the last part of the Pater Noster:</span></b></TD></TR></TABLE>
+<BR />
+<TABLE WIDTH='100%'>
+<TR><TD ALIGN='LEFT' class='quiz_answer_class' style='padding:5px'>
+<span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">Et dimitte  <INPUT TYPE='text' NAME='gap009000' SIZE=8>  debita nostra,  <INPUT TYPE='text' NAME='gap009001' SIZE=8>  et nos dimittimus debitoribus  <INPUT TYPE='text' NAME='gap009002' SIZE=8> .</span></p>    <p><span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">Et ne nos inducas  <INPUT TYPE='text' NAME='gap009003' SIZE=8>  tentationem.</span></p>    <p><span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">Sed libera  <INPUT TYPE='text' NAME='gap009004' SIZE=8>  a  <INPUT TYPE='text' NAME='gap009005' SIZE=8> .</span></TD></TR></TABLE>
+<P><CENTER>
+<SPAN id='okButtonId8' class='okButtonClass'><INPUT TYPE='button' VALUE='OK' onClick="Domanda9()" class="quiz_verify_box_class"></SPAN></CENTER>
+<HR class='horizontal-bar'>
+<script language="javascript" type="text/javascript">
+function initValuate10()
+{
+  this.length = 3;
+  var i,j,n,m,a,b,num;
+  var choice,valuation,data;
+  for (i=0; i<ordineLeft9.length*2; i+=2) {
+    n = getSelezione(document.domanda.select9[i]);
+    m = getSelezione(document.domanda.select9[i+1]);
+    a = ordineLeft9[n];
+    b = ordineRight9[m];
+    choice = new init_array(2);
+    choice.length = 2;
+    choice[0]=listaLeft9[a]
+    choice[1]=listaRight9[b];
+    num=0;
+    for (j=0; j<listaLeft9.length; j++)
+      if (listaLeft9[j]==listaLeft9[a]) num++;
+    valuation = new init_array(num);
+    valuation.length = num;
+    num=0;
+    for (j=0; j<listaLeft9.length; j++)
+      if (listaLeft9[j]==listaLeft9[a]) { valuation[num]=listaRight9[j]; num++; }
+    this[i/2] = new AnsReport(choice,valuation,'',0);
+  }
+ pesi[9]=DecodeNumber('dMMnUWTsv+Q=',941,0,99999);
+
+}
+
+function Domanda10()
+{
+ var status;
+ if (valid[9]!=0) { DoneBefore(); return; }
+ allAnsReport[9] = new initValuate10();
+ doValuate(9);
+ var spaceObj = document.getElementById("space10");
+ spaceObj.className='spaceShow';
+ PrintBooleanAnswer(9,9);
+ return 1;
+}
+
+</script>
+<IMG SRC="media/check.png" CLASS='checkHide' ID='check9' ALIGN='LEFT' HSPACE='5'>
+<A NAME='qstAnchor9'>
+</A>
+<SPAN class='quiz_quest_header_class'> Question 10  </SPAN>
+<DIV ID='hideAns9' CLASS='cardHide'>
+<TABLE class="qst_feedback_table_class"><TR class="qst_feedback_TH_class"><TD CLASS="qst_feedback_TD_class">
+<SPAN ID='hideTxt9'></SPAN>
+</TD></TR></TABLE>
+</DIV>
+<BR />
+<TABLE WIDTH="100%">
+<TR><TD class="quiz_quest_class">
+<b><span style="background-color:#FFFFFF;font-family:Times New Roman;font-size:12pt;">Which noster/nostra/nostrum goes with which gender?</span></b></TD></TR></TABLE>
+<BR />
+<DIV CLASS='spaceHide' ID='space10'><BR><BR><BR></DIV>
+<TABLE WIDTH=100%>
+<script language="javascript" type="text/javascript">
+function creaListaLeft9() {
+  this.length = 3;
+ this[0] = unescape(DecodeString("oCAecfUGMxY="));
+ this[1] = unescape(DecodeString("jFpNKW2mNIk="));
+ this[2] = unescape(DecodeString("1sujsu5xIoo="));
+}
+function creaListaRight9() {
+  this.length = 3;
+ this[0] = unescape(DecodeString("TkI/EBJsEZniZEpw"));
+ this[1] = unescape(DecodeString("PGzPvqGaHbI="));
+ this[2] = unescape(DecodeString("Q5Rnacywew0="));
+}
+  var listaLeft9   = new creaListaLeft9();
+  var listaRight9  = new creaListaRight9();
+  var ordineLeft9  = new determinaOrdineIniziale(listaLeft9.length);
+  var ordineRight9 = new determinaOrdineIniziale(listaRight9.length); 
+creaMatching (document,listaLeft9,listaRight9,ordineLeft9,ordineRight9,'select9',0);
+</script>
+</TABLE>
+<P><CENTER>
+<SPAN id='okButtonId9' class='okButtonClass'><INPUT TYPE='button' VALUE='OK' onClick="Domanda10()" class="quiz_verify_box_class"></SPAN></CENTER>
+<HR class='horizontal-bar'>
+<script language="javascript" type="text/javascript">
+function initValuate11()
+{
+ this.length = 5;
+ var choice,valuation,remark,data,answer;
+ if (document.domanda.radio011000.checked==true) choice=1; else choice=0;
+ answer = "";
+ remark = "";
+ valuation = DecodeNumber('fRdmYhQvXuM=',964,-1,1);
+ this[0] = new AnsReport(choice,valuation,remark,0,answer);
+ if (document.domanda.radio011001.checked==true) choice=1; else choice=0;
+ answer = "";
+ remark = "";
+ valuation = DecodeNumber('QYAc+8GZ+bI=',977,-1,1);
+ this[1] = new AnsReport(choice,valuation,remark,0,answer);
+ if (document.domanda.radio011002.checked==true) choice=1; else choice=0;
+ answer = "";
+ remark = "";
+ valuation = DecodeNumber('kEqrTyRvj8M=',990,-1,1);
+ this[2] = new AnsReport(choice,valuation,remark,0,answer);
+ if (document.domanda.radio011003.checked==true) choice=1; else choice=0;
+ answer = "";
+ remark = "";
+ valuation = DecodeNumber('cFdd4twl+hw=',1003,-1,1);
+ this[3] = new AnsReport(choice,valuation,remark,0,answer);
+ if (document.domanda.radio011004.checked==true) choice=1; else choice=0;
+ answer = "";
+ remark = "";
+ valuation = DecodeNumber('bTEuRlXn9xs=',1016,-1,1);
+ this[4] = new AnsReport(choice,valuation,remark,0,answer);
+ pesi[10]=DecodeNumber('3aT/e3ncpjQ=',1017,0,99999);
+
+}
+
+function Domanda11()
+{
+ if (valid[10]!=0) { DoneBefore(); return; }
+ allAnsReport[10] = new initValuate11();
+ doValuate(10);
+ PrintAnswer(10,10);
+ return 1;
+}
+
+</script>
+<IMG SRC="media/check.png" CLASS='checkHide' ID='check10' ALIGN='LEFT' HSPACE='5'>
+<A NAME='qstAnchor10'>
+</A>
+<SPAN class='quiz_quest_header_class'> Question 11  </SPAN>
+<DIV ID='hideAns10' CLASS='cardHide'>
+<TABLE class="qst_feedback_table_class"><TR class="qst_feedback_TH_class"><TD CLASS="qst_feedback_TD_class">
+<SPAN ID='hideTxt10'></SPAN>
+</TD></TR></TABLE>
+</DIV>
+<BR />
+<TABLE WIDTH="100%">
+<TR><TD class="quiz_quest_class">
+<b><span style="background-color:#FFFFFF;font-family:Times New Roman;font-size:12pt;">Three ways to translate debita</span></b></TD></TR></TABLE>
+<BR />
+<TABLE WIDTH='100%'>
+<TR>
+<TD ALIGN='CENTER' class="quiz_letter_class"  WIDTH='50'>
+<SPAN class='quiz_letter_class'> A </SPAN><INPUT TYPE='checkbox' NAME='radio011000'></TD>
+<TD ALIGN='LEFT' class="quiz_answer_class">
+<span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">Debts</span></TD>
+</TR>
+<TR>
+<TD ALIGN='CENTER' class="quiz_letter_class"  WIDTH='50'>
+<SPAN class='quiz_letter_class'> B </SPAN><INPUT TYPE='checkbox' NAME='radio011001'></TD>
+<TD ALIGN='LEFT' class="quiz_answer_class">
+<span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">Evil</span></TD>
+</TR>
+<TR>
+<TD ALIGN='CENTER' class="quiz_letter_class"  WIDTH='50'>
+<SPAN class='quiz_letter_class'> C </SPAN><INPUT TYPE='checkbox' NAME='radio011002'></TD>
+<TD ALIGN='LEFT' class="quiz_answer_class">
+<span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">Trespasses</span></TD>
+</TR>
+<TR>
+<TD ALIGN='CENTER' class="quiz_letter_class"  WIDTH='50'>
+<SPAN class='quiz_letter_class'> D </SPAN><INPUT TYPE='checkbox' NAME='radio011003'></TD>
+<TD ALIGN='LEFT' class="quiz_answer_class">
+<span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">Temptations</span></TD>
+</TR>
+<TR>
+<TD ALIGN='CENTER' class="quiz_letter_class"  WIDTH='50'>
+<SPAN class='quiz_letter_class'> E </SPAN><INPUT TYPE='checkbox' NAME='radio011004'></TD>
+<TD ALIGN='LEFT' class="quiz_answer_class">
+<span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">Sins</span></TD>
+</TR>
+</TABLE>
+<P><CENTER>
+<SPAN id='okButtonId10' class='okButtonClass'><INPUT TYPE='button' VALUE='OK' onClick="Domanda11()" class="quiz_verify_box_class"></SPAN></CENTER>
+<HR class='horizontal-bar'>
+<script language="javascript" type="text/javascript">
+function initValuate12()
+{
+ this.length = 4;
+ var choice,valuation,remark,data,answer;
+ if (document.domanda.radio012000.checked==true) choice=1; else choice=0;
+ answer = "";
+ remark = "";
+ valuation = DecodeNumber('dfyIeGK9Pso=',1040,-1,1);
+ this[0] = new AnsReport(choice,valuation,remark,0,answer);
+ if (document.domanda.radio012001.checked==true) choice=1; else choice=0;
+ answer = "";
+ remark = "";
+ valuation = DecodeNumber('U5EW3hAOgD0=',1053,-1,1);
+ this[1] = new AnsReport(choice,valuation,remark,0,answer);
+ if (document.domanda.radio012002.checked==true) choice=1; else choice=0;
+ answer = "";
+ remark = "";
+ valuation = DecodeNumber('FLsXZeQkZSc=',1067,-1,1);
+ this[2] = new AnsReport(choice,valuation,remark,0,answer);
+ if (document.domanda.radio012003.checked==true) choice=1; else choice=0;
+ answer = "";
+ remark = "";
+ valuation = DecodeNumber('OVugd+N8Ngk=',1080,-1,1);
+ this[3] = new AnsReport(choice,valuation,remark,0,answer);
+ pesi[11]=DecodeNumber('Inf0d4VukGA=',1083,0,99999);
+
+}
+
+function Domanda12()
+{
+ if (valid[11]!=0) { DoneBefore(); return; }
+ allAnsReport[11] = new initValuate12();
+ doValuate(11);
+ PrintAnswer(11,11);
+ return 1;
+}
+
+</script>
+<IMG SRC="media/check.png" CLASS='checkHide' ID='check11' ALIGN='LEFT' HSPACE='5'>
+<A NAME='qstAnchor11'>
+</A>
+<SPAN class='quiz_quest_header_class'> Question 12  </SPAN>
+<DIV ID='hideAns11' CLASS='cardHide'>
+<TABLE class="qst_feedback_table_class"><TR class="qst_feedback_TH_class"><TD CLASS="qst_feedback_TD_class">
+<SPAN ID='hideTxt11'></SPAN>
+</TD></TR></TABLE>
+</DIV>
+<BR />
+<TABLE WIDTH="100%">
+<TR><TD class="quiz_quest_class">
+<b><span style="background-color:#FFFFFF;font-family:Times New Roman;font-size:12pt;">Malevolent, malicious and maleficient all come from the Latin word malo which means:</span></b></TD></TR></TABLE>
+<BR />
+<TABLE WIDTH='100%'>
+<TR>
+<TD ALIGN='CENTER' class="quiz_letter_class"  WIDTH='50'>
+<SPAN class='quiz_letter_class'> A </SPAN><INPUT TYPE='radio' NAME='radio012000'  OnClick=" document.domanda.radio012001.checked=0; document.domanda.radio012002.checked=0; document.domanda.radio012003.checked=0;" ></TD>
+<TD ALIGN='LEFT' class="quiz_answer_class">
+<span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">Spectacular</span></TD>
+</TR>
+<TR>
+<TD ALIGN='CENTER' class="quiz_letter_class"  WIDTH='50'>
+<SPAN class='quiz_letter_class'> B </SPAN><INPUT TYPE='radio' NAME='radio012001'  OnClick=" document.domanda.radio012000.checked=0; document.domanda.radio012002.checked=0; document.domanda.radio012003.checked=0;" ></TD>
+<TD ALIGN='LEFT' class="quiz_answer_class">
+<span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">Evil</span></TD>
+</TR>
+<TR>
+<TD ALIGN='CENTER' class="quiz_letter_class"  WIDTH='50'>
+<SPAN class='quiz_letter_class'> C </SPAN><INPUT TYPE='radio' NAME='radio012002'  OnClick=" document.domanda.radio012000.checked=0; document.domanda.radio012001.checked=0; document.domanda.radio012003.checked=0;" ></TD>
+<TD ALIGN='LEFT' class="quiz_answer_class">
+<span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">Exciting</span></TD>
+</TR>
+<TR>
+<TD ALIGN='CENTER' class="quiz_letter_class"  WIDTH='50'>
+<SPAN class='quiz_letter_class'> D </SPAN><INPUT TYPE='radio' NAME='radio012003'  OnClick=" document.domanda.radio012000.checked=0; document.domanda.radio012001.checked=0; document.domanda.radio012002.checked=0;" ></TD>
+<TD ALIGN='LEFT' class="quiz_answer_class">
+<span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">Modern</span></TD>
+</TR>
+</TABLE>
+<P><CENTER>
+<SPAN id='okButtonId11' class='okButtonClass'><INPUT TYPE='button' VALUE='OK' onClick="Domanda12()" class="quiz_verify_box_class"></SPAN></CENTER>
+<HR class='horizontal-bar'>
+<script language="javascript" type="text/javascript">
+function initValuate13()
+{
+ this.length = 4;
+ var choice,valuation,remark;
+ if (document.domanda.radio013000[0].checked==true) choice=1;
+ else if (document.domanda.radio013000[1].checked==true) choice=0;
+ else choice=-1;
+ valuation = DecodeNumber('7PA4qa2lhVw=',1106,-1,1);
+ this[0] = new AnsReport(choice,valuation,'',0);
+ if (document.domanda.radio013001[0].checked==true) choice=1;
+ else if (document.domanda.radio013001[1].checked==true) choice=0;
+ else choice=-1;
+ valuation = DecodeNumber('xmj4nvunPD8=',1119,-1,1);
+ this[1] = new AnsReport(choice,valuation,'',0);
+ if (document.domanda.radio013002[0].checked==true) choice=1;
+ else if (document.domanda.radio013002[1].checked==true) choice=0;
+ else choice=-1;
+ valuation = DecodeNumber('swmEthZKvoU=',1132,-1,1);
+ this[2] = new AnsReport(choice,valuation,'',0);
+ if (document.domanda.radio013003[0].checked==true) choice=1;
+ else if (document.domanda.radio013003[1].checked==true) choice=0;
+ else choice=-1;
+ valuation = DecodeNumber('qtJgxxRXdVw=',145,-1,1);
+ this[3] = new AnsReport(choice,valuation,'',0);
+ pesi[12]=DecodeNumber('nreBONwiKVA=',148,0,99999);
+
+}
+
+function Domanda13()
+{
+ var status;
+ if (valid[12]!=0) { DoneBefore(); return; }
+ if (!checkTrueOrFalse(document.domanda.radio013000)) { IncompletedQuest(); return 0; }
+ if (!checkTrueOrFalse(document.domanda.radio013001)) { IncompletedQuest(); return 0; }
+ if (!checkTrueOrFalse(document.domanda.radio013002)) { IncompletedQuest(); return 0; }
+ if (!checkTrueOrFalse(document.domanda.radio013003)) { IncompletedQuest(); return 0; }
+ allAnsReport[12] = new initValuate13();
+ doValuate(12);
+ PrintBooleanAnswer(12,12);
+ return 1;
+}
+
+</script>
+<IMG SRC="media/check.png" CLASS='checkHide' ID='check12' ALIGN='LEFT' HSPACE='5'>
+<A NAME='qstAnchor12'>
+</A>
+<SPAN class='quiz_quest_header_class'> Question 13  </SPAN>
+<DIV ID='hideAns12' CLASS='cardHide'>
+<TABLE class="qst_feedback_table_class"><TR class="qst_feedback_TH_class"><TD CLASS="qst_feedback_TD_class">
+<SPAN ID='hideTxt12'></SPAN>
+</TD></TR></TABLE>
+</DIV>
+<BR />
+<TABLE WIDTH="100%">
+<TR><TD class="quiz_quest_class">
+<b><span style="background-color:#FFFFFF;font-family:Times New Roman;font-size:12pt;">True or false?</span></b></TD></TR></TABLE>
+<BR />
+<TABLE WIDTH='100%'>
+<TR><TD WIDTH='50' ALIGN='CENTER' class="quiz_letter_class">
+<SPAN class='quiz_letter_class'> A </SPAN></TD>
+<TD ALIGN='LEFT' class="quiz_table_answer"><span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">libera means library</span></TD></TR>
+<TR><TD WIDTH='50'></TD><TD ALIGN='LEFT'><INPUT TYPE='radio' NAME='radio013000'> <SPAN class='true_false_class'>TRUE</SPAN> <INPUT TYPE='radio' NAME='radio013000'> <SPAN class='true_false_class'>FALSE</SPAN></TD></TR>
+<TR><TD WIDTH='50' ALIGN='CENTER' class="quiz_letter_class">
+<SPAN class='quiz_letter_class'> B </SPAN></TD>
+<TD ALIGN='LEFT' class="quiz_table_answer"><span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">nobis means to us</span></TD></TR>
+<TR><TD WIDTH='50'></TD><TD ALIGN='LEFT'><INPUT TYPE='radio' NAME='radio013001'> <SPAN class='true_false_class'>TRUE</SPAN> <INPUT TYPE='radio' NAME='radio013001'> <SPAN class='true_false_class'>FALSE</SPAN></TD></TR>
+<TR><TD WIDTH='50' ALIGN='CENTER' class="quiz_letter_class">
+<SPAN class='quiz_letter_class'> C </SPAN></TD>
+<TD ALIGN='LEFT' class="quiz_table_answer"><span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">nos means give</span></TD></TR>
+<TR><TD WIDTH='50'></TD><TD ALIGN='LEFT'><INPUT TYPE='radio' NAME='radio013002'> <SPAN class='true_false_class'>TRUE</SPAN> <INPUT TYPE='radio' NAME='radio013002'> <SPAN class='true_false_class'>FALSE</SPAN></TD></TR>
+<TR><TD WIDTH='50' ALIGN='CENTER' class="quiz_letter_class">
+<SPAN class='quiz_letter_class'> D </SPAN></TD>
+<TD ALIGN='LEFT' class="quiz_table_answer"><span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">quotidianum means daily</span></TD></TR>
+<TR><TD WIDTH='50'></TD><TD ALIGN='LEFT'><INPUT TYPE='radio' NAME='radio013003'> <SPAN class='true_false_class'>TRUE</SPAN> <INPUT TYPE='radio' NAME='radio013003'> <SPAN class='true_false_class'>FALSE</SPAN></TD></TR>
+</TABLE>
+<P><CENTER>
+<SPAN id='okButtonId12' class='okButtonClass'><INPUT TYPE='button' VALUE='OK' onClick="Domanda13()" class="quiz_verify_box_class"></SPAN></CENTER>
+<HR class='horizontal-bar'>
+<script language="javascript" type="text/javascript">
+function initValuate14()
+{
+  this.length = 4;
+  var i,j,n,m,a,b,num;
+  var choice,valuation,data;
+  for (i=0; i<ordineLeft13.length*2; i+=2) {
+    n = getSelezione(document.domanda.select13[i]);
+    m = getSelezione(document.domanda.select13[i+1]);
+    a = ordineLeft13[n];
+    b = ordineRight13[m];
+    choice = new init_array(2);
+    choice.length = 2;
+    choice[0]=listaLeft13[a]
+    choice[1]=listaRight13[b];
+    num=0;
+    for (j=0; j<listaLeft13.length; j++)
+      if (listaLeft13[j]==listaLeft13[a]) num++;
+    valuation = new init_array(num);
+    valuation.length = num;
+    num=0;
+    for (j=0; j<listaLeft13.length; j++)
+      if (listaLeft13[j]==listaLeft13[a]) { valuation[num]=listaRight13[j]; num++; }
+    this[i/2] = new AnsReport(choice,valuation,'',0);
+  }
+ pesi[13]=DecodeNumber('kHhJiP7Xdi8=',169,0,99999);
+
+}
+
+function Domanda14()
+{
+ var status;
+ if (valid[13]!=0) { DoneBefore(); return; }
+ allAnsReport[13] = new initValuate14();
+ doValuate(13);
+ var spaceObj = document.getElementById("space14");
+ spaceObj.className='spaceShow';
+ PrintBooleanAnswer(13,13);
+ return 1;
+}
+
+</script>
+<IMG SRC="media/check.png" CLASS='checkHide' ID='check13' ALIGN='LEFT' HSPACE='5'>
+<A NAME='qstAnchor13'>
+</A>
+<SPAN class='quiz_quest_header_class'> Question 14  </SPAN>
+<DIV ID='hideAns13' CLASS='cardHide'>
+<TABLE class="qst_feedback_table_class"><TR class="qst_feedback_TH_class"><TD CLASS="qst_feedback_TD_class">
+<SPAN ID='hideTxt13'></SPAN>
+</TD></TR></TABLE>
+</DIV>
+<BR />
+<TABLE WIDTH="100%">
+<TR><TD class="quiz_quest_class">
+<b><span style="background-color:#FFFFFF;font-family:Times New Roman;font-size:12pt;">Match the Latin with its translation:</span></b></TD></TR></TABLE>
+<BR />
+<DIV CLASS='spaceHide' ID='space14'><BR><BR><BR></DIV>
+<TABLE WIDTH=100%>
+<script language="javascript" type="text/javascript">
+function creaListaLeft13() {
+  this.length = 4;
+ this[0] = unescape(DecodeString("nUMEq4/C3leBinQx"));
+ this[1] = unescape(DecodeString("mIFX94/t2nU="));
+ this[2] = unescape(DecodeString("ZxVXPbCngsQ="));
+ this[3] = unescape(DecodeString("iU5SYe8Kqgk="));
+}
+function creaListaRight13() {
+  this.length = 4;
+ this[0] = unescape(DecodeString("SsXLqY7UfBST65xM"));
+ this[1] = unescape(DecodeString("or+ekkADKiQ="));
+ this[2] = unescape(DecodeString("x3s9xShoTeY="));
+ this[3] = unescape(DecodeString("Jvxjj8mrO8A="));
+}
+  var listaLeft13   = new creaListaLeft13();
+  var listaRight13  = new creaListaRight13();
+  var ordineLeft13  = new determinaOrdineIniziale(listaLeft13.length);
+  var ordineRight13 = new determinaOrdineIniziale(listaRight13.length); 
+creaMatching (document,listaLeft13,listaRight13,ordineLeft13,ordineRight13,'select13',0);
+</script>
+</TABLE>
+<P><CENTER>
+<SPAN id='okButtonId13' class='okButtonClass'><INPUT TYPE='button' VALUE='OK' onClick="Domanda14()" class="quiz_verify_box_class"></SPAN></CENTER>
+<HR class='horizontal-bar'>
+<script language="javascript" type="text/javascript">
+function initValuate15()
+{
+ this.length = 4;
+ var choice,valuation,remark,data,answer;
+ if (document.domanda.radio015000.checked==true) choice=1; else choice=0;
+ answer = "";
+ remark = "";
+ valuation = DecodeNumber('5zVF8oG1wRo=',192,-1,1);
+ this[0] = new AnsReport(choice,valuation,remark,0,answer);
+ if (document.domanda.radio015001.checked==true) choice=1; else choice=0;
+ answer = "";
+ remark = "";
+ valuation = DecodeNumber('mU7buyqmyBw=',205,-1,1);
+ this[1] = new AnsReport(choice,valuation,remark,0,answer);
+ if (document.domanda.radio015002.checked==true) choice=1; else choice=0;
+ answer = "";
+ remark = "";
+ valuation = DecodeNumber('5i5OFcKgmlM=',218,-1,1);
+ this[2] = new AnsReport(choice,valuation,remark,0,answer);
+ if (document.domanda.radio015003.checked==true) choice=1; else choice=0;
+ answer = "";
+ remark = "";
+ valuation = DecodeNumber('WsVH/20xA2M=',231,-1,1);
+ this[3] = new AnsReport(choice,valuation,remark,0,answer);
+ pesi[14]=DecodeNumber('MQYQZ3QTcOE=',234,0,99999);
+
+}
+
+function Domanda15()
+{
+ if (valid[14]!=0) { DoneBefore(); return; }
+ allAnsReport[14] = new initValuate15();
+ doValuate(14);
+ PrintAnswer(14,14);
+ return 1;
+}
+
+</script>
+<IMG SRC="media/check.png" CLASS='checkHide' ID='check14' ALIGN='LEFT' HSPACE='5'>
+<A NAME='qstAnchor14'>
+</A>
+<SPAN class='quiz_quest_header_class'> Question 15  </SPAN>
+<DIV ID='hideAns14' CLASS='cardHide'>
+<TABLE class="qst_feedback_table_class"><TR class="qst_feedback_TH_class"><TD CLASS="qst_feedback_TD_class">
+<SPAN ID='hideTxt14'></SPAN>
+</TD></TR></TABLE>
+</DIV>
+<BR />
+<TABLE WIDTH="100%">
+<TR><TD class="quiz_quest_class">
+<b><span style="background-color:#FFFFFF;font-family:Times New Roman;font-size:12pt;">Which word means Name:</span></b></TD></TR></TABLE>
+<BR />
+<TABLE WIDTH='100%'>
+<TR>
+<TD ALIGN='CENTER' class="quiz_letter_class"  WIDTH='50'>
+<SPAN class='quiz_letter_class'> A </SPAN><INPUT TYPE='checkbox' NAME='radio015000'></TD>
+<TD ALIGN='LEFT' class="quiz_answer_class">
+<span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">sanctificetur</span></TD>
+</TR>
+<TR>
+<TD ALIGN='CENTER' class="quiz_letter_class"  WIDTH='50'>
+<SPAN class='quiz_letter_class'> B </SPAN><INPUT TYPE='checkbox' NAME='radio015001'></TD>
+<TD ALIGN='LEFT' class="quiz_answer_class">
+<span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">nomen</span></TD>
+</TR>
+<TR>
+<TD ALIGN='CENTER' class="quiz_letter_class"  WIDTH='50'>
+<SPAN class='quiz_letter_class'> C </SPAN><INPUT TYPE='checkbox' NAME='radio015002'></TD>
+<TD ALIGN='LEFT' class="quiz_answer_class">
+<span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">tuum</span></TD>
+</TR>
+<TR>
+<TD ALIGN='CENTER' class="quiz_letter_class"  WIDTH='50'>
+<SPAN class='quiz_letter_class'> D </SPAN><INPUT TYPE='checkbox' NAME='radio015003'></TD>
+<TD ALIGN='LEFT' class="quiz_answer_class">
+<span style="background-color:#87CEFA;font-family:Times New Roman;font-size:12pt;">nobis</span></TD>
+</TR>
+</TABLE>
+<P><CENTER>
+<SPAN id='okButtonId14' class='okButtonClass'><INPUT TYPE='button' VALUE='OK' onClick="Domanda15()" class="quiz_verify_box_class"></SPAN></CENTER>
+<HR class='horizontal-bar'>
+<BR /><BR />
+</FORM>
+</DIV>
+</BODY>
+</HTML>
