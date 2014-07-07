@@ -1428,6 +1428,9 @@ newDoc.writeln("<center><TABLE WIDTH='100%' BORDER=0><TD ALIGN='LEFT'>");
 newDoc.writeln(finalMess);
 newDoc.writeln("</TD></TABLE></center>");
 }
+if (maxvoto == voto){
+newDoc.writeln("<p>Congratulations! You got full marks!</p><p><a href="http://www.kidschant.com/images/Paternoster.png">Here</a> is your certificate.</p>
+}
 PrintLinkBack(newDoc);
 if (copyRightOnPage == 1) PrintCopyright();
 newDoc.writeln("</div>");
