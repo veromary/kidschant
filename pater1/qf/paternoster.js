@@ -11,7 +11,7 @@ var maxtime=1800;
 var showTimeout = 1;
 var keyword = 'syskey';
 var los = 0;
-var maxvoto = 10;
+var maxvoto = 20;
 var minvoto = 0;
 var roundvoto = 1;
 var voto = 0;
@@ -27,7 +27,7 @@ var reviewQuiz = 0;
 var markPercentage = 0;
 var incl_close_btn = 1;
 var incl_print_btn = 1;
-var incl_linkback = 0;
+var incl_linkback = 1;
 var questSlide  = 0;
 var lockRightAns = 0;
 var reportNotation  = 1;
@@ -50,7 +50,7 @@ var filename = 'paternoster';
 var topChartFile='';
 var pesi;
 var allAnsReport;
-var author  = '';
+var author  = 'Veronica Brandt';
 var mediaDir  = 'media';
 var cssDir  = 'css';
 var resultBoxKind  = 0;
@@ -2290,7 +2290,6 @@ function PrintResultsTable(doc) {
   }
   doc.writeln("<TR class='results_TH_class'><TD nowrap class='results_TD_class'><SPAN class='results_table_others_class'>&#160;&#160;Date</SPAN></TD>");
   doc.writeln("    <TD class='results_TD_class' nowrap><SPAN class='results_table_others_class'>&#160;&#160;"+DataToStringa()+"</SPAN></TD></TR>");
-
   if (computeMarkErr==0) {
   doc.writeln("<TR class='results_TH_class'><TD nowrap class='results_TD_class'><SPAN class='results_table_mark_class'>&#160;&#160;MARK</SPAN></TD>");
   doc.writeln("    <TD class='results_TD_class' nowrap><SPAN class='results_table_mark_class'>&#160;&#160;"+GetVoto(voto)+"</SPAN></TD></TR>");
@@ -2314,7 +2313,9 @@ function PrintTrueOrFalse(documento,flag) {
   else if (flag==0) documento.write("<FONT class='report_ansText'>F</FONT>");
 }
 function PrintATagLinkBack(documento) {
- return;
+ documento.write('<A HREF="http://www.kidschant.com/"  class="nextQst_btn_class">');
+ documento.write("Kids Chant");
+ documento.writeln('</A>');
 }
 
 function init_valid()
@@ -2457,7 +2458,21 @@ function PrintOpenHTML(documento,title,needOpen,closeHead) {
   }
   return myNewDoc;
 }
-function GetTypeOfSubstitution(aMark) { return 0; }
+function GetTypeOfSubstitution(aMark) {
+  if ((aMark>=20)&&(aMark<=20)) return 2;
+ else if ((aMark>=18)&&(aMark<=19)) return 1;
+ else return 0;
+}
+function GetRemFromMark(aMark) {
+ if ((aMark>=20)&&(aMark<=20))
+   return "Full Marks! <a href='http://www.kidschant.com/images/Paternoster.png'>Here is your certificate</a>.";
+ if ((aMark>=18)&&(aMark<=19))
+   return "Close! Try again for a perfect score.";
+ return "";
+}
+function GetLinkFromMark(aMark) {
+ return "";
+}
 
 function Constructor() {
   valid = new init_array(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);

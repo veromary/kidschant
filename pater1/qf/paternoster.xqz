@@ -11,7 +11,7 @@
         </Items>
       </categories>
       <options>
-        <MaxVoto>10</MaxVoto>
+        <MaxVoto>20</MaxVoto>
         <MinVoto>0</MinVoto>
         <Duration>30</Duration>
         <RoundVoto>1</RoundVoto>
@@ -91,10 +91,10 @@
           <ClearHistory>False</ClearHistory>
         </Report>
         <Profile>
-          <Include>False</Include>
-          <Author></Author>
+          <Include>True</Include>
+          <Author>Veronica Brandt</Author>
           <Argument></Argument>
-          <Corporation></Corporation>
+          <Corporation>Kids Chant</Corporation>
           <Year>2014</Year>
         </Profile>
         <Customer>
@@ -102,12 +102,12 @@
           <InFields />
         </Customer>
         <FinalAction>
-          <LinkBack></LinkBack>
-          <LinkName></LinkName>
-          <OpenNewWin>True</OpenNewWin>
+          <LinkBack>http://www.kidschant.com/</LinkBack>
+          <LinkName>Kids Chant</LinkName>
+          <OpenNewWin>False</OpenNewWin>
           <IncludeCloseBtn>True</IncludeCloseBtn>
           <IncludePrintBtn>True</IncludePrintBtn>
-          <NoLinkback>True</NoLinkback>
+          <NoLinkback>False</NoLinkback>
           <RepeatMode>1</RepeatMode>
           <MinRepeatMark>6</MinRepeatMark>
           <MaxRepeatTimes>100</MaxRepeatTimes>
@@ -120,7 +120,10 @@
           <AskKeyOnFirstPage>True</AskKeyOnFirstPage>
         </Security>
         <Valuation>
-          <Items />
+          <Items>
+            <Item FromMark="20" ToMark="20" Rem="Full Marks! &lt;a href=&quot;http://www.kidschant.com/images/Paternoster.png&quot;&gt;Here is your certificate&lt;/a&gt;." RemFormat="1" Link="" TypeOfSubstitution="2" />
+            <Item FromMark="18" ToMark="19" Rem="Close! Try again for a perfect score." RemFormat="0" Link="" TypeOfSubstitution="1" />
+          </Items>
         </Valuation>
       </options>
       <layout>
@@ -665,17 +668,17 @@
       </layout>
       <quizparams>
         <QuizFileName>paternoster</QuizFileName>
-        <QuizDir>C:\Documents and Settings\Peter Brandt\My Documents\QuizFaber\New Folder</QuizDir>
+        <QuizDir>C:\Documents and Settings\Peter Brandt\My Documents\QuizFaber\PNoutput</QuizDir>
         <QuizNamesList>
-          <Item Value="C:\Documents and Settings\Peter Brandt\My Documents\QuizFaber\New Folder\paternoster.htm" />
-          <Item Value="C:\Documents and Settings\Peter Brandt\My Documents\QuizFaber\New Folder\paternoster4.htm" />
-          <Item Value="C:\Documents and Settings\Peter Brandt\My Documents\QuizFaber\New Folder\paternoster.js" />
-          <Item Value="C:\Documents and Settings\Peter Brandt\My Documents\QuizFaber\New Folder\css\paternoster.css" />
+          <Item Value="C:\Documents and Settings\Peter Brandt\My Documents\QuizFaber\PNoutput\paternoster.htm" />
+          <Item Value="C:\Documents and Settings\Peter Brandt\My Documents\QuizFaber\PNoutput\paternoster4.htm" />
+          <Item Value="C:\Documents and Settings\Peter Brandt\My Documents\QuizFaber\PNoutput\paternoster.js" />
+          <Item Value="C:\Documents and Settings\Peter Brandt\My Documents\QuizFaber\PNoutput\css\paternoster.css" />
         </QuizNamesList>
         <EnableDhtml>True</EnableDhtml>
         <EnableFrame>False</EnableFrame>
         <RunAfterMake>False</RunAfterMake>
-        <OpenFolderAfterMake>True</OpenFolderAfterMake>
+        <OpenFolderAfterMake>False</OpenFolderAfterMake>
         <DefLanguageName>English</DefLanguageName>
         <Languages />
         <Filter>
@@ -1060,7 +1063,7 @@ Sed libera [nos] a [malo].\cf0\highlight0\par
 }
 </text>
         <answers type="1">
-          <singleAns>False</singleAns>
+          <singleAns>True</singleAns>
           <choice correct="False" TextFormat="2" pointsIn="1" pointsOut="0">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
 {\colortbl ;\red0\green0\blue0;\red135\green206\blue250;}
 \viewkind4\uc1\pard\cf1\highlight2\f0\fs24 sanctificetur\cf0\highlight0\par
