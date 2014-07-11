@@ -7,7 +7,7 @@ var soundEnable = 0;
 var okSound='';
 var errSound='';
 var warnSound='';
-var maxtime=1800;
+var maxtime=900;
 var showTimeout = 1;
 var keyword = 'syskey';
 var los = 0;
@@ -2465,7 +2465,7 @@ function GetTypeOfSubstitution(aMark) {
 }
 function GetRemFromMark(aMark) {
  if ((aMark>=20)&&(aMark<=20))
-   return "Full Marks! <a href='http://www.kidschant.com/images/Paternoster.png'>Here is your certificate</a>.";
+   return "Full Marks! <a href='http://www.kidschant.com/pater1/PaterNosterCertificate.pdf'>Here is your certificate</a>.";
  if ((aMark>=18)&&(aMark<=19))
    return "Close! Try again for a perfect score.";
  return "";
