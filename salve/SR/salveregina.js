@@ -1358,7 +1358,7 @@ msg += "This quiz was created ";
 if (author!='') {
 msg += "by <B>"+author+"</B> ";
 }
-msg += "with <A HREF='http://www.kidschant.com/"+qmakeURL+"' TARGET='qf_website'>"+qmakeProgName+" "+qmakeVers+"</A>";
+msg += "with <A HREF='http://"+qmakeURL+"' TARGET='qf_website'>"+qmakeProgName+" "+qmakeVers+"</A>";
 msg += "</P>";
 return msg;
 }
