@@ -2465,7 +2465,7 @@ function GetTypeOfSubstitution(aMark) {
 }
 function GetRemFromMark(aMark) {
  if ((aMark>=20)&&(aMark<=20))
-   return "Full marks! <a href='http://http://www.kidschant.com/salve/SalveReginaCertificate.pdf'>Here is your certificate!</a>";
+   return "Full marks! <a href='http://www.kidschant.com/salve/SalveReginaCertificate.pdf'>Here is your certificate!</a>";
  if ((aMark>=18)&&(aMark<=19))
    return "Close! Try again for a perfect score.";
  return "";

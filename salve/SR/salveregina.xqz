@@ -30,7 +30,7 @@
           <VerifyButtonText>Verifica</VerifyButtonText>
           <VerifyLabel>Al termine del quiz premi il pulsante 'VERIFICA' qui' a fianco</VerifyLabel>
           <UniqueButtonPosition>0</UniqueButtonPosition>
-          <LockMatchingLeftCol>True</LockMatchingLeftCol>
+          <LockMatchingLeftCol>False</LockMatchingLeftCol>
         </Questions>
         <Sounds>
           <ExcludeAllSounds>True</ExcludeAllSounds>
@@ -121,7 +121,7 @@
         </Security>
         <Valuation>
           <Items>
-            <Item FromMark="20" ToMark="20" Rem="Full marks! &lt;a href=&quot;http://&quot;&gt;Here is your certificate!&lt;/a&gt;" RemFormat="1" Link="" TypeOfSubstitution="1" />
+            <Item FromMark="20" ToMark="20" Rem="Full marks! &lt;a href=&quot;http://www.kidschant.com/salve/SalveReginaCertificate.pdf&quot;&gt;Here is your certificate!&lt;/a&gt;" RemFormat="1" Link="" TypeOfSubstitution="1" />
             <Item FromMark="18" ToMark="19" Rem="Close! Try again for a perfect score." RemFormat="0" Link="" TypeOfSubstitution="1" />
           </Items>
         </Valuation>
@@ -726,9 +726,9 @@
 \viewkind4\uc1\pard\cf1\highlight2\f0\fs24 Mater means martyr - someone who has died for the Faith.\cf0\highlight0\f1\fs17\par
 }
 </sentence>
-          <sentence is="False" TextFormat="2">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+          <sentence is="True" TextFormat="2">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
 {\colortbl ;\red0\green0\blue0;\red135\green206\blue250;}
-\viewkind4\uc1\pard\cf1\highlight2\f0\fs24 Misericordiae means miserable.\cf0\highlight0\f1\fs17\par
+\viewkind4\uc1\pard\cf1\highlight2\f0\fs24 Misericordiae means of mercy.\cf0\f1\fs17\par
 }
 </sentence>
         </answers>
