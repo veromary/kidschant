@@ -1,0 +1,121 @@
+\documentclass[a5paper, 12pt]{memoir}
+\usepackage[cm]{fullpage}
+\usepackage{pdfpages}
+\usepackage[T1]{fontenc}
+%\usepackage{libertine}
+\usepackage{luatextra}
+%\usepackage{urwgaramond}
+%\usepackage[utf8]{inputenc}
+\usepackage{gregoriotex}
+\setmainfont{EB Garamond}
+\setmainfont{Linux Libertine O}
+\setsansfont{Linux Biolinum O}
+\newfontfamily{\anavio}{Linux Libertine O}
+%\newfontfamily{\vectis}{Vectis}
+\newfontface{\vectis}{Vectis Bold}
+\newfontfamily{\libertine}{Linux Libertine O}
+\newfontface{\versicles}{Versiculum}
+\newfontface{\inglesh}{Worstveld Sling}
+%\usepackage{parallel}
+%\usepackage{lettrine}
+\newfontface{\cruci}{Juuji}
+
+\renewcommand\gretranslationformat[1]{{\inglesh \fontsize{14}{10}\selectfont #1}}
+\def\latin#1{\selectlanguage{latin}#1\selectlanguage{british}\\}
+\def\vern#1{{\inglesh \fontsize{14}{11}\selectfont #1}\par}
+
+\newcommand\maltese{{\tiny \cruci V}\ }
+
+\renewcommand\Vbar{\makebox[1em][l]{\versicles v}}
+\renewcommand\Rbar{\makebox[1em][l]{\versicles r}}
+
+\let\oldtextbf\textbf
+
+\newcommand\rubrics[1]{\textit{#1}}
+\newcommand\bibleref[2]{\oldtextbf{#1} \hfill \textit{#2}}
+\newcommand\psalm[1]{~ \hfill \oldtextbf{Psalm #1.} \hfill ~}
+
+\makepagestyle{kidschant}
+\makeevenfoot{kidschant}{}{2014 kidschant.com}{}
+\makeoddfoot{kidschant}{}{2014 kidschant.com}{}
+
+\setcounter{secnumdepth}{-1}
+
+\title{Kids Chant}
+\author{Veronica Brandt}
+\date{2014}
+
+\begin{document}
+
+\setlength{\parindent}{0mm}
+
+\pagestyle{kidschant}
+
+\setcounter{secnumdepth}{0}
+
+\begin{center}
+\textsc{Luminous Mysteries}
+\end{center}
+
+The Baptism of the Lord
+
+\setfirstannotation{Ant.}
+\setsecondannotation{1.}
+\includescore{gabc/an--tribus-hodie--solesmes}
+
+\bigskip
+
+\emph{Today in the Jordan by John Christ is baptized, so that He might save us.}
+
+\bigskip
+
+
+The Wedding at Cana
+
+%\setfirstannotation{An}
+%\setsecondannotation{7.}
+%\includescore{gabc/an--viri_galilaei--solesmes}
+
+%\setfirstannotation{\Rbar br.}
+%\includescore{gabc/re--ascendit_deus--solesmes}
+\setfirstannotation{Ant.}
+\setsecondannotation{1.}
+\includescore{gabc/an--deficiente_vino--solesmes}
+
+
+\bigskip
+
+\emph{Running out of wine, Jesus asked them to fill up the water jars, which was turned into wine.}
+
+\newpage
+
+The Proclamation of the Kingdom
+
+\setfirstannotation{Comm.}
+\setsecondannotation{8.}
+\includescore{gabc/co--primum_quaerite--solesmes}
+
+\bigskip
+
+\emph{Seek first the kingdom of God...}
+
+\bigskip
+
+The Transfiguration
+
+\setfirstannotation{Comm.}
+\setsecondannotation{1.}
+\includescore{gabc/an--visionem_quam_vidistis--solesmes}
+
+\emph{Tell the vision to no man, until the Son of man be risen from the dead.}
+
+\bigskip
+
+The Institution of the Eucharist
+
+\setfirstannotation{Ant.}
+\setsecondannotation{5.}
+\includescore{gabc/an--adoremus_in_aeternum--solesmes}
+
+\end{document}
+
