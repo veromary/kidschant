@@ -40,12 +40,24 @@ to help you learn the prayer Hail Holy Queen or Salve Regina in Latin and Englis
 </a>
 </div>
 </div>
-<div class="page-header">
+<div>
 <h1>Music for fun</h1>
 <h3><a href="jesurex.html">Jesu Rex Admirabilis</a>.
 </h3>
 <h3><a href="http://blowthyhorn.com/choralMusicEditions/non_nobis/">Non nobis Domine</a>.</h3>
 <p>Copy of the sheet music <a href="pdf/non_nobis_domine.pdf">here</a>.</p>
+<h2>Recent news</h2>
+<ul class="posts">  
+	{% for post in site.posts limit:5 %}  
+	   <li>  
+		   <span>{{ post.date | date_to_string }}</span> &raquo;  
+		   <a href="{{ site.url }}{{ post.url }}">  
+		   {{ post.title }}</a>  
+	   </li>  
+	{% endfor %}  
+</ul>
+
+
 </div>
 
 <hr />
