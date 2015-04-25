@@ -1,0 +1,5839 @@
+
+ I          
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 2 out of 12, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 3 out of 12, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+         F  
+         A  
+         C  
+         T  
+         O  
+         R  
+         E  
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 19, Words: 4 out of 12, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+         F     
+         A     
+         C     
+         T     
+         OMNIUM
+         R     
+         E     
+VISIBILIUM     
+ N             
+ V             
+ I             
+ S             
+ I             
+ B             
+ I             
+ L             
+ I             
+ U             
+OMNIPOTENTEM   
+
+Dim: 15 by 19, Words: 5 out of 12, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+              P
+         F    A
+         A    T
+         C    R
+         T    E
+         OMNIUM
+         R     
+         E     
+VISIBILIUM     
+ N             
+ V             
+ I             
+ S             
+ I             
+ B             
+ I             
+ L             
+ I             
+ U             
+OMNIPOTENTEM   
+
+Dim: 15 by 20, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         F     
+        PATREM 
+         C     
+         T     
+         OMNIUM
+         R     
+         E     
+VISIBILIUM     
+ N             
+ V             
+ I             
+ S             
+ I             
+ B             
+ I             
+ L             
+ I             
+ U             
+OMNIPOTENTEM   
+
+Dim: 15 by 19, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+           F  
+           A  
+           C  
+           T  
+     O     O  
+PATREM     R  
+     N     E  
+  VISIBILIUM  
+   N U        
+   V M        
+   I          
+   S          
+   I          
+   B          
+   I          
+   L          
+   I          
+   U          
+  OMNIPOTENTEM
+
+Dim: 14 by 19, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         F   
+         A   
+         C   
+       PATREM
+   O     O   
+   M     R   
+   N     E   
+VISIBILIUM   
+ N U         
+ V M         
+ I           
+ S           
+ I           
+ B           
+ I           
+ L           
+ I           
+ U           
+OMNIPOTENTEM 
+
+Dim: 13 by 19, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         F  
+         A  
+         C  
+         T  
+   O     O  
+   M  PATREM
+   N     E  
+VISIBILIUM  
+ N U        
+ V M        
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 19, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I   F      
+ L   A      
+ I   C   P  
+ U   T   A  
+OMNIPOTENTEM
+     R   R  
+     E   E  
+    OMNIUM  
+
+Dim: 12 by 15, Words: 6 out of 12, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+ I          
+ N          
+ V       F  
+ I       A  
+ S       C  
+ I       T  
+ B       O O
+ I    PATREM
+ L       E N
+VISIBILIUM I
+ U         U
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 6 out of 12, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I          
+       B          
+       I   F      
+       L O A      
+VISIBILIUM C      
+       U N T      
+      OMNIPOTENTEM
+         U R      
+         M E      
+           M      
+
+Dim: 18 by 15, Words: 5 out of 12, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I     F    
+       B     A    
+       I     C    
+       L O   T    
+VISIBILIUM   O    
+       U N   R    
+      OMNIPOTENTEM
+         U   M    
+         M        
+
+Dim: 18 by 14, Words: 5 out of 12, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I        F 
+       B     T  A 
+       I     E  C 
+       L O   R  T 
+VISIBILIUM  CREDO 
+       U N   A  R 
+      OMNIPOTENTEM
+         U      M 
+    PATREM        
+
+Dim: 18 by 14, Words: 8 out of 12, Cross: 9, Mix: 1  Ratio: 128 Loose 0 
+
+              P  
+       I      A  
+     OMNIPOTENTEM
+       V  M   R  
+       I  N   E  
+     VISIBILIUM  
+       I  U      
+       B  M      
+       I         
+       L         
+       I         
+       U         
+FACTOREM         
+
+Dim: 17 by 13, Words: 6 out of 12, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+       F    
+       A    
+       C    
+       T    
+       O P  
+  I    R A  
+OMNIPOTENTEM
+  V  M M R  
+  I  N   E  
+VISIBILIUM  
+  I  U      
+  B  M      
+  I         
+  L         
+  I         
+  U         
+  M         
+
+Dim: 12 by 17, Words: 6 out of 12, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+    F          
+    A          
+    C I        
+    T N        
+    O V        
+    R I  P     
+    E S  A     
+   OMNIPOTENTEM
+   M  B  R     
+   N  I  E     
+VISIBILIUM     
+   U  I        
+   M  U        
+      M        
+
+Dim: 15 by 14, Words: 6 out of 12, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+      I        
+      N        
+      V     F  
+      I  P  A  
+      S  A  C  
+   OMNIPOTENTEM
+   M  B  R  O  
+   N  I  E  R  
+VISIBILIUM  E  
+   U  I     M  
+   M  U        
+      M        
+
+Dim: 15 by 12, Words: 6 out of 12, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+          F 
+          A 
+          C 
+          T 
+      D V O 
+    CAELI R 
+      U S E 
+     OMNIUM 
+     M  B   
+     N  I   
+INVISIBILIUM
+     P  I   
+     O  U   
+   PATREM   
+     E      
+     N      
+     T      
+     E      
+     M      
+
+Dim: 12 by 19, Words: 8 out of 12, Cross: 10, Mix: 5  Ratio: 142 Loose 0 
+
+      I   
+      N   
+    D V   
+  CAELI   
+    U S   
+   OMNIUM 
+   M  B   
+   N  I   
+VISIBILIUM
+   P  I   
+   O  U   
+ PATREM   
+   E      
+  UNUM    
+   T      
+   E      
+   M      
+
+Dim: 10 by 17, Words: 8 out of 12, Cross: 10, Mix: 9  Ratio: 142 Loose 0 
+
+ I          
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 2 out of 12, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 3 out of 12, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+         F  
+         A  
+         C  
+         T  
+         O  
+         R  
+         E  
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 19, Words: 4 out of 12, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+         F     
+         A     
+         C     
+         T     
+         OMNIUM
+         R     
+         E     
+VISIBILIUM     
+ N             
+ V             
+ I             
+ S             
+ I             
+ B             
+ I             
+ L             
+ I             
+ U             
+OMNIPOTENTEM   
+
+Dim: 15 by 19, Words: 5 out of 12, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+              P
+         F    A
+         A    T
+         C    R
+         T    E
+         OMNIUM
+         R     
+         E     
+VISIBILIUM     
+ N             
+ V             
+ I             
+ S             
+ I             
+ B             
+ I             
+ L             
+ I             
+ U             
+OMNIPOTENTEM   
+
+Dim: 15 by 20, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         F     
+        PATREM 
+         C     
+         T     
+         OMNIUM
+         R     
+         E     
+VISIBILIUM     
+ N             
+ V             
+ I             
+ S             
+ I             
+ B             
+ I             
+ L             
+ I             
+ U             
+OMNIPOTENTEM   
+
+Dim: 15 by 19, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+           F  
+           A  
+           C  
+           T  
+     O     O  
+PATREM     R  
+     N     E  
+  VISIBILIUM  
+   N U        
+   V M        
+   I          
+   S          
+   I          
+   B          
+   I          
+   L          
+   I          
+   U          
+  OMNIPOTENTEM
+
+Dim: 14 by 19, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         F   
+         A   
+         C   
+       PATREM
+   O     O   
+   M     R   
+   N     E   
+VISIBILIUM   
+ N U         
+ V M         
+ I           
+ S           
+ I           
+ B           
+ I           
+ L           
+ I           
+ U           
+OMNIPOTENTEM 
+
+Dim: 13 by 19, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         F  
+         A  
+         C  
+         T  
+   O     O  
+   M  PATREM
+   N     E  
+VISIBILIUM  
+ N U        
+ V M        
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 19, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I   F      
+ L   A      
+ I   C   P  
+ U   T   A  
+OMNIPOTENTEM
+     R   R  
+     E   E  
+    OMNIUM  
+
+Dim: 12 by 15, Words: 6 out of 12, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+ I          
+ N          
+ V       F  
+ I       A  
+ S       C  
+ I       T  
+ B       O O
+ I    PATREM
+ L       E N
+VISIBILIUM I
+ U         U
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 6 out of 12, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I          
+       B          
+       I   F      
+       L O A      
+VISIBILIUM C      
+       U N T      
+      OMNIPOTENTEM
+         U R      
+         M E      
+           M      
+
+Dim: 18 by 15, Words: 5 out of 12, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I     F    
+       B     A    
+       I     C    
+       L O   T    
+VISIBILIUM   O    
+       U N   R    
+      OMNIPOTENTEM
+         U   M    
+         M        
+
+Dim: 18 by 14, Words: 5 out of 12, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I        F 
+       B     T  A 
+       I     E  C 
+       L O   R  T 
+VISIBILIUM  CREDO 
+       U N   A  R 
+      OMNIPOTENTEM
+         U      M 
+    PATREM        
+
+Dim: 18 by 14, Words: 8 out of 12, Cross: 9, Mix: 1  Ratio: 128 Loose 0 
+
+              P  
+       I      A  
+     OMNIPOTENTEM
+       V  M   R  
+       I  N   E  
+     VISIBILIUM  
+       I  U      
+       B  M      
+       I         
+       L         
+       I         
+       U         
+FACTOREM         
+
+Dim: 17 by 13, Words: 6 out of 12, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+       F    
+       A    
+       C    
+       T    
+       O P  
+  I    R A  
+OMNIPOTENTEM
+  V  M M R  
+  I  N   E  
+VISIBILIUM  
+  I  U      
+  B  M      
+  I         
+  L         
+  I         
+  U         
+  M         
+
+Dim: 12 by 17, Words: 6 out of 12, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+    F          
+    A          
+    C I        
+    T N        
+    O V        
+    R I  P     
+    E S  A     
+   OMNIPOTENTEM
+   M  B  R     
+   N  I  E     
+VISIBILIUM     
+   U  I        
+   M  U        
+      M        
+
+Dim: 15 by 14, Words: 6 out of 12, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+      I        
+      N        
+      V     F  
+      I  P  A  
+      S  A  C  
+   OMNIPOTENTEM
+   M  B  R  O  
+   N  I  E  R  
+VISIBILIUM  E  
+   U  I     M  
+   M  U        
+      M        
+
+Dim: 15 by 12, Words: 6 out of 12, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+          F 
+          A 
+          C 
+          T 
+      D V O 
+    CAELI R 
+      U S E 
+     OMNIUM 
+     M  B   
+     N  I   
+INVISIBILIUM
+     P  I   
+     O  U   
+   PATREM   
+     E      
+     N      
+     T      
+     E      
+     M      
+
+Dim: 12 by 19, Words: 8 out of 12, Cross: 10, Mix: 5  Ratio: 142 Loose 0 
+
+      I   
+      N   
+    D V   
+  CAELI   
+    U S   
+   OMNIUM 
+   M  B   
+   N  I   
+VISIBILIUM
+   P  I   
+   O  U   
+ PATREM   
+   E      
+  UNUM    
+   T      
+   E      
+   M      
+
+Dim: 10 by 17, Words: 8 out of 12, Cross: 10, Mix: 9  Ratio: 142 Loose 0 
+
+ I          
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 2 out of 12, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 3 out of 12, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+         F  
+         A  
+         C  
+         T  
+         O  
+         R  
+         E  
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 19, Words: 4 out of 12, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+         F     
+         A     
+         C     
+         T     
+         OMNIUM
+         R     
+         E     
+VISIBILIUM     
+ N             
+ V             
+ I             
+ S             
+ I             
+ B             
+ I             
+ L             
+ I             
+ U             
+OMNIPOTENTEM   
+
+Dim: 15 by 19, Words: 5 out of 12, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+              P
+         F    A
+         A    T
+         C    R
+         T    E
+         OMNIUM
+         R     
+         E     
+VISIBILIUM     
+ N             
+ V             
+ I             
+ S             
+ I             
+ B             
+ I             
+ L             
+ I             
+ U             
+OMNIPOTENTEM   
+
+Dim: 15 by 20, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         F     
+        PATREM 
+         C     
+         T     
+         OMNIUM
+         R     
+         E     
+VISIBILIUM     
+ N             
+ V             
+ I             
+ S             
+ I             
+ B             
+ I             
+ L             
+ I             
+ U             
+OMNIPOTENTEM   
+
+Dim: 15 by 19, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+           F  
+           A  
+           C  
+           T  
+     O     O  
+PATREM     R  
+     N     E  
+  VISIBILIUM  
+   N U        
+   V M        
+   I          
+   S          
+   I          
+   B          
+   I          
+   L          
+   I          
+   U          
+  OMNIPOTENTEM
+
+Dim: 14 by 19, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         F   
+         A   
+         C   
+       PATREM
+   O     O   
+   M     R   
+   N     E   
+VISIBILIUM   
+ N U         
+ V M         
+ I           
+ S           
+ I           
+ B           
+ I           
+ L           
+ I           
+ U           
+OMNIPOTENTEM 
+
+Dim: 13 by 19, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         F  
+         A  
+         C  
+         T  
+   O     O  
+   M  PATREM
+   N     E  
+VISIBILIUM  
+ N U        
+ V M        
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 19, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I   F      
+ L   A      
+ I   C   P  
+ U   T   A  
+OMNIPOTENTEM
+     R   R  
+     E   E  
+    OMNIUM  
+
+Dim: 12 by 15, Words: 6 out of 12, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+ I          
+ N          
+ V       F  
+ I       A  
+ S       C  
+ I       T  
+ B       O O
+ I    PATREM
+ L       E N
+VISIBILIUM I
+ U         U
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 6 out of 12, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I          
+       B          
+       I   F      
+       L O A      
+VISIBILIUM C      
+       U N T      
+      OMNIPOTENTEM
+         U R      
+         M E      
+           M      
+
+Dim: 18 by 15, Words: 5 out of 12, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I     F    
+       B     A    
+       I     C    
+       L O   T    
+VISIBILIUM   O    
+       U N   R    
+      OMNIPOTENTEM
+         U   M    
+         M        
+
+Dim: 18 by 14, Words: 5 out of 12, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I        F 
+       B     T  A 
+       I     E  C 
+       L O   R  T 
+VISIBILIUM  CREDO 
+       U N   A  R 
+      OMNIPOTENTEM
+         U      M 
+    PATREM        
+
+Dim: 18 by 14, Words: 8 out of 12, Cross: 9, Mix: 1  Ratio: 128 Loose 0 
+
+              P  
+       I      A  
+     OMNIPOTENTEM
+       V  M   R  
+       I  N   E  
+     VISIBILIUM  
+       I  U      
+       B  M      
+       I         
+       L         
+       I         
+       U         
+FACTOREM         
+
+Dim: 17 by 13, Words: 6 out of 12, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+       F    
+       A    
+       C    
+       T    
+       O P  
+  I    R A  
+OMNIPOTENTEM
+  V  M M R  
+  I  N   E  
+VISIBILIUM  
+  I  U      
+  B  M      
+  I         
+  L         
+  I         
+  U         
+  M         
+
+Dim: 12 by 17, Words: 6 out of 12, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+    F          
+    A          
+    C I        
+    T N        
+    O V        
+    R I  P     
+    E S  A     
+   OMNIPOTENTEM
+   M  B  R     
+   N  I  E     
+VISIBILIUM     
+   U  I        
+   M  U        
+      M        
+
+Dim: 15 by 14, Words: 6 out of 12, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+      I        
+      N        
+      V     F  
+      I  P  A  
+      S  A  C  
+   OMNIPOTENTEM
+   M  B  R  O  
+   N  I  E  R  
+VISIBILIUM  E  
+   U  I     M  
+   M  U        
+      M        
+
+Dim: 15 by 12, Words: 6 out of 12, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+ I          
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 2 out of 12, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 3 out of 12, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+         F  
+         A  
+         C  
+         T  
+         O  
+         R  
+         E  
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 19, Words: 4 out of 12, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+         F     
+         A     
+         C     
+         T     
+         OMNIUM
+         R     
+         E     
+VISIBILIUM     
+ N             
+ V             
+ I             
+ S             
+ I             
+ B             
+ I             
+ L             
+ I             
+ U             
+OMNIPOTENTEM   
+
+Dim: 15 by 19, Words: 5 out of 12, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+              P
+         F    A
+         A    T
+         C    R
+         T    E
+         OMNIUM
+         R     
+         E     
+VISIBILIUM     
+ N             
+ V             
+ I             
+ S             
+ I             
+ B             
+ I             
+ L             
+ I             
+ U             
+OMNIPOTENTEM   
+
+Dim: 15 by 20, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         F     
+        PATREM 
+         C     
+         T     
+         OMNIUM
+         R     
+         E     
+VISIBILIUM     
+ N             
+ V             
+ I             
+ S             
+ I             
+ B             
+ I             
+ L             
+ I             
+ U             
+OMNIPOTENTEM   
+
+Dim: 15 by 19, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+           F  
+           A  
+           C  
+           T  
+     O     O  
+PATREM     R  
+     N     E  
+  VISIBILIUM  
+   N U        
+   V M        
+   I          
+   S          
+   I          
+   B          
+   I          
+   L          
+   I          
+   U          
+  OMNIPOTENTEM
+
+Dim: 14 by 19, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         F   
+         A   
+         C   
+       PATREM
+   O     O   
+   M     R   
+   N     E   
+VISIBILIUM   
+ N U         
+ V M         
+ I           
+ S           
+ I           
+ B           
+ I           
+ L           
+ I           
+ U           
+OMNIPOTENTEM 
+
+Dim: 13 by 19, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         F  
+         A  
+         C  
+         T  
+   O     O  
+   M  PATREM
+   N     E  
+VISIBILIUM  
+ N U        
+ V M        
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 19, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I   F      
+ L   A      
+ I   C   P  
+ U   T   A  
+OMNIPOTENTEM
+     R   R  
+     E   E  
+    OMNIUM  
+
+Dim: 12 by 15, Words: 6 out of 12, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+ I          
+ N          
+ V       F  
+ I       A  
+ S       C  
+ I       T  
+ B       O O
+ I    PATREM
+ L       E N
+VISIBILIUM I
+ U         U
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 6 out of 12, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I          
+       B          
+       I   F      
+       L O A      
+VISIBILIUM C      
+       U N T      
+      OMNIPOTENTEM
+         U R      
+         M E      
+           M      
+
+Dim: 18 by 15, Words: 5 out of 12, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I     F    
+       B     A    
+       I     C    
+       L O   T    
+VISIBILIUM   O    
+       U N   R    
+      OMNIPOTENTEM
+         U   M    
+         M        
+
+Dim: 18 by 14, Words: 5 out of 12, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I        F 
+       B     T  A 
+       I     E  C 
+       L O   R  T 
+VISIBILIUM  CREDO 
+       U N   A  R 
+      OMNIPOTENTEM
+         U      M 
+    PATREM        
+
+Dim: 18 by 14, Words: 8 out of 12, Cross: 9, Mix: 1  Ratio: 128 Loose 0 
+
+              P  
+       I      A  
+     OMNIPOTENTEM
+       V  M   R  
+       I  N   E  
+     VISIBILIUM  
+       I  U      
+       B  M      
+       I         
+       L         
+       I         
+       U         
+FACTOREM         
+
+Dim: 17 by 13, Words: 6 out of 12, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+       F    
+       A    
+       C    
+       T    
+       O P  
+  I    R A  
+OMNIPOTENTEM
+  V  M M R  
+  I  N   E  
+VISIBILIUM  
+  I  U      
+  B  M      
+  I         
+  L         
+  I         
+  U         
+  M         
+
+Dim: 12 by 17, Words: 6 out of 12, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+    F          
+    A          
+    C I        
+    T N        
+    O V        
+    R I  P     
+    E S  A     
+   OMNIPOTENTEM
+   M  B  R     
+   N  I  E     
+VISIBILIUM     
+   U  I        
+   M  U        
+      M        
+
+Dim: 15 by 14, Words: 6 out of 12, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+      I        
+      N        
+      V     F  
+      I  P  A  
+      S  A  C  
+   OMNIPOTENTEM
+   M  B  R  O  
+   N  I  E  R  
+VISIBILIUM  E  
+   U  I     M  
+   M  U        
+      M        
+
+Dim: 15 by 12, Words: 6 out of 12, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+          F 
+          A 
+          C 
+          T 
+      D V O 
+    CAELI R 
+      U S E 
+     OMNIUM 
+     M  B   
+     N  I   
+INVISIBILIUM
+     P  I   
+     O  U   
+   PATREM   
+     E      
+     N      
+     T      
+     E      
+     M      
+
+Dim: 12 by 19, Words: 8 out of 12, Cross: 10, Mix: 5  Ratio: 142 Loose 0 
+
+      I   
+      N   
+    D V   
+  CAELI   
+    U S   
+   OMNIUM 
+   M  B   
+   N  I   
+VISIBILIUM
+   P  I   
+   O  U   
+ PATREM   
+   E      
+  UNUM    
+   T      
+   E      
+   M      
+
+Dim: 10 by 17, Words: 8 out of 12, Cross: 10, Mix: 9  Ratio: 142 Loose 0 
+
+       OMNIUM
+       M   N 
+       N V U 
+INVISIBILIUM 
+       P S   
+     F O I   
+     A T B   
+     CAELI   
+     T N L   
+     O T I   
+     R E U   
+    DEUM M   
+     M       
+
+Dim: 13 by 13, Words: 8 out of 12, Cross: 10, Mix: 51  Ratio: 142 Loose 0 
+
+ I          
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 2 out of 12, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 3 out of 12, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+         F  
+         A  
+         C  
+         T  
+         O  
+         R  
+         E  
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 19, Words: 4 out of 12, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+         F     
+         A     
+         C     
+         T     
+         OMNIUM
+         R     
+         E     
+VISIBILIUM     
+ N             
+ V             
+ I             
+ S             
+ I             
+ B             
+ I             
+ L             
+ I             
+ U             
+OMNIPOTENTEM   
+
+Dim: 15 by 19, Words: 5 out of 12, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+              P
+         F    A
+         A    T
+         C    R
+         T    E
+         OMNIUM
+         R     
+         E     
+VISIBILIUM     
+ N             
+ V             
+ I             
+ S             
+ I             
+ B             
+ I             
+ L             
+ I             
+ U             
+OMNIPOTENTEM   
+
+Dim: 15 by 20, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         F     
+        PATREM 
+         C     
+         T     
+         OMNIUM
+         R     
+         E     
+VISIBILIUM     
+ N             
+ V             
+ I             
+ S             
+ I             
+ B             
+ I             
+ L             
+ I             
+ U             
+OMNIPOTENTEM   
+
+Dim: 15 by 19, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+           F  
+           A  
+           C  
+           T  
+     O     O  
+PATREM     R  
+     N     E  
+  VISIBILIUM  
+   N U        
+   V M        
+   I          
+   S          
+   I          
+   B          
+   I          
+   L          
+   I          
+   U          
+  OMNIPOTENTEM
+
+Dim: 14 by 19, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         F   
+         A   
+         C   
+       PATREM
+   O     O   
+   M     R   
+   N     E   
+VISIBILIUM   
+ N U         
+ V M         
+ I           
+ S           
+ I           
+ B           
+ I           
+ L           
+ I           
+ U           
+OMNIPOTENTEM 
+
+Dim: 13 by 19, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         F  
+         A  
+         C  
+         T  
+   O     O  
+   M  PATREM
+   N     E  
+VISIBILIUM  
+ N U        
+ V M        
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 19, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I   F      
+ L   A      
+ I   C   P  
+ U   T   A  
+OMNIPOTENTEM
+     R   R  
+     E   E  
+    OMNIUM  
+
+Dim: 12 by 15, Words: 6 out of 12, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+ I          
+ N          
+ V       F  
+ I       A  
+ S       C  
+ I       T  
+ B       O O
+ I    PATREM
+ L       E N
+VISIBILIUM I
+ U         U
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 6 out of 12, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I          
+       B          
+       I   F      
+       L O A      
+VISIBILIUM C      
+       U N T      
+      OMNIPOTENTEM
+         U R      
+         M E      
+           M      
+
+Dim: 18 by 15, Words: 5 out of 12, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I     F    
+       B     A    
+       I     C    
+       L O   T    
+VISIBILIUM   O    
+       U N   R    
+      OMNIPOTENTEM
+         U   M    
+         M        
+
+Dim: 18 by 14, Words: 5 out of 12, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I        F 
+       B     T  A 
+       I     E  C 
+       L O   R  T 
+VISIBILIUM  CREDO 
+       U N   A  R 
+      OMNIPOTENTEM
+         U      M 
+    PATREM        
+
+Dim: 18 by 14, Words: 8 out of 12, Cross: 9, Mix: 1  Ratio: 128 Loose 0 
+
+              P  
+       I      A  
+     OMNIPOTENTEM
+       V  M   R  
+       I  N   E  
+     VISIBILIUM  
+       I  U      
+       B  M      
+       I         
+       L         
+       I         
+       U         
+FACTOREM         
+
+Dim: 17 by 13, Words: 6 out of 12, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+       F    
+       A    
+       C    
+       T    
+       O P  
+  I    R A  
+OMNIPOTENTEM
+  V  M M R  
+  I  N   E  
+VISIBILIUM  
+  I  U      
+  B  M      
+  I         
+  L         
+  I         
+  U         
+  M         
+
+Dim: 12 by 17, Words: 6 out of 12, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+    F          
+    A          
+    C I        
+    T N        
+    O V        
+    R I  P     
+    E S  A     
+   OMNIPOTENTEM
+   M  B  R     
+   N  I  E     
+VISIBILIUM     
+   U  I        
+   M  U        
+      M        
+
+Dim: 15 by 14, Words: 6 out of 12, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+      I        
+      N        
+      V     F  
+      I  P  A  
+      S  A  C  
+   OMNIPOTENTEM
+   M  B  R  O  
+   N  I  E  R  
+VISIBILIUM  E  
+   U  I     M  
+   M  U        
+      M        
+
+Dim: 15 by 12, Words: 6 out of 12, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+          F 
+          A 
+          C 
+          T 
+      D V O 
+    CAELI R 
+      U S E 
+     OMNIUM 
+     M  B   
+     N  I   
+INVISIBILIUM
+     P  I   
+     O  U   
+   PATREM   
+     E      
+     N      
+     T      
+     E      
+     M      
+
+Dim: 12 by 19, Words: 8 out of 12, Cross: 10, Mix: 5  Ratio: 142 Loose 0 
+
+      I   
+      N   
+    D V   
+  CAELI   
+    U S   
+   OMNIUM 
+   M  B   
+   N  I   
+VISIBILIUM
+   P  I   
+   O  U   
+ PATREM   
+   E      
+  UNUM    
+   T      
+   E      
+   M      
+
+Dim: 10 by 17, Words: 8 out of 12, Cross: 10, Mix: 9  Ratio: 142 Loose 0 
+
+       OMNIUM
+       M   N 
+       N V U 
+INVISIBILIUM 
+       P S   
+     F O I   
+     A T B   
+     CAELI   
+     T N L   
+     O T I   
+     R E U   
+    DEUM M   
+     M       
+
+Dim: 13 by 13, Words: 8 out of 12, Cross: 10, Mix: 51  Ratio: 142 Loose 0 
+
+      D V   
+    CAELI   
+      U S   
+     OMNIUM 
+     M  B   
+     N  I   
+INVISIBILIUM
+     P  I   
+     O  U   
+   PATREM   
+     E      
+     N      
+     T      
+     E      
+     M      
+
+Dim: 12 by 15, Words: 7 out of 12, Cross: 9, Mix: 196  Ratio: 150 Loose 0 
+
+ I          
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 2 out of 12, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 3 out of 12, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+         F  
+         A  
+         C  
+         T  
+         O  
+         R  
+         E  
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 19, Words: 4 out of 12, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+         F     
+         A     
+         C     
+         T     
+         OMNIUM
+         R     
+         E     
+VISIBILIUM     
+ N             
+ V             
+ I             
+ S             
+ I             
+ B             
+ I             
+ L             
+ I             
+ U             
+OMNIPOTENTEM   
+
+Dim: 15 by 19, Words: 5 out of 12, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+              P
+         F    A
+         A    T
+         C    R
+         T    E
+         OMNIUM
+         R     
+         E     
+VISIBILIUM     
+ N             
+ V             
+ I             
+ S             
+ I             
+ B             
+ I             
+ L             
+ I             
+ U             
+OMNIPOTENTEM   
+
+Dim: 15 by 20, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         F     
+        PATREM 
+         C     
+         T     
+         OMNIUM
+         R     
+         E     
+VISIBILIUM     
+ N             
+ V             
+ I             
+ S             
+ I             
+ B             
+ I             
+ L             
+ I             
+ U             
+OMNIPOTENTEM   
+
+Dim: 15 by 19, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+           F  
+           A  
+           C  
+           T  
+     O     O  
+PATREM     R  
+     N     E  
+  VISIBILIUM  
+   N U        
+   V M        
+   I          
+   S          
+   I          
+   B          
+   I          
+   L          
+   I          
+   U          
+  OMNIPOTENTEM
+
+Dim: 14 by 19, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         F   
+         A   
+         C   
+       PATREM
+   O     O   
+   M     R   
+   N     E   
+VISIBILIUM   
+ N U         
+ V M         
+ I           
+ S           
+ I           
+ B           
+ I           
+ L           
+ I           
+ U           
+OMNIPOTENTEM 
+
+Dim: 13 by 19, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         F  
+         A  
+         C  
+         T  
+   O     O  
+   M  PATREM
+   N     E  
+VISIBILIUM  
+ N U        
+ V M        
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 19, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I   F      
+ L   A      
+ I   C   P  
+ U   T   A  
+OMNIPOTENTEM
+     R   R  
+     E   E  
+    OMNIUM  
+
+Dim: 12 by 15, Words: 6 out of 12, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+ I          
+ N          
+ V       F  
+ I       A  
+ S       C  
+ I       T  
+ B       O O
+ I    PATREM
+ L       E N
+VISIBILIUM I
+ U         U
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 6 out of 12, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I          
+       B          
+       I   F      
+       L O A      
+VISIBILIUM C      
+       U N T      
+      OMNIPOTENTEM
+         U R      
+         M E      
+           M      
+
+Dim: 18 by 15, Words: 5 out of 12, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I     F    
+       B     A    
+       I     C    
+       L O   T    
+VISIBILIUM   O    
+       U N   R    
+      OMNIPOTENTEM
+         U   M    
+         M        
+
+Dim: 18 by 14, Words: 5 out of 12, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I        F 
+       B     T  A 
+       I     E  C 
+       L O   R  T 
+VISIBILIUM  CREDO 
+       U N   A  R 
+      OMNIPOTENTEM
+         U      M 
+    PATREM        
+
+Dim: 18 by 14, Words: 8 out of 12, Cross: 9, Mix: 1  Ratio: 128 Loose 0 
+
+              P  
+       I      A  
+     OMNIPOTENTEM
+       V  M   R  
+       I  N   E  
+     VISIBILIUM  
+       I  U      
+       B  M      
+       I         
+       L         
+       I         
+       U         
+FACTOREM         
+
+Dim: 17 by 13, Words: 6 out of 12, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+       F    
+       A    
+       C    
+       T    
+       O P  
+  I    R A  
+OMNIPOTENTEM
+  V  M M R  
+  I  N   E  
+VISIBILIUM  
+  I  U      
+  B  M      
+  I         
+  L         
+  I         
+  U         
+  M         
+
+Dim: 12 by 17, Words: 6 out of 12, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+    F          
+    A          
+    C I        
+    T N        
+    O V        
+    R I  P     
+    E S  A     
+   OMNIPOTENTEM
+   M  B  R     
+   N  I  E     
+VISIBILIUM     
+   U  I        
+   M  U        
+      M        
+
+Dim: 15 by 14, Words: 6 out of 12, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+      I        
+      N        
+      V     F  
+      I  P  A  
+      S  A  C  
+   OMNIPOTENTEM
+   M  B  R  O  
+   N  I  E  R  
+VISIBILIUM  E  
+   U  I     M  
+   M  U        
+      M        
+
+Dim: 15 by 12, Words: 6 out of 12, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+          F 
+          A 
+          C 
+          T 
+      D V O 
+    CAELI R 
+      U S E 
+     OMNIUM 
+     M  B   
+     N  I   
+INVISIBILIUM
+     P  I   
+     O  U   
+   PATREM   
+     E      
+     N      
+     T      
+     E      
+     M      
+
+Dim: 12 by 19, Words: 8 out of 12, Cross: 10, Mix: 5  Ratio: 142 Loose 0 
+
+      I   
+      N   
+    D V   
+  CAELI   
+    U S   
+   OMNIUM 
+   M  B   
+   N  I   
+VISIBILIUM
+   P  I   
+   O  U   
+ PATREM   
+   E      
+  UNUM    
+   T      
+   E      
+   M      
+
+Dim: 10 by 17, Words: 8 out of 12, Cross: 10, Mix: 9  Ratio: 142 Loose 0 
+
+ I          
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 2 out of 12, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 3 out of 12, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+         F  
+         A  
+         C  
+         T  
+         O  
+         R  
+         E  
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 19, Words: 4 out of 12, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+         F     
+         A     
+         C     
+         T     
+         OMNIUM
+         R     
+         E     
+VISIBILIUM     
+ N             
+ V             
+ I             
+ S             
+ I             
+ B             
+ I             
+ L             
+ I             
+ U             
+OMNIPOTENTEM   
+
+Dim: 15 by 19, Words: 5 out of 12, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+              P
+         F    A
+         A    T
+         C    R
+         T    E
+         OMNIUM
+         R     
+         E     
+VISIBILIUM     
+ N             
+ V             
+ I             
+ S             
+ I             
+ B             
+ I             
+ L             
+ I             
+ U             
+OMNIPOTENTEM   
+
+Dim: 15 by 20, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         F     
+        PATREM 
+         C     
+         T     
+         OMNIUM
+         R     
+         E     
+VISIBILIUM     
+ N             
+ V             
+ I             
+ S             
+ I             
+ B             
+ I             
+ L             
+ I             
+ U             
+OMNIPOTENTEM   
+
+Dim: 15 by 19, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+           F  
+           A  
+           C  
+           T  
+     O     O  
+PATREM     R  
+     N     E  
+  VISIBILIUM  
+   N U        
+   V M        
+   I          
+   S          
+   I          
+   B          
+   I          
+   L          
+   I          
+   U          
+  OMNIPOTENTEM
+
+Dim: 14 by 19, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         F   
+         A   
+         C   
+       PATREM
+   O     O   
+   M     R   
+   N     E   
+VISIBILIUM   
+ N U         
+ V M         
+ I           
+ S           
+ I           
+ B           
+ I           
+ L           
+ I           
+ U           
+OMNIPOTENTEM 
+
+Dim: 13 by 19, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         F  
+         A  
+         C  
+         T  
+   O     O  
+   M  PATREM
+   N     E  
+VISIBILIUM  
+ N U        
+ V M        
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 19, Words: 6 out of 12, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I   F      
+ L   A      
+ I   C   P  
+ U   T   A  
+OMNIPOTENTEM
+     R   R  
+     E   E  
+    OMNIUM  
+
+Dim: 12 by 15, Words: 6 out of 12, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+ I          
+ N          
+ V       F  
+ I       A  
+ S       C  
+ I       T  
+ B       O O
+ I    PATREM
+ L       E N
+VISIBILIUM I
+ U         U
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 6 out of 12, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I          
+       B          
+       I   F      
+       L O A      
+VISIBILIUM C      
+       U N T      
+      OMNIPOTENTEM
+         U R      
+         M E      
+           M      
+
+Dim: 18 by 15, Words: 5 out of 12, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I     F    
+       B     A    
+       I     C    
+       L O   T    
+VISIBILIUM   O    
+       U N   R    
+      OMNIPOTENTEM
+         U   M    
+         M        
+
+Dim: 18 by 14, Words: 5 out of 12, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I        F 
+       B     T  A 
+       I     E  C 
+       L O   R  T 
+VISIBILIUM  CREDO 
+       U N   A  R 
+      OMNIPOTENTEM
+         U      M 
+    PATREM        
+
+Dim: 18 by 14, Words: 8 out of 12, Cross: 9, Mix: 1  Ratio: 128 Loose 0 
+
+              P  
+       I      A  
+     OMNIPOTENTEM
+       V  M   R  
+       I  N   E  
+     VISIBILIUM  
+       I  U      
+       B  M      
+       I         
+       L         
+       I         
+       U         
+FACTOREM         
+
+Dim: 17 by 13, Words: 6 out of 12, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+       F    
+       A    
+       C    
+       T    
+       O P  
+  I    R A  
+OMNIPOTENTEM
+  V  M M R  
+  I  N   E  
+VISIBILIUM  
+  I  U      
+  B  M      
+  I         
+  L         
+  I         
+  U         
+  M         
+
+Dim: 12 by 17, Words: 6 out of 12, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+    F          
+    A          
+    C I        
+    T N        
+    O V        
+    R I  P     
+    E S  A     
+   OMNIPOTENTEM
+   M  B  R     
+   N  I  E     
+VISIBILIUM     
+   U  I        
+   M  U        
+      M        
+
+Dim: 15 by 14, Words: 6 out of 12, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+      I        
+      N        
+      V     F  
+      I  P  A  
+      S  A  C  
+   OMNIPOTENTEM
+   M  B  R  O  
+   N  I  E  R  
+VISIBILIUM  E  
+   U  I     M  
+   M  U        
+      M        
+
+Dim: 15 by 12, Words: 6 out of 12, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+          F 
+          A 
+          C 
+          T 
+      D V O 
+    CAELI R 
+      U S E 
+     OMNIUM 
+     M  B   
+     N  I   
+INVISIBILIUM
+     P  I   
+     O  U   
+   PATREM   
+     E      
+     N      
+     T      
+     E      
+     M      
+
+Dim: 12 by 19, Words: 8 out of 12, Cross: 10, Mix: 5  Ratio: 142 Loose 0 
+
+      I   
+      N   
+    D V   
+  CAELI   
+    U S   
+   OMNIUM 
+   M  B   
+   N  I   
+VISIBILIUM
+   P  I   
+   O  U   
+ PATREM   
+   E      
+  UNUM    
+   T      
+   E      
+   M      
+
+Dim: 10 by 17, Words: 8 out of 12, Cross: 10, Mix: 9  Ratio: 142 Loose 0 
+
+       OMNIUM
+       M   N 
+       N V U 
+INVISIBILIUM 
+       P S   
+     F O I   
+     A T B   
+     CAELI   
+     T N L   
+     O T I   
+     R E U   
+    DEUM M   
+     M       
+
+Dim: 13 by 13, Words: 8 out of 12, Cross: 10, Mix: 51  Ratio: 142 Loose 0 
+
+ I          
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 2 out of 12, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 3 out of 12, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+         F  
+         A  
+         C  
+         T  
+         O  
+         R  
+         E  
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 19, Words: 4 out of 12, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+         F     
+         A     
+         C     
+         T     
+         OMNIUM
+         R     
+         E     
+VISIBILIUM     
+ N             
+ V             
+ I             
+ S             
+ I             
+ B             
+ I             
+ L             
+ I             
+ U             
+OMNIPOTENTEM   
+
+Dim: 15 by 19, Words: 5 out of 12, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+         F  
+         A  
+         C  
+         T  
+   O     O  
+   M     R  
+   N     E  
+VISIBILIUM  
+ N U        
+ V M        
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 19, Words: 5 out of 12, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I   F      
+ L   A      
+ I   C      
+ U   T      
+OMNIPOTENTEM
+     R      
+     E      
+    OMNIUM  
+
+Dim: 12 by 15, Words: 5 out of 12, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM   
+ N           
+ V           
+ I           
+ S           
+ I     F     
+ B     A     
+ I     C     
+ L     T     
+ I     OMNIUM
+ U     R     
+OMNIPOTENTEM 
+       M     
+
+Dim: 13 by 13, Words: 5 out of 12, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I     F    
+ B     A   O
+ I     C   M
+ L     T   N
+ I     O   I
+ U     R   U
+OMNIPOTENTEM
+       M    
+
+Dim: 12 by 13, Words: 5 out of 12, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+ I O        
+ N M        
+ V N        
+VISIBILIUM  
+ S U       F
+ I M       A
+ B         C
+ I         T
+ L         O
+ I         R
+ U         E
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 5 out of 12, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I          
+       B          
+       I   F      
+       L O A      
+VISIBILIUM C      
+       U N T      
+      OMNIPOTENTEM
+         U R      
+         M E      
+           M      
+
+Dim: 18 by 15, Words: 5 out of 12, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I     F    
+       B     A    
+       I     C    
+       L O   T    
+VISIBILIUM   O    
+       U N   R    
+      OMNIPOTENTEM
+         U   M    
+         M        
+
+Dim: 18 by 14, Words: 5 out of 12, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+       I         
+     OMNIPOTENTEM
+       V  M      
+       I  N      
+     VISIBILIUM  
+       I  U      
+       B  M      
+       I         
+       L         
+       I         
+       U         
+FACTOREM         
+
+Dim: 17 by 12, Words: 5 out of 12, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+              P  
+       I      A  
+     OMNIPOTENTEM
+       V  M   R  
+       I  N   E  
+     VISIBILIUM  
+       I  U      
+       B  M      
+       I         
+       L         
+       I         
+       U         
+FACTOREM         
+
+Dim: 17 by 13, Words: 6 out of 12, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+       F    
+       A    
+       C    
+       T    
+       O P  
+  I    R A  
+OMNIPOTENTEM
+  V  M M R  
+  I  N   E  
+VISIBILIUM  
+  I  U      
+  B  M      
+  I         
+  L         
+  I         
+  U         
+  M         
+
+Dim: 12 by 17, Words: 6 out of 12, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+    F          
+    A          
+    C I        
+    T N        
+    O V        
+    R I  P     
+    E S  A     
+   OMNIPOTENTEM
+   M  B  R     
+   N  I  E     
+VISIBILIUM     
+   U  I        
+   M  U        
+      M        
+
+Dim: 15 by 14, Words: 6 out of 12, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+      I        
+      N        
+      V     F  
+      I  P  A  
+      S  A  C  
+   OMNIPOTENTEM
+   M  B  R  O  
+   N  I  E  R  
+VISIBILIUM  E  
+   U  I     M  
+   M  U        
+      M        
+
+Dim: 15 by 12, Words: 6 out of 12, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+      I   
+      N   
+    D V   
+  CAELI   
+    U S   
+   OMNIUM 
+   M  B   
+   N  I   
+VISIBILIUM
+   P  I   
+   O  U   
+ PATREM   
+   E      
+  UNUM    
+   T      
+   E      
+   M      
+
+Dim: 10 by 17, Words: 8 out of 12, Cross: 10, Mix: 9  Ratio: 142 Loose 0 
+
+       OMNIUM
+       M   N 
+       N V U 
+INVISIBILIUM 
+       P S   
+     F O I   
+     A T B   
+     CAELI   
+     T N L   
+     O T I   
+     R E U   
+    DEUM M   
+     M       
+
+Dim: 13 by 13, Words: 8 out of 12, Cross: 10, Mix: 51  Ratio: 142 Loose 0 
+
+      D V   
+    CAELI   
+      U S   
+     OMNIUM 
+     M  B   
+     N  I   
+INVISIBILIUM
+     P  I   
+     O  U   
+   PATREM   
+     E      
+     N      
+     T      
+     E      
+     M      
+
+Dim: 12 by 15, Words: 7 out of 12, Cross: 9, Mix: 196  Ratio: 150 Loose 0 
+
+   I       D 
+   N FACTOREM
+ O V   A   U 
+OMNIPOTENTEM 
+ N S   L     
+VISIBILIUM   
+ U B         
+ M I         
+   L         
+   I         
+   U         
+   M         
+
+Dim: 13 by 12, Words: 7 out of 12, Cross: 9, Mix: 1044  Ratio: 150 Loose 0 
+
+ I          
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 2 out of 13, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 3 out of 13, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+         F  
+         A  
+         C  
+         T  
+         O  
+         R  
+         E  
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 19, Words: 4 out of 13, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+         F     
+         A     
+         C     
+         T     
+         OMNIUM
+         R     
+         E     
+VISIBILIUM     
+ N             
+ V             
+ I             
+ S             
+ I             
+ B             
+ I             
+ L             
+ I             
+ U             
+OMNIPOTENTEM   
+
+Dim: 15 by 19, Words: 5 out of 13, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+         F  
+         A  
+         C  
+         T  
+   O     O  
+   M     R  
+   N     E  
+VISIBILIUM  
+ N U        
+ V M        
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 19, Words: 5 out of 13, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I   F      
+ L   A      
+ I   C      
+ U   T      
+OMNIPOTENTEM
+     R      
+     E      
+    OMNIUM  
+
+Dim: 12 by 15, Words: 5 out of 13, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM   
+ N           
+ V           
+ I           
+ S           
+ I     F     
+ B     A     
+ I     C     
+ L     T     
+ I     OMNIUM
+ U     R     
+OMNIPOTENTEM 
+       M     
+
+Dim: 13 by 13, Words: 5 out of 13, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I     F    
+ B     A   O
+ I     C   M
+ L     T   N
+ I     O   I
+ U     R   U
+OMNIPOTENTEM
+       M    
+
+Dim: 12 by 13, Words: 5 out of 13, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+ I O        
+ N M        
+ V N        
+VISIBILIUM  
+ S U       F
+ I M       A
+ B         C
+ I         T
+ L         O
+ I         R
+ U         E
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 5 out of 13, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I          
+       B          
+       I   F      
+       L O A      
+VISIBILIUM C      
+       U N T      
+      OMNIPOTENTEM
+         U R      
+         M E      
+           M      
+
+Dim: 18 by 15, Words: 5 out of 13, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I     F    
+       B     A    
+       I     C    
+       L O   T    
+VISIBILIUM   O    
+       U N   R    
+      OMNIPOTENTEM
+         U   M    
+         M        
+
+Dim: 18 by 14, Words: 5 out of 13, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+       I         
+     OMNIPOTENTEM
+       V  M      
+       I  N      
+     VISIBILIUM  
+       I  U      
+       B  M      
+       I         
+       L         
+       I         
+       U         
+FACTOREM         
+
+Dim: 17 by 12, Words: 5 out of 13, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+              P  
+       I      A  
+     OMNIPOTENTEM
+       V  M   R  
+       I  N   E  
+     VISIBILIUM  
+       I  U      
+       B  M      
+       I         
+       L         
+       I         
+       U         
+FACTOREM         
+
+Dim: 17 by 13, Words: 6 out of 13, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+       F    
+       A    
+       C    
+       T    
+       O P  
+  I    R A  
+OMNIPOTENTEM
+  V  M M R  
+  I  N   E  
+VISIBILIUM  
+  I  U      
+  B  M      
+  I         
+  L         
+  I         
+  U         
+  M         
+
+Dim: 12 by 17, Words: 6 out of 13, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+    F          
+    A          
+    C I        
+    T N        
+    O V        
+    R I  P     
+    E S  A     
+   OMNIPOTENTEM
+   M  B  R     
+   N  I  E     
+VISIBILIUM     
+   U  I        
+   M  U        
+      M        
+
+Dim: 15 by 14, Words: 6 out of 13, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+      I        
+      N        
+      V     F  
+      I  P  A  
+      S  A  C  
+   OMNIPOTENTEM
+   M  B  R  O  
+   N  I  E  R  
+VISIBILIUM  E  
+   U  I     M  
+   M  U        
+      M        
+
+Dim: 15 by 12, Words: 6 out of 13, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+   C       
+   A OMNIUM
+  DEUM   N 
+   L N   U 
+VISIBILIUM 
+     P     
+     O     
+     T     
+     E     
+     N     
+     T     
+     E     
+     M     
+
+Dim: 11 by 13, Words: 6 out of 13, Cross: 7, Mix: 38  Ratio: 140 Loose 0 
+
+    I      
+    N      
+  O V      
+ OMNIUM    
+  N S      
+ VISIBILIUM
+  P B      
+  O I      
+  T L      
+CAELI      
+  N U      
+  T M      
+  E        
+  M        
+
+Dim: 11 by 14, Words: 5 out of 13, Cross: 6, Mix: 39  Ratio: 150 Loose 0 
+
+     I      
+     N      
+   O V      
+  OMNIUM    
+   N S      
+  VISIBILIUM
+   P B      
+ F O I      
+ A T L      
+ CAELI      
+ T N U      
+ O T M      
+ R E        
+DEUM        
+ M          
+
+Dim: 12 by 15, Words: 7 out of 13, Cross: 9, Mix: 39  Ratio: 150 Loose 0 
+
+     I    
+     N    
+   O V    
+  OMNIUM  
+   N S    
+VISIBILIUM
+   P B    
+ F O I    
+ A T L    
+ CAELI    
+ T N U    
+ O T M    
+ R E      
+DEUM      
+ M        
+
+Dim: 10 by 15, Words: 7 out of 13, Cross: 9, Mix: 39  Ratio: 150 Loose 0 
+
+   O V      
+  OMNIUM    
+   N S      
+INVISIBILIUM
+   P B      
+ F O I      
+ A T L      
+ CAELI      
+ T N U      
+ O T M      
+ R E        
+DEUM        
+ M          
+
+Dim: 12 by 13, Words: 7 out of 13, Cross: 9, Mix: 39  Ratio: 150 Loose 0 
+
+ I          
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 2 out of 13, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 3 out of 13, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+         F  
+         A  
+         C  
+         T  
+         O  
+         R  
+         E  
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 19, Words: 4 out of 13, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+         F     
+         A     
+         C     
+         T     
+         OMNIUM
+         R     
+         E     
+VISIBILIUM     
+ N             
+ V             
+ I             
+ S             
+ I             
+ B             
+ I             
+ L             
+ I             
+ U             
+OMNIPOTENTEM   
+
+Dim: 15 by 19, Words: 5 out of 13, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+              P
+         F    A
+         A    T
+         C    R
+         T    E
+         OMNIUM
+         R     
+         E     
+VISIBILIUM     
+ N             
+ V             
+ I             
+ S             
+ I             
+ B             
+ I             
+ L             
+ I             
+ U             
+OMNIPOTENTEM   
+
+Dim: 15 by 20, Words: 6 out of 13, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         F     
+        PATREM 
+         C     
+         T     
+         OMNIUM
+         R     
+         E     
+VISIBILIUM     
+ N             
+ V             
+ I             
+ S             
+ I             
+ B             
+ I             
+ L             
+ I             
+ U             
+OMNIPOTENTEM   
+
+Dim: 15 by 19, Words: 6 out of 13, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+           F  
+           A  
+           C  
+           T  
+     O     O  
+PATREM     R  
+     N     E  
+  VISIBILIUM  
+   N U        
+   V M        
+   I          
+   S          
+   I          
+   B          
+   I          
+   L          
+   I          
+   U          
+  OMNIPOTENTEM
+
+Dim: 14 by 19, Words: 6 out of 13, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         F   
+         A   
+         C   
+       PATREM
+   O     O   
+   M     R   
+   N     E   
+VISIBILIUM   
+ N U         
+ V M         
+ I           
+ S           
+ I           
+ B           
+ I           
+ L           
+ I           
+ U           
+OMNIPOTENTEM 
+
+Dim: 13 by 19, Words: 6 out of 13, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         F  
+         A  
+         C  
+         T  
+   O     O  
+   M  PATREM
+   N     E  
+VISIBILIUM  
+ N U        
+ V M        
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 19, Words: 6 out of 13, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I   F      
+ L   A      
+ I   C   P  
+ U   T   A  
+OMNIPOTENTEM
+     R   R  
+     E   E  
+    OMNIUM  
+
+Dim: 12 by 15, Words: 6 out of 13, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+ I          
+ N          
+ V       F  
+ I       A  
+ S       C  
+ I       T  
+ B       O O
+ I    PATREM
+ L       E N
+VISIBILIUM I
+ U         U
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 6 out of 13, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I          
+       B          
+       I   F      
+       L O A      
+VISIBILIUM C      
+       U N T      
+      OMNIPOTENTEM
+         U R      
+         M E      
+           M      
+
+Dim: 18 by 15, Words: 5 out of 13, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I     F    
+       B     A    
+       I     C    
+       L O   T    
+VISIBILIUM   O    
+       U N   R    
+      OMNIPOTENTEM
+         U   M    
+         M        
+
+Dim: 18 by 14, Words: 5 out of 13, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I        F 
+       B     T  A 
+       I     E  C 
+       L O   R  T 
+VISIBILIUM  CREDO 
+       U N   A  R 
+      OMNIPOTENTEM
+         U      M 
+    PATREM        
+
+Dim: 18 by 14, Words: 8 out of 13, Cross: 9, Mix: 1  Ratio: 128 Loose 0 
+
+              P  
+       I      A  
+     OMNIPOTENTEM
+       V  M   R  
+       I  N   E  
+     VISIBILIUM  
+       I  U      
+       B  M      
+       I         
+       L         
+       I         
+       U         
+FACTOREM         
+
+Dim: 17 by 13, Words: 6 out of 13, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+       F    
+       A    
+       C    
+       T    
+       O P  
+  I    R A  
+OMNIPOTENTEM
+  V  M M R  
+  I  N   E  
+VISIBILIUM  
+  I  U      
+  B  M      
+  I         
+  L         
+  I         
+  U         
+  M         
+
+Dim: 12 by 17, Words: 6 out of 13, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+    F          
+    A          
+    C I        
+    T N        
+    O V        
+    R I  P     
+    E S  A     
+   OMNIPOTENTEM
+   M  B  R     
+   N  I  E     
+VISIBILIUM     
+   U  I        
+   M  U        
+      M        
+
+Dim: 15 by 14, Words: 6 out of 13, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+      I        
+      N        
+      V     F  
+      I  P  A  
+      S  A  C  
+   OMNIPOTENTEM
+   M  B  R  O  
+   N  I  E  R  
+VISIBILIUM  E  
+   U  I     M  
+   M  U        
+      M        
+
+Dim: 15 by 12, Words: 6 out of 13, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+   C       
+   A OMNIUM
+  DEUM   N 
+   L N   U 
+VISIBILIUM 
+     P     
+     O     
+     T     
+     E     
+     N     
+     T     
+     E     
+     M     
+
+Dim: 11 by 13, Words: 6 out of 13, Cross: 7, Mix: 38  Ratio: 140 Loose 0 
+
+    I      
+    N      
+  O V      
+ OMNIUM    
+  N S      
+ VISIBILIUM
+  P B      
+  O I      
+  T L      
+CAELI      
+  N U      
+  T M      
+  E        
+  M        
+
+Dim: 11 by 14, Words: 5 out of 13, Cross: 6, Mix: 39  Ratio: 150 Loose 0 
+
+     I      
+     N      
+   O V      
+  OMNIUM    
+   N S      
+  VISIBILIUM
+   P B      
+ F O I      
+ A T L      
+ CAELI      
+ T N U      
+ O T M      
+ R E        
+DEUM        
+ M          
+
+Dim: 12 by 15, Words: 7 out of 13, Cross: 9, Mix: 39  Ratio: 150 Loose 0 
+
+     I    
+     N    
+   O V    
+  OMNIUM  
+   N S    
+VISIBILIUM
+   P B    
+ F O I    
+ A T L    
+ CAELI    
+ T N U    
+ O T M    
+ R E      
+DEUM      
+ M        
+
+Dim: 10 by 15, Words: 7 out of 13, Cross: 9, Mix: 39  Ratio: 150 Loose 0 
+
+   O V      
+  OMNIUM    
+   N S      
+INVISIBILIUM
+   P B      
+ F O I      
+ A T L      
+ CAELI      
+ T N U      
+ O T M      
+ R E        
+DEUM        
+ M          
+
+Dim: 12 by 13, Words: 7 out of 13, Cross: 9, Mix: 39  Ratio: 150 Loose 0 
+
+ I          
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 2 out of 13, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 3 out of 13, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+         F  
+         A  
+         C  
+         T  
+         O  
+         R  
+         E  
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 19, Words: 4 out of 13, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+         F     
+         A     
+         C     
+         T     
+         OMNIUM
+         R     
+         E     
+VISIBILIUM     
+ N             
+ V             
+ I             
+ S             
+ I             
+ B             
+ I             
+ L             
+ I             
+ U             
+OMNIPOTENTEM   
+
+Dim: 15 by 19, Words: 5 out of 13, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+              P
+         F    A
+         A    T
+         C    R
+         T    E
+         OMNIUM
+         R     
+         E     
+VISIBILIUM     
+ N             
+ V             
+ I             
+ S             
+ I             
+ B             
+ I             
+ L             
+ I             
+ U             
+OMNIPOTENTEM   
+
+Dim: 15 by 20, Words: 6 out of 13, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         F     
+        PATREM 
+         C     
+         T     
+         OMNIUM
+         R     
+         E     
+VISIBILIUM     
+ N             
+ V             
+ I             
+ S             
+ I             
+ B             
+ I             
+ L             
+ I             
+ U             
+OMNIPOTENTEM   
+
+Dim: 15 by 19, Words: 6 out of 13, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+           F  
+           A  
+           C  
+           T  
+     O     O  
+PATREM     R  
+     N     E  
+  VISIBILIUM  
+   N U        
+   V M        
+   I          
+   S          
+   I          
+   B          
+   I          
+   L          
+   I          
+   U          
+  OMNIPOTENTEM
+
+Dim: 14 by 19, Words: 6 out of 13, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         F   
+         A   
+         C   
+       PATREM
+   O     O   
+   M     R   
+   N     E   
+VISIBILIUM   
+ N U         
+ V M         
+ I           
+ S           
+ I           
+ B           
+ I           
+ L           
+ I           
+ U           
+OMNIPOTENTEM 
+
+Dim: 13 by 19, Words: 6 out of 13, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         F  
+         A  
+         C  
+         T  
+   O     O  
+   M  PATREM
+   N     E  
+VISIBILIUM  
+ N U        
+ V M        
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 19, Words: 6 out of 13, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I   F      
+ L   A      
+ I   C   P  
+ U   T   A  
+OMNIPOTENTEM
+     R   R  
+     E   E  
+    OMNIUM  
+
+Dim: 12 by 15, Words: 6 out of 13, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+ I          
+ N          
+ V       F  
+ I       A  
+ S       C  
+ I       T  
+ B       O O
+ I    PATREM
+ L       E N
+VISIBILIUM I
+ U         U
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 6 out of 13, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I          
+       B          
+       I   F      
+       L O A      
+VISIBILIUM C      
+       U N T      
+      OMNIPOTENTEM
+         U R      
+         M E      
+           M      
+
+Dim: 18 by 15, Words: 5 out of 13, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I     F    
+       B     A    
+       I     C    
+       L O   T    
+VISIBILIUM   O    
+       U N   R    
+      OMNIPOTENTEM
+         U   M    
+         M        
+
+Dim: 18 by 14, Words: 5 out of 13, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I        F 
+       B     T  A 
+       I     E  C 
+       L O   R  T 
+VISIBILIUM  CREDO 
+       U N   A  R 
+      OMNIPOTENTEM
+         U      M 
+    PATREM        
+
+Dim: 18 by 14, Words: 8 out of 13, Cross: 9, Mix: 1  Ratio: 128 Loose 0 
+
+              P  
+       I      A  
+     OMNIPOTENTEM
+       V  M   R  
+       I  N   E  
+     VISIBILIUM  
+       I  U      
+       B  M      
+       I         
+       L         
+       I         
+       U         
+FACTOREM         
+
+Dim: 17 by 13, Words: 6 out of 13, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+       F    
+       A    
+       C    
+       T    
+       O P  
+  I    R A  
+OMNIPOTENTEM
+  V  M M R  
+  I  N   E  
+VISIBILIUM  
+  I  U      
+  B  M      
+  I         
+  L         
+  I         
+  U         
+  M         
+
+Dim: 12 by 17, Words: 6 out of 13, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+    F          
+    A          
+    C I        
+    T N        
+    O V        
+    R I  P     
+    E S  A     
+   OMNIPOTENTEM
+   M  B  R     
+   N  I  E     
+VISIBILIUM     
+   U  I        
+   M  U        
+      M        
+
+Dim: 15 by 14, Words: 6 out of 13, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+      I        
+      N        
+      V     F  
+      I  P  A  
+      S  A  C  
+   OMNIPOTENTEM
+   M  B  R  O  
+   N  I  E  R  
+VISIBILIUM  E  
+   U  I     M  
+   M  U        
+      M        
+
+Dim: 15 by 12, Words: 6 out of 13, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+   C       
+   A OMNIUM
+  DEUM   N 
+   L N   U 
+VISIBILIUM 
+     P     
+     O     
+     T     
+     E     
+     N     
+     T     
+     E     
+     M     
+
+Dim: 11 by 13, Words: 6 out of 13, Cross: 7, Mix: 38  Ratio: 140 Loose 0 
+
+    I      
+    N      
+  O V      
+ OMNIUM    
+  N S      
+ VISIBILIUM
+  P B      
+  O I      
+  T L      
+CAELI      
+  N U      
+  T M      
+  E        
+  M        
+
+Dim: 11 by 14, Words: 5 out of 13, Cross: 6, Mix: 39  Ratio: 150 Loose 0 
+
+     I      
+     N      
+   O V      
+  OMNIUM    
+   N S      
+  VISIBILIUM
+   P B      
+ F O I      
+ A T L      
+ CAELI      
+ T N U      
+ O T M      
+ R E        
+DEUM        
+ M          
+
+Dim: 12 by 15, Words: 7 out of 13, Cross: 9, Mix: 39  Ratio: 150 Loose 0 
+
+     I    
+     N    
+   O V    
+  OMNIUM  
+   N S    
+VISIBILIUM
+   P B    
+ F O I    
+ A T L    
+ CAELI    
+ T N U    
+ O T M    
+ R E      
+DEUM      
+ M        
+
+Dim: 10 by 15, Words: 7 out of 13, Cross: 9, Mix: 39  Ratio: 150 Loose 0 
+
+   O V      
+  OMNIUM    
+   N S      
+INVISIBILIUM
+   P B      
+ F O I      
+ A T L      
+ CAELI      
+ T N U      
+ O T M      
+ R E        
+DEUM        
+ M          
+
+Dim: 12 by 13, Words: 7 out of 13, Cross: 9, Mix: 39  Ratio: 150 Loose 0 
+
+ I          
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 2 out of 13, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 3 out of 13, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+         F  
+         A  
+         C  
+         T  
+         O  
+         R  
+         E  
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 19, Words: 4 out of 13, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+         F     
+         A     
+         C     
+         T     
+         OMNIUM
+         R     
+         E     
+VISIBILIUM     
+ N             
+ V             
+ I             
+ S             
+ I             
+ B             
+ I             
+ L             
+ I             
+ U             
+OMNIPOTENTEM   
+
+Dim: 15 by 19, Words: 5 out of 13, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+              P
+         F    A
+         A    T
+         C    R
+         T    E
+         OMNIUM
+         R     
+         E     
+VISIBILIUM     
+ N             
+ V             
+ I             
+ S             
+ I             
+ B             
+ I             
+ L             
+ I             
+ U             
+OMNIPOTENTEM   
+
+Dim: 15 by 20, Words: 6 out of 13, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         F     
+        PATREM 
+         C     
+         T     
+         OMNIUM
+         R     
+         E     
+VISIBILIUM     
+ N             
+ V             
+ I             
+ S             
+ I             
+ B             
+ I             
+ L             
+ I             
+ U             
+OMNIPOTENTEM   
+
+Dim: 15 by 19, Words: 6 out of 13, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+           F  
+           A  
+           C  
+           T  
+     O     O  
+PATREM     R  
+     N     E  
+  VISIBILIUM  
+   N U        
+   V M        
+   I          
+   S          
+   I          
+   B          
+   I          
+   L          
+   I          
+   U          
+  OMNIPOTENTEM
+
+Dim: 14 by 19, Words: 6 out of 13, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         F   
+         A   
+         C   
+       PATREM
+   O     O   
+   M     R   
+   N     E   
+VISIBILIUM   
+ N U         
+ V M         
+ I           
+ S           
+ I           
+ B           
+ I           
+ L           
+ I           
+ U           
+OMNIPOTENTEM 
+
+Dim: 13 by 19, Words: 6 out of 13, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         F  
+         A  
+         C  
+         T  
+   O     O  
+   M  PATREM
+   N     E  
+VISIBILIUM  
+ N U        
+ V M        
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 19, Words: 6 out of 13, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I   F      
+ L   A      
+ I   C   P  
+ U   T   A  
+OMNIPOTENTEM
+     R   R  
+     E   E  
+    OMNIUM  
+
+Dim: 12 by 15, Words: 6 out of 13, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+ I          
+ N          
+ V       F  
+ I       A  
+ S       C  
+ I       T  
+ B       O O
+ I    PATREM
+ L       E N
+VISIBILIUM I
+ U         U
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 6 out of 13, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I          
+       B          
+       I   F      
+       L O A      
+VISIBILIUM C      
+       U N T      
+      OMNIPOTENTEM
+         U R      
+         M E      
+           M      
+
+Dim: 18 by 15, Words: 5 out of 13, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I     F    
+       B     A    
+       I     C    
+       L O   T    
+VISIBILIUM   O    
+       U N   R    
+      OMNIPOTENTEM
+         U   M    
+         M        
+
+Dim: 18 by 14, Words: 5 out of 13, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I        F 
+       B     T  A 
+       I     E  C 
+       L O   R  T 
+VISIBILIUM  CREDO 
+       U N   A  R 
+      OMNIPOTENTEM
+         U      M 
+    PATREM        
+
+Dim: 18 by 14, Words: 8 out of 13, Cross: 9, Mix: 1  Ratio: 128 Loose 0 
+
+              P  
+       I      A  
+     OMNIPOTENTEM
+       V  M   R  
+       I  N   E  
+     VISIBILIUM  
+       I  U      
+       B  M      
+       I         
+       L         
+       I         
+       U         
+FACTOREM         
+
+Dim: 17 by 13, Words: 6 out of 13, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+       F    
+       A    
+       C    
+       T    
+       O P  
+  I    R A  
+OMNIPOTENTEM
+  V  M M R  
+  I  N   E  
+VISIBILIUM  
+  I  U      
+  B  M      
+  I         
+  L         
+  I         
+  U         
+  M         
+
+Dim: 12 by 17, Words: 6 out of 13, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+    F          
+    A          
+    C I        
+    T N        
+    O V        
+    R I  P     
+    E S  A     
+   OMNIPOTENTEM
+   M  B  R     
+   N  I  E     
+VISIBILIUM     
+   U  I        
+   M  U        
+      M        
+
+Dim: 15 by 14, Words: 6 out of 13, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+      I        
+      N        
+      V     F  
+      I  P  A  
+      S  A  C  
+   OMNIPOTENTEM
+   M  B  R  O  
+   N  I  E  R  
+VISIBILIUM  E  
+   U  I     M  
+   M  U        
+      M        
+
+Dim: 15 by 12, Words: 6 out of 13, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+   C       
+   A OMNIUM
+  DEUM   N 
+   L N   U 
+VISIBILIUM 
+     P     
+     O     
+     T     
+     E     
+     N     
+     T     
+     E     
+     M     
+
+Dim: 11 by 13, Words: 6 out of 13, Cross: 7, Mix: 38  Ratio: 140 Loose 0 
+
+    I      
+    N      
+  O V      
+ OMNIUM    
+  N S      
+ VISIBILIUM
+  P B      
+  O I      
+  T L      
+CAELI      
+  N U      
+  T M      
+  E        
+  M        
+
+Dim: 11 by 14, Words: 5 out of 13, Cross: 6, Mix: 39  Ratio: 150 Loose 0 
+
+     I      
+     N      
+   O V      
+  OMNIUM    
+   N S      
+  VISIBILIUM
+   P B      
+ F O I      
+ A T L      
+ CAELI      
+ T N U      
+ O T M      
+ R E        
+DEUM        
+ M          
+
+Dim: 12 by 15, Words: 7 out of 13, Cross: 9, Mix: 39  Ratio: 150 Loose 0 
+
+     I    
+     N    
+   O V    
+  OMNIUM  
+   N S    
+VISIBILIUM
+   P B    
+ F O I    
+ A T L    
+ CAELI    
+ T N U    
+ O T M    
+ R E      
+DEUM      
+ M        
+
+Dim: 10 by 15, Words: 7 out of 13, Cross: 9, Mix: 39  Ratio: 150 Loose 0 
+
+   O V      
+  OMNIUM    
+   N S      
+INVISIBILIUM
+   P B      
+ F O I      
+ A T L      
+ CAELI      
+ T N U      
+ O T M      
+ R E        
+DEUM        
+ M          
+
+Dim: 12 by 13, Words: 7 out of 13, Cross: 9, Mix: 39  Ratio: 150 Loose 0 
+
+ I          
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 2 out of 14, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 3 out of 14, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+         F  
+         A  
+         C  
+         T  
+         O  
+         R  
+         E  
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 19, Words: 4 out of 14, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+         F  
+     TERRAE 
+         C  
+         T  
+         O  
+         R  
+         E  
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 19, Words: 5 out of 14, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+         F     
+     TERRAE    
+         C     
+         T     
+         OMNIUM
+         R     
+         E     
+VISIBILIUM     
+ N             
+ V             
+ I             
+ S             
+ I             
+ B             
+ I             
+ L             
+ I             
+ U             
+OMNIPOTENTEM   
+
+Dim: 15 by 19, Words: 6 out of 14, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         F  
+     TERRAE 
+         C  
+         T  
+   O     O  
+   M     R  
+   N     E  
+VISIBILIUM  
+ N U        
+ V M        
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 19, Words: 6 out of 14, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+   O        
+   M        
+   N        
+VISIBILIUM  
+ N U        
+ V M        
+ I          
+ S          
+ I          
+ B          
+ I   F      
+ L   A      
+ I   C      
+ U   T      
+OMNIPOTENTEM
+     R      
+    TERRAE  
+     M      
+
+Dim: 12 by 18, Words: 6 out of 14, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         O  
+VISIBILIUM  
+ N       N  
+ V       I  
+ I       U  
+ S       M  
+ I          
+ B          
+ I   F      
+ L   A      
+ I   C      
+ U   T      
+OMNIPOTENTEM
+     R      
+    TERRAE  
+     M      
+
+Dim: 12 by 16, Words: 6 out of 14, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B         O
+ I   F     M
+ L   A     N
+ I   C     I
+ U   T     U
+OMNIPOTENTEM
+     R      
+    TERRAE  
+     M      
+
+Dim: 12 by 15, Words: 6 out of 14, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM   
+ N           
+ V           
+ I           
+ S           
+ I     F     
+ B TERRAE    
+ I     C     
+ L     T     
+ I     OMNIUM
+ U     R     
+OMNIPOTENTEM 
+       M     
+
+Dim: 13 by 13, Words: 6 out of 14, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I     F    
+ B TERRAE  O
+ I     C   M
+ L     T   N
+ I     O   I
+ U     R   U
+OMNIPOTENTEM
+       M    
+
+Dim: 12 by 13, Words: 6 out of 14, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+ I O        
+ N M        
+ V N        
+VISIBILIUM  
+ S U       F
+ I M       A
+ B     T   C
+ I     E   T
+ L     R   O
+ I     R   R
+ U     A   E
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 6 out of 14, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I          
+       B          
+       I   F      
+       L O A      
+VISIBILIUM C      
+       U N T T    
+      OMNIPOTENTEM
+         U R R    
+         M E R    
+           M A    
+             E    
+
+Dim: 18 by 16, Words: 6 out of 14, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I          
+       B     T    
+       I   F E    
+       L O A R    
+VISIBILIUM C R    
+       U N T A    
+      OMNIPOTENTEM
+         U R      
+         M E      
+           M      
+
+Dim: 18 by 15, Words: 6 out of 14, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I     F    
+       B TERRAE   
+       I     C    
+       L O   T    
+VISIBILIUM   O    
+       U N   R    
+      OMNIPOTENTEM
+         U   M    
+         M        
+
+Dim: 18 by 14, Words: 6 out of 14, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+       I             
+       N             
+       V             
+       I             
+       S             
+       I        F    
+       B     T PATREM
+       I     E  C    
+       L O   R  T    
+VISIBILIUM  CREDO    
+       U N   A  R    
+      OMNIPOTENTEM   
+         U      M    
+    INUNUM           
+
+Dim: 21 by 14, Words: 9 out of 14, Cross: 10, Mix: 1  Ratio: 125 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I        F 
+       B     T  A 
+       I     E  C 
+       L O   R  T 
+VISIBILIUM  CREDO 
+ N     U N   A  R 
+ U    OMNIPOTENTEM
+ N       U      M 
+ U  PATREM        
+ M                
+
+Dim: 18 by 15, Words: 9 out of 14, Cross: 10, Mix: 1  Ratio: 125 Loose 0 
+
+       INUNUM     
+       N          
+       V          
+       I          
+       S          
+       I        F 
+       B     T  A 
+       I     E  C 
+       L O   R  T 
+VISIBILIUM  CREDO 
+       U N   A  R 
+      OMNIPOTENTEM
+         U      M 
+    PATREM        
+
+Dim: 18 by 14, Words: 9 out of 14, Cross: 10, Mix: 1  Ratio: 125 Loose 0 
+
+              P  
+       I      A  
+     OMNIPOTENTEM
+       V  M   R  
+       I  N   E  
+     VISIBILIUM  
+       I  U N    
+       B  M U    
+ T     I    N    
+ E     L    U    
+ R     I    M    
+ R     U         
+FACTOREM         
+ E               
+
+Dim: 17 by 14, Words: 8 out of 14, Cross: 9, Mix: 1  Ratio: 128 Loose 0 
+
+       I     I   
+     OMNIPOTENTEM
+       V  M  U   
+       I  N  N   
+     VISIBILIUM  
+       I  U  M   
+       B  M      
+ T     I         
+ E     L         
+ R     I         
+ R     U         
+FACTOREM         
+ E               
+
+Dim: 17 by 13, Words: 7 out of 14, Cross: 8, Mix: 1  Ratio: 133 Loose 0 
+
+              P  
+       I      A  
+     OMNIPOTENTEM
+       V  M   R  
+       I  N   E  
+     VISIBILIUM  
+       I  U N    
+       B  M U    
+       I    N    
+     T L    U    
+   CAELI    M    
+     R U         
+FACTOREM         
+     A           
+   CREDO         
+
+Dim: 17 by 15, Words: 10 out of 14, Cross: 12, Mix: 1  Ratio: 133 Loose 0 
+
+     C           
+     R           
+     E           
+     D I    D    
+     OMNIPOTENTEM
+       V  M U    
+       INUNUM    
+       S  I      
+  VISIBILIUM     
+       B  M      
+       I         
+     T L         
+   CAELI         
+     R UNUM      
+FACTOREM         
+     A           
+ PATREM          
+
+Dim: 17 by 17, Words: 12 out of 14, Cross: 15, Mix: 1  Ratio: 136 Loose 0 
+
+               C 
+       I    D  R 
+     OMNIPOTENTEM
+       V  M U  D 
+       INUNUM  O 
+       S  I      
+  VISIBILIUM     
+       B  M      
+       I         
+     T L         
+   CAELI         
+     R UNUM      
+FACTOREM         
+     A           
+ PATREM          
+
+Dim: 17 by 15, Words: 12 out of 14, Cross: 15, Mix: 1  Ratio: 136 Loose 0 
+
+ I   O    
+INUNUM  D 
+ V   N  E 
+VISIBILIUM
+ S   P  M 
+ I   O    
+ B   T    
+ I CREDO  
+ L A N    
+ I E T    
+ U L E    
+OMNIUM    
+    N     
+    U     
+    M     
+
+Dim: 10 by 15, Words: 9 out of 14, Cross: 11, Mix: 53  Ratio: 137 Loose 0 
+
+      I U  
+     INUNUM
+    O V U  
+   OMNIUM  
+    N S    
+ VISIBILIUM
+    P B    
+CREDO I    
+    T L    
+  CAELI    
+    N U    
+    T M    
+    E      
+ DEUM      
+
+Dim: 11 by 14, Words: 9 out of 14, Cross: 11, Mix: 53  Ratio: 137 Loose 0 
+
+         F      
+        CAELI   
+         C  N   
+         T  U   
+    OMNIPOTENTEM
+       N R  U   
+       V E  M   
+VISIBILIUM      
+       S        
+       I        
+       B        
+       I        
+       L        
+       I        
+       U        
+       M        
+
+Dim: 16 by 16, Words: 6 out of 14, Cross: 7, Mix: 84  Ratio: 140 Loose 0 
+
+ I          
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 2 out of 14, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 3 out of 14, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+         F  
+         A  
+         C  
+         T  
+         O  
+         R  
+         E  
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 19, Words: 4 out of 14, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+         F  
+     TERRAE 
+         C  
+         T  
+         O  
+         R  
+         E  
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 19, Words: 5 out of 14, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+         F     
+     TERRAE    
+         C     
+         T     
+         OMNIUM
+         R     
+         E     
+VISIBILIUM     
+ N             
+ V             
+ I             
+ S             
+ I             
+ B             
+ I             
+ L             
+ I             
+ U             
+OMNIPOTENTEM   
+
+Dim: 15 by 19, Words: 6 out of 14, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         F  
+     TERRAE 
+         C  
+         T  
+   O     O  
+   M     R  
+   N     E  
+VISIBILIUM  
+ N U        
+ V M        
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 19, Words: 6 out of 14, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+   O        
+   M        
+   N        
+VISIBILIUM  
+ N U        
+ V M        
+ I          
+ S          
+ I          
+ B          
+ I   F      
+ L   A      
+ I   C      
+ U   T      
+OMNIPOTENTEM
+     R      
+    TERRAE  
+     M      
+
+Dim: 12 by 18, Words: 6 out of 14, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         O  
+VISIBILIUM  
+ N       N  
+ V       I  
+ I       U  
+ S       M  
+ I          
+ B          
+ I   F      
+ L   A      
+ I   C      
+ U   T      
+OMNIPOTENTEM
+     R      
+    TERRAE  
+     M      
+
+Dim: 12 by 16, Words: 6 out of 14, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I          
+ B         O
+ I   F     M
+ L   A     N
+ I   C     I
+ U   T     U
+OMNIPOTENTEM
+     R      
+    TERRAE  
+     M      
+
+Dim: 12 by 15, Words: 6 out of 14, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM   
+ N           
+ V           
+ I           
+ S           
+ I     F     
+ B TERRAE    
+ I     C     
+ L     T     
+ I     OMNIUM
+ U     R     
+OMNIPOTENTEM 
+       M     
+
+Dim: 13 by 13, Words: 6 out of 14, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM  
+ N          
+ V          
+ I          
+ S          
+ I     F    
+ B TERRAE  O
+ I     C   M
+ L     T   N
+ I     O   I
+ U     R   U
+OMNIPOTENTEM
+       M    
+
+Dim: 12 by 13, Words: 6 out of 14, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+ I O        
+ N M        
+ V N        
+VISIBILIUM  
+ S U       F
+ I M       A
+ B     T   C
+ I     E   T
+ L     R   O
+ I     R   R
+ U     A   E
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 6 out of 14, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I          
+       B          
+       I   F      
+       L O A      
+VISIBILIUM C      
+       U N T T    
+      OMNIPOTENTEM
+         U R R    
+         M E R    
+           M A    
+             E    
+
+Dim: 18 by 16, Words: 6 out of 14, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I          
+       B     T    
+       I   F E    
+       L O A R    
+VISIBILIUM C R    
+       U N T A    
+      OMNIPOTENTEM
+         U R      
+         M E      
+           M      
+
+Dim: 18 by 15, Words: 6 out of 14, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I     F    
+       B TERRAE   
+       I     C    
+       L O   T    
+VISIBILIUM   O    
+       U N   R    
+      OMNIPOTENTEM
+         U   M    
+         M        
+
+Dim: 18 by 14, Words: 6 out of 14, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+       I             
+       N             
+       V             
+       I             
+       S             
+       I        F    
+       B     T PATREM
+       I     E  C    
+       L O   R  T    
+VISIBILIUM  CREDO    
+       U N   A  R    
+      OMNIPOTENTEM   
+         U      M    
+    INUNUM           
+
+Dim: 21 by 14, Words: 9 out of 14, Cross: 10, Mix: 1  Ratio: 125 Loose 0 
+
+       I          
+       N          
+       V          
+       I          
+       S          
+       I        F 
+       B     T  A 
+       I     E  C 
+       L O   R  T 
+VISIBILIUM  CREDO 
+ N     U N   A  R 
+ U    OMNIPOTENTEM
+ N       U      M 
+ U  PATREM        
+ M                
+
+Dim: 18 by 15, Words: 9 out of 14, Cross: 10, Mix: 1  Ratio: 125 Loose 0 
+
+       INUNUM     
+       N          
+       V          
+       I          
+       S          
+       I        F 
+       B     T  A 
+       I     E  C 
+       L O   R  T 
+VISIBILIUM  CREDO 
+       U N   A  R 
+      OMNIPOTENTEM
+         U      M 
+    PATREM        
+
+Dim: 18 by 14, Words: 9 out of 14, Cross: 10, Mix: 1  Ratio: 125 Loose 0 
+
+              P  
+       I      A  
+     OMNIPOTENTEM
+       V  M   R  
+       I  N   E  
+     VISIBILIUM  
+       I  U N    
+       B  M U    
+ T     I    N    
+ E     L    U    
+ R     I    M    
+ R     U         
+FACTOREM         
+ E               
+
+Dim: 17 by 14, Words: 8 out of 14, Cross: 9, Mix: 1  Ratio: 128 Loose 0 
+
+       I     I   
+     OMNIPOTENTEM
+       V  M  U   
+       I  N  N   
+     VISIBILIUM  
+       I  U  M   
+       B  M      
+ T     I         
+ E     L         
+ R     I         
+ R     U         
+FACTOREM         
+ E               
+
+Dim: 17 by 13, Words: 7 out of 14, Cross: 8, Mix: 1  Ratio: 133 Loose 0 
+
+              P  
+       I      A  
+     OMNIPOTENTEM
+       V  M   R  
+       I  N   E  
+     VISIBILIUM  
+       I  U N    
+       B  M U    
+       I    N    
+     T L    U    
+   CAELI    M    
+     R U         
+FACTOREM         
+     A           
+   CREDO         
+
+Dim: 17 by 15, Words: 10 out of 14, Cross: 12, Mix: 1  Ratio: 133 Loose 0 
+
+     C           
+     R           
+     E           
+     D I    D    
+     OMNIPOTENTEM
+       V  M U    
+       INUNUM    
+       S  I      
+  VISIBILIUM     
+       B  M      
+       I         
+     T L         
+   CAELI         
+     R UNUM      
+FACTOREM         
+     A           
+ PATREM          
+
+Dim: 17 by 17, Words: 12 out of 14, Cross: 15, Mix: 1  Ratio: 136 Loose 0 
+
+               C 
+       I    D  R 
+     OMNIPOTENTEM
+       V  M U  D 
+       INUNUM  O 
+       S  I      
+  VISIBILIUM     
+       B  M      
+       I         
+     T L         
+   CAELI         
+     R UNUM      
+FACTOREM         
+     A           
+ PATREM          
+
+Dim: 17 by 15, Words: 12 out of 14, Cross: 15, Mix: 1  Ratio: 136 Loose 0 
+
+ I          
+ N          
+ V          
+ I          
+ S          
+ I          
+ B          
+ I          
+ L          
+ I          
+ U          
+OMNIPOTENTEM
+
+Dim: 12 by 12, Words: 2 out of 22, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+OMNIASAECULA  
+   N          
+   V          
+   I          
+   S          
+   I          
+   B          
+   I          
+   L          
+   I          
+   U          
+  OMNIPOTENTEM
+
+Dim: 14 by 12, Words: 3 out of 22, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+ U            
+ N            
+ I            
+ G            
+ E            
+ N            
+ I            
+ T            
+ U            
+OMNIASAECULA  
+   N          
+   V          
+   I          
+   S          
+   I          
+   B          
+   I          
+   L          
+   I          
+   U          
+  OMNIPOTENTEM
+
+Dim: 14 by 21, Words: 4 out of 22, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM           
+        N            
+        I            
+        G            
+        E            
+        N            
+        I            
+        T            
+        U            
+       OMNIASAECULA  
+          N          
+          V          
+          I          
+          S          
+          I          
+          B          
+          I          
+          L          
+          I          
+          U          
+         OMNIPOTENTEM
+
+Dim: 21 by 21, Words: 5 out of 22, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+         F           
+         A           
+         C           
+         T           
+         O           
+         R           
+         E           
+VISIBILIUM           
+        N            
+        I            
+        G            
+        E            
+        N            
+        I            
+        T            
+        U            
+       OMNIASAECULA  
+          N          
+          V          
+          I          
+          S          
+          I          
+          B          
+          I          
+          L          
+          I          
+          U          
+         OMNIPOTENTEM
+
+Dim: 21 by 28, Words: 6 out of 22, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM           
+        N            
+        I            
+        G            
+  FACTOREM           
+        N            
+        I            
+        T            
+        U            
+       OMNIASAECULA  
+          N          
+          V          
+          I          
+          S          
+          I          
+          B          
+          I          
+          L          
+          I          
+          U          
+         OMNIPOTENTEM
+
+Dim: 21 by 21, Words: 6 out of 22, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+      U            
+      N            
+     VISIBILIUM    
+      G            
+FACTOREM           
+      N            
+      I            
+      T            
+      U            
+     OMNIASAECULA  
+        N          
+        V          
+        I          
+        S          
+        I          
+        B          
+        I          
+        L          
+        I          
+        U          
+       OMNIPOTENTEM
+
+Dim: 19 by 21, Words: 6 out of 22, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+   U            
+   N            
+  VISIBILIUM    
+   G            
+   E            
+   N            
+   I            
+FACTOREM        
+   U            
+  OMNIASAECULA  
+     N          
+     V          
+     I          
+     S          
+     I          
+     B          
+     I          
+     L          
+     I          
+     U          
+    OMNIPOTENTEM
+
+Dim: 16 by 21, Words: 6 out of 22, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+ U            
+ N            
+VISIBILIUM    
+ G            
+ E            
+ N            
+ I            
+ T            
+ U    F       
+OMNIASAECULA  
+   N  C       
+   V  T       
+   I  O       
+   S  R       
+   I  E       
+   B  M       
+   I          
+   L          
+   I          
+   U          
+  OMNIPOTENTEM
+
+Dim: 14 by 21, Words: 6 out of 22, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+VISIBILIUM     
+        N      
+        I      
+        G   F  
+ OMNIASAECULA  
+    N   N   C  
+    V   I   T  
+    I   T   O  
+    S   U   R  
+    I   M   E  
+    B       M  
+    I          
+    L          
+    I          
+    U          
+   OMNIPOTENTEM
+
+Dim: 15 by 16, Words: 6 out of 22, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+F      U      
+A      N      
+C   VISIBILIUM
+T      G      
+OMNIASAECULA  
+R  N   N      
+E  V   I      
+M  I   T      
+   S   U      
+   I   M      
+   B          
+   I          
+   L          
+   I          
+   U          
+  OMNIPOTENTEM
+
+Dim: 14 by 16, Words: 6 out of 22, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+         U      
+         N      
+         I      
+         G      
+  OMNIASAECULA  
+     N   N      
+     V   I      
+     I   T      
+     S   U      
+VISIBILIUM      
+     B          
+     I          
+     L          
+     I          
+     U          
+    OMNIPOTENTEM
+
+Dim: 16 by 16, Words: 5 out of 22, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+ CAELI    F      U      
+ R        A      N      
+TERRAE    C      INUNUM 
+ D   X    T      G N    
+ O   P    OMNIASAECULA  
+     A    R  N   N M    
+     T    E  V   I      
+   CHRISTUM  I   T      
+     E     F S   U      
+        VISIBILIUM      
+           L B          
+           I I          
+           U L         D
+          OMNIUM  P ANTE
+             U    A  A U
+            OMNIPOTENTEM
+                  R  U  
+                 JESUM  
+                  M     
+
+Dim: 24 by 19, Words: 20 out of 22, Cross: 24, Mix: 1  Ratio: 126 Loose 0 
