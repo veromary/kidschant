@@ -1,4 +1,4 @@
-This is LuaTeX, Version beta-0.79.1 (TeX Live 2015/dev/Debian) (rev 4971)  (format=lualatex 2015.4.8)  22 APR 2015 09:10
+This is LuaTeX, Version beta-0.79.1 (TeX Live 2015/dev/Debian) (rev 4971)  (format=lualatex 2015.4.8)  27 APR 2015 13:13
  restricted \write18 enabled.
 **credo1puzz
 (./credo1puzz.tex
@@ -1867,7 +1867,7 @@ ack to file:
 (/usr/share/texlive/texmf-dist/tex/latex/libertine/LinLibertine_I.tex)
 (/usr/share/texlive/texmf-dist/tex/latex/libertine/LKey.tex))
 (/usr/local/share/texmf/tex/luatex/gregoriotex/gregoriotex.sty
-Package: gregoriotex 2015/04/06 v3.0.0-rc1 GregorioTeX system.
+Package: gregoriotex 2015/04/13 v3.0.0-rc2 GregorioTeX system.
 
 (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
@@ -1899,7 +1899,7 @@ Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 \gregoriocenterattr=\luatexattribute11
 
 (/usr/local/share/texmf/tex/luatex/gregoriotex/gregoriotex.lua)
-Lua module: gregoriotex 2013/12/29 2.4 GregorioTeX module.
+Lua module: gregoriotex 2015/04/13 3.0.0-rc2 GregorioTeX module.
 \Greaux=\write4
 \grefactor=\count295
 
@@ -2150,7 +2150,7 @@ luaotfload | load : path lookup of "LinLibertine_RB.otf" unsuccessful, falling b
 ack to file: [1
 
 {/home/veronica/.texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./credo1a-3_0_
-0-rc1.gtex
+0-rc2.gtex
 luaotfload | load : Lookup/name: "greciliae" -> "greciliae.ttf"(load luc: /var/l
 ib/texmf/luatex-cache/generic/fonts/otf/greciliae.luc)(save: /home/veronica/.tex
 mf-var/luatex-cache/generic/fonts/otf/greciliae.lua)(save: /home/veronica/.texmf
@@ -2190,26 +2190,31 @@ k to file:
 luaotfload | load : path lookup of "LinLibertine_RB.otf" unsuccessful, falling b
 ack to file:
 LaTeX Font Info:    Font shape `EU2/LinBiolinum(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 84.
+(Font)              scaled to size 10.0pt on input line 85.
 luaotfload | load : path lookup of "LinBiolinum_R.otf" unsuccessful, falling bac
-k to file: [3] [4] (./credo1puzz.aux))
+k to file:
+Underfull \hbox (badness 10000) in paragraph at lines 99--105
+
+ []
+
+[3] [4] (./credo1puzz.aux))
 
 Here is how much of LuaTeX's memory you used:
- 27199 strings out of 494474
+ 27202 strings out of 494474
  100000,552014 words of node,token memory allocated
- 14546 words of node memory still in use:
-   474 hlist, 80 vlist, 317 rule, 786 glue, 319 kern, 3 penalty, 158 glyph, 341 
-attribute, 133 glue_spec, 174 attribute_list, 1 write nodes
-   avail lists: 1:1,2:5435,3:252,4:1516,5:373,6:1654,7:286,9:657,10:81
- 29568 multiletter control sequences out of 65536+600000
- 93 fonts using 11112055 bytes
+ 14537 words of node memory still in use:
+   474 hlist, 80 vlist, 317 rule, 786 glue, 317 kern, 3 penalty, 158 glyph, 339 
+attribute, 133 glue_spec, 173 attribute_list, 1 write nodes
+   avail lists: 1:1,2:5420,3:259,4:1516,5:374,6:1654,7:306,9:657,10:81
+ 29571 multiletter control sequences out of 65536+600000
+ 93 fonts using 11112187 bytes
  62i,11n,63p,583b,249s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/share/fonts/opentype/linux-libertine/LinBiolinum_R.otf></usr/share/texlive
 /texmf-dist/fonts/opentype/public/libertine/LinLibertine_RI.otf></usr/local/shar
 e/texmf/fonts/truetype/public/gregoriotex/greciliae.ttf></usr/share/texlive/texm
 f-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf></usr/share/texlive/t
 exmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf>
-Output written on credo1puzz.pdf (4 pages, 42747 bytes).
+Output written on credo1puzz.pdf (4 pages, 42835 bytes).
 
 PDF statistics: 52 PDF objects out of 1000 (max. 8388607)
  30 compressed objects within 1 object stream

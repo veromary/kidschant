@@ -1,8 +1,6 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.4.8)  21 APR 2015 16:28
-entering extended mode
+This is LuaTeX, Version beta-0.79.1 (TeX Live 2015/dev/Debian) (rev 4971)  (format=lualatex 2015.4.8)  27 APR 2015 13:45
  restricted \write18 enabled.
- %&-line parsing enabled.
-**puzzle.tex
+**puzzle
 (./puzzle.tex
 LaTeX2e <2014/05/01>
 Babel <3.9l> and hyphenation patterns for 27 languages loaded.
@@ -41,8 +39,6 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 \Puzzle@X=\count87
 \Puzzle@Y=\count88
 ) (./puzzle.aux)
-\openout1 = `puzzle.aux'.
-
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
@@ -55,26 +51,45 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
- [1
+
+Overfull \hbox (37.22221pt too wide) in paragraph at lines 4--35
+[][]  []
+ []
+
+[1
 
 {/home/veronica/.texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./puzzle.aux) ) 
-Here is how much of TeX's memory you used:
- 598 strings out of 494450
- 6819 string characters out of 6165793
- 59205 words of memory out of 5000000
- 3918 multiletter control sequences out of 15000+600000
- 5153 words of font info for 19 fonts, out of 8000000 for 9000
- 350 hyphenation exceptions out of 8191
- 32i,8n,28p,179b,162s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mbx8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pf
-b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb>
-Output written on puzzle.pdf (1 page, 37229 bytes).
-PDF statistics:
- 24 PDF objects out of 1000 (max. 8388607)
- 16 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
+Overfull \vbox (50.0pt too high) has occurred while \output is active []
+
+ [2]
+Underfull \hbox (badness 10000) in paragraph at lines 37--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--69
+
+ []
+
+[3] (./puzzle.aux))
+
+Here is how much of LuaTeX's memory you used:
+ 626 strings out of 494474
+ 100000,552014 words of node,token memory allocated
+ 267 words of node memory still in use:
+   2 hlist, 1 vlist, 1 rule, 2 glue, 40 glue_spec, 1 write nodes
+   avail lists: 2:16,3:69,4:2385,5:432,6:425,7:698,9:1139,10:21
+ 4351 multiletter control sequences out of 65536+600000
+ 20 fonts using 570987 bytes
+ 32i,8n,28p,163b,169s stack positions out of 5000i,500n,10000p,200000b,100000s
+<</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><</usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><</usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><</usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb>
+Output written on puzzle.pdf (3 pages, 44762 bytes).
+
+PDF statistics: 30 PDF objects out of 1000 (max. 8388607)
+ 20 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

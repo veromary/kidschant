@@ -1,4 +1,4 @@
-This is LuaTeX, Version beta-0.79.1 (TeX Live 2015/dev/Debian) (rev 4971)  (format=lualatex 2015.4.8)  26 APR 2015 08:17
+This is LuaTeX, Version beta-0.79.1 (TeX Live 2015/dev/Debian) (rev 4971)  (format=lualatex 2015.4.8)  27 APR 2015 13:08
  restricted \write18 enabled.
 **credo2puzz
 (./credo2puzz.tex
@@ -363,7 +363,7 @@ luatexbase-attr: luatexbase.attributes["luaotfload@cursbase"] = 6
 luatexbase-attr: luatexbase.attributes["luaotfload@curscurs"] = 7
 luatexbase-attr: luatexbase.attributes["luaotfload@cursdone"] = 8
 luatexbase-attr: luatexbase.attributes["luaotfload@state"] = 9
-luaotfload | main : fontloader loaded in 0.130 seconds
+luaotfload | main : fontloader loaded in 0.163 seconds
 luatexbase-mcb: inserting 'luaotfload.node_processor'
 at position 1 in 'pre_linebreak_filter'
 luatexbase-mcb: inserting 'luaotfload.node_processor'
@@ -2263,14 +2263,14 @@ Here is how much of LuaTeX's memory you used:
 , 209 glue_spec, 314 attribute_list, 1 write nodes
    avail lists: 2:5967,3:1474,4:2160,5:2231,6:5906,7:485,9:1289,10:299
  29695 multiletter control sequences out of 65536+600000
- 98 fonts using 11105139 bytes
+ 98 fonts using 11105051 bytes
  62i,11n,63p,1092b,1587s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/share/fonts/opentype/linux-libertine/LinBiolinum_R.otf></usr/local/share/t
 exmf/fonts/truetype/public/gregoriotex/greciliae.ttf></usr/share/texlive/texmf-d
 ist/fonts/opentype/public/libertine/LinLibertine_RI.otf></usr/share/texlive/texm
 f-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf></usr/share/texlive/t
 exmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf>
-Output written on credo2puzz.pdf (4 pages, 46697 bytes).
+Output written on credo2puzz.pdf (4 pages, 46695 bytes).
 
 PDF statistics: 52 PDF objects out of 1000 (max. 8388607)
  30 compressed objects within 1 object stream

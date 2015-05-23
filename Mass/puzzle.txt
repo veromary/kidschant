@@ -5837,3 +5837,2730 @@ TERRAE    C      INUNUM
                   M     
 
 Dim: 24 by 19, Words: 20 out of 22, Cross: 24, Mix: 1  Ratio: 126 Loose 0 
+
+  I             
+CONSUBSTANTIALEM
+  V             
+  I             
+  S             
+  I             
+  B             
+  I             
+  L             
+  I             
+  U             
+  M             
+
+Dim: 16 by 12, Words: 2 out of 29, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+   I             
+ CONSUBSTANTIALEM
+   V             
+OMNIASAECULA     
+   S             
+   I             
+   B             
+   I             
+   L             
+   I             
+   U             
+   M             
+
+Dim: 17 by 12, Words: 3 out of 29, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+   I             
+ CONSUBSTANTIALEM
+   V             
+OMNIASAECULA     
+M  S             
+N  I             
+I  B             
+P  I             
+O  L             
+T  I             
+E  U             
+N  M             
+T                
+E                
+M                
+
+Dim: 17 by 15, Words: 4 out of 29, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+            I             
+          CONSUBSTANTIALEM
+            V             
+         OMNIASAECULA     
+VISIBILIUM  S             
+         N  I             
+         I  B             
+         P  I             
+         O  L             
+         T  I             
+         E  U             
+         N  M             
+         T                
+         E                
+         M                
+
+Dim: 26 by 15, Words: 5 out of 29, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+            I             
+          CONSUBSTANTIALEM
+ U          V             
+ N       OMNIASAECULA     
+VISIBILIUM  S             
+ G       N  I             
+ E       I  B             
+ N       P  I             
+ I       O  L             
+ T       T  I             
+ U       E  U             
+ M       N  M             
+         T                
+         E                
+         M                
+
+Dim: 26 by 15, Words: 6 out of 29, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+    I             
+  CONSUBSTANTIALEM
+    V             
+ OMNIASAECULA     
+ M  S             
+ N  I             
+VISIBILIUM        
+ P  I             
+ O  L             
+ T  I             
+ E  U             
+ N  M             
+ T                
+ E                
+ M                
+
+Dim: 18 by 15, Words: 5 out of 29, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+       I     N       
+     CONSUBSTANTIALEM
+       V     T       
+    OMNIASAECULA     
+    M  S     M       
+    N  I       J     
+   VISIBILIUM  E     
+  D P  I   N L S     
+CREDO  L   INUNUM    
+A D T  I   G M M  D  
+E E E  U   E E    E  
+L OMNIUM   NONFACTUM 
+I   T      I  A   M  
+    E      T  C   V  
+    M  FILIUM T   E  
+           M  O   R  
+            CHRISTUM 
+              E   M  
+          DELUMINE   
+           X         
+           P         
+        T  A         
+       GENITUM       
+        R  R         
+        R  E         
+        A            
+    PATREM           
+
+Dim: 21 by 27, Words: 24 out of 29, Cross: 29, Mix: 1  Ratio: 126 Loose 0 
+
+  I             
+CONSUBSTANTIALEM
+  V             
+  I             
+  S             
+  I             
+  B             
+  I             
+  L             
+  I             
+  U             
+  M             
+
+Dim: 16 by 12, Words: 2 out of 31, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+   I             
+ CONSUBSTANTIALEM
+   V             
+OMNIASAECULA     
+   S             
+   I             
+   B             
+   I             
+   L             
+   I             
+   U             
+   M             
+
+Dim: 17 by 12, Words: 3 out of 31, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+   I             
+ CONSUBSTANTIALEM
+   V             
+OMNIASAECULA     
+M  S             
+N  I             
+I  B             
+P  I             
+O  L             
+T  I             
+E  U             
+N  M             
+T                
+E                
+M                
+
+Dim: 17 by 15, Words: 4 out of 31, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+            I             
+          CONSUBSTANTIALEM
+            V             
+         OMNIASAECULA     
+VISIBILIUM  S             
+         N  I             
+         I  B             
+         P  I             
+         O  L             
+         T  I             
+         E  U             
+         N  M             
+         T                
+         E                
+         M                
+
+Dim: 26 by 15, Words: 5 out of 31, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+            I             
+          CONSUBSTANTIALEM
+ U          V             
+ N       OMNIASAECULA     
+VISIBILIUM  S             
+ G       N  I             
+ E       I  B             
+ N       P  I             
+ I       O  L             
+ T       T  I             
+ U       E  U             
+ M       N  M             
+         T                
+         E                
+         M                
+
+Dim: 26 by 15, Words: 6 out of 31, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+    I             
+  CONSUBSTANTIALEM
+    V             
+ OMNIASAECULA     
+ M  S             
+ N  I             
+VISIBILIUM        
+ P  I             
+ O  L             
+ T  I             
+ E  U             
+ N  M             
+ T                
+ E                
+ M                
+
+Dim: 18 by 15, Words: 5 out of 31, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+              C    
+             FACTA 
+              E  N 
+     I     N  L  T 
+   CONSUBSTANTIALEM
+     V     T       
+  OMNIASAECULA     
+  M  S     M       
+  N  I       J     
+ VISIBILIUM DEDEO  
+C P  I   N L S     
+R O  L   INUNUM    
+E T  I   G M M  D  
+D E  U   E E    E  
+OMNIUM   NONFACTUM 
+  T      I  A   M  
+  E      T  C   V  
+  M  FILIUM T   E  
+         M  O   R  
+          CHRISTUM 
+            E U M  
+        DELUMINE   
+         X    T    
+         P         
+      T  A         
+     GENITUM       
+      R  R         
+      R DEUM       
+      A   N        
+  PATREM  U        
+          M        
+
+Dim: 19 by 31, Words: 29 out of 31, Cross: 35, Mix: 1  Ratio: 125 Loose 0 
+
+               C    
+              FACTA 
+               E  N 
+      I     N  L  T 
+    CONSUBSTANTIALEM
+      V     T       
+   OMNIASAECULA     
+UNUM  S     M       
+   N  I       J     
+  VISIBILIUM DEDEO  
+ C P  I   N L S     
+ R O  L   INUNUM    
+ E T  I   G M M  D  
+ D E  U   E E    E  
+ OMNIUM   NONFACTUM 
+   T      I  A   M  
+   E      T  C   V  
+   M  FILIUM T   E  
+          M  O   R  
+           CHRISTUM 
+             E U M  
+         DELUMINE   
+          X    T    
+          P         
+       T  A         
+      GENITUM       
+       R  R         
+       R DEUM       
+       A            
+   PATREM           
+
+Dim: 20 by 30, Words: 29 out of 31, Cross: 35, Mix: 1  Ratio: 125 Loose 0 
+
+              C    
+             FACTA 
+              E  N 
+     I     N  L  T 
+   CONSUBSTANTIALEM
+     V     T       
+  OMNIASAECULA U   
+  M  S     M   N   
+  N  I       J U   
+ VISIBILIUM DEUM   
+C P  I   N L S     
+R O  L   INUNUM    
+E T  I   G M M  D  
+D E  U   E E    E  
+OMNIUM   NONFACTUM 
+  T      I  A   M  
+  E      T  C   V  
+  M  FILIUM T   E  
+         M  O   R  
+          CHRISTUM 
+            E U M  
+        DELUMINE   
+         X    T    
+         P         
+      T  A         
+     GENITUM       
+      R  R         
+      R DEDEO      
+      A            
+  PATREM           
+
+Dim: 19 by 30, Words: 29 out of 31, Cross: 35, Mix: 1  Ratio: 125 Loose 0 
+
+ H             
+ O             
+ M             
+ O             
+ F             
+ A             
+ C             
+ T             
+ U             
+ S             
+DESPIRITUSANCTO
+ S             
+ T             
+
+Dim: 15 by 13, Words: 2 out of 11, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+   H             
+   O             
+   M             
+   O             
+   F             
+INCARNATUS       
+   C             
+   T             
+   U             
+   S             
+  DESPIRITUSANCTO
+   S             
+   T             
+
+Dim: 17 by 13, Words: 3 out of 11, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+D                
+E                
+S  H             
+C  O             
+E  M             
+N  O             
+D  F             
+INCARNATUS       
+T  C             
+   T             
+   U             
+   S             
+  DESPIRITUSANCTO
+   S             
+   T             
+
+Dim: 17 by 15, Words: 4 out of 11, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+DECAELIS         
+E                
+S  H             
+C  O             
+E  M             
+N  O             
+D  F             
+INCARNATUS       
+T  C             
+   T             
+   U             
+   S             
+  DESPIRITUSANCTO
+   S             
+   T             
+
+Dim: 17 by 15, Words: 5 out of 11, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+    S            
+    A            
+    L            
+    U            
+    T            
+DECAELIS         
+E   M            
+S  H             
+C  O             
+E  M             
+N  O             
+D  F             
+INCARNATUS       
+T  C             
+   T             
+   U             
+   S             
+  DESPIRITUSANCTO
+   S             
+   T             
+
+Dim: 17 by 20, Words: 6 out of 11, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+     S           
+     A           
+DECAELIS         
+E    U           
+S  H T           
+C  O E           
+E  M M           
+N  O             
+D  F             
+INCARNATUS       
+T  C             
+   T             
+   U             
+   S             
+  DESPIRITUSANCTO
+   S             
+   T             
+
+Dim: 17 by 17, Words: 6 out of 11, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+DECAELIS         
+E                
+S  H             
+C  O   S         
+E  M   A         
+N  O   L         
+D  F   U         
+INCARNATUS       
+T  C   E         
+   T   M         
+   U             
+   S             
+  DESPIRITUSANCTO
+   S             
+   T             
+
+Dim: 17 by 15, Words: 6 out of 11, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+ D H             
+ E O             
+ S M             
+ C O       D     
+ E F       E     
+INCARNATUS C     
+ D C      SALUTEM
+ I T       E     
+ T U       L     
+   S       I     
+  DESPIRITUSANCTO
+   S             
+   T             
+
+Dim: 17 by 13, Words: 6 out of 11, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+   H             
+   O             
+   M             
+   O             
+   F             
+INCARNATUS       
+   C             
+   T          D  
+   U          E  
+   S        S S  
+  DESPIRITUSANCTO
+   S        L E  
+   T        U N  
+            T D  
+        DECAELIS 
+            M T  
+
+Dim: 17 by 16, Words: 6 out of 11, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+    H             
+    O             
+  HOMINES         
+    O  X          
+    F  M          
+ INCARNATUS       
+    C  R          
+    T  I       D  
+    U  A       E  
+    S        S S  
+   DESPIRITUSANCTO
+    S        L E  
+PROPTER      U N  
+             T D  
+         DECAELIS 
+             M T  
+
+Dim: 18 by 16, Words: 9 out of 11, Cross: 10, Mix: 1  Ratio: 125 Loose 0 
+
+   H             
+   O             
+ HOMINES         
+   O  X          
+   F  M          
+INCARNATUS       
+   C  R          
+   T  I       D  
+   U  A       E  
+   S        S S  
+  DESPIRITUSANCTO
+   S R      L E  
+   T O      U N  
+     P      T D  
+     T  DECAELIS 
+     E      M T  
+     R           
+
+Dim: 17 by 17, Words: 9 out of 11, Cross: 10, Mix: 1  Ratio: 125 Loose 0 
+
+   H             
+   O             
+ HOMINES         
+   O  X    D     
+   F  M    E     
+INCARNATUS C     
+   C  R    A     
+   T  I    E  D  
+   U  A  SALUTEM 
+   S       I  S  
+  DESPIRITUSANCTO
+   S          E  
+   T          N  
+              D  
+              I  
+          PROPTER
+
+Dim: 17 by 16, Words: 9 out of 11, Cross: 10, Mix: 1  Ratio: 125 Loose 0 
+
+    H             
+    O             
+  HOMINES       D 
+    O  X    D   E 
+    F  M    E   S 
+ INCARNATUS C   C 
+    C  R   SALUTEM
+    T  I    E   N 
+    U  A    L   D 
+    S       I   I 
+   DESPIRITUSANCTO
+    S             
+PROPTER           
+
+Dim: 18 by 13, Words: 9 out of 11, Cross: 10, Mix: 1  Ratio: 125 Loose 0 
+
+      H             
+      O             
+      M             
+      O  D          
+      F  E          
+INCARNATUS          
+      C  C          
+      T  E          
+      U  N          
+      S  D          
+     DESPIRITUSANCTO
+      S  T          
+      T             
+
+Dim: 20 by 13, Words: 4 out of 11, Cross: 4, Mix: 1  Ratio: 133 Loose 0 
+
+      H             
+      O             
+      M             
+      O  DECAELIS   
+      F  E          
+INCARNATUS          
+      C  C  S       
+      T  EXMARIA    
+      U  N  L       
+      S  D  U       
+     DESPIRITUSANCTO
+      S  T  E       
+      T     M       
+
+Dim: 20 by 13, Words: 7 out of 11, Cross: 8, Mix: 1  Ratio: 133 Loose 0 
+
+     D                   
+PROPTER    H             
+     C     O             
+     A     M             
+     E     O  D          
+     L     F  E    H     
+     INCARNATUS    O     
+     S     C  C  S M     
+           T  EXMARIA    
+           U  N  L N     
+           S  D  U E     
+          DESPIRITUSANCTO
+           S  T  E       
+           T     M       
+
+Dim: 25 by 14, Words: 9 out of 11, Cross: 11, Mix: 1  Ratio: 137 Loose 0 
+
+D   P               
+E   R H             
+C   O O             
+A   P M             
+E   T O  D          
+L   E F  E    H     
+INCARNATUS    O     
+S     C  C  S M     
+      T  EXMARIA    
+      U  N  L N     
+      S  D  U E     
+     DESPIRITUSANCTO
+      S  T  E       
+      T     M       
+
+Dim: 20 by 14, Words: 9 out of 11, Cross: 11, Mix: 1  Ratio: 137 Loose 0 
+
+      H             
+    PROPTER         
+      M             
+  D   O  D          
+  E   F  E    H     
+INCARNATUS    O     
+  A   C  C  S M     
+  E   T  EXMARIA    
+  L   U  N  L N     
+  I   S  D  U E     
+  S  DESPIRITUSANCTO
+      S  T  E       
+      T     M       
+
+Dim: 20 by 13, Words: 9 out of 11, Cross: 11, Mix: 1  Ratio: 137 Loose 0 
+
+ H             
+ O       I     
+ M   HOMINES D 
+ O       C A E 
+ F    DECAELIS 
+ A       R U C 
+ C     P N T E 
+ T EXMARIA E N 
+ U     O T M D 
+ S     P U   I 
+DESPIRITUSANCTO
+ S     E       
+ T     R       
+
+Dim: 15 by 13, Words: 9 out of 11, Cross: 11, Mix: 1  Ratio: 137 Loose 0 
+
+   H            
+   O            
+   M            
+   O            
+   F            
+DECAELIS        
+   C  N         
+   T  C   D     
+   U  A   E     
+ DESPIRITUSANCTO
+   E  N   C     
+   S SALUTEM    
+   T  T   N     
+      U   D     
+      S   I     
+          T     
+
+Dim: 16 by 16, Words: 6 out of 11, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+       H       
+       O       
+       M       
+       O       
+       F       
+ INCARNATUS D  
+       C    E  
+DESPIRITUSANCTO
+       U    A  
+       SALUTEM 
+       E    L  
+     DESCENDIT 
+       T    S  
+
+Dim: 15 by 13, Words: 6 out of 11, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+       H       
+       O       
+    E  M       
+    X  O       
+    M  F       
+ INCARNATUS D  
+    R  C    E  
+DESPIRITUSANCTO
+    A  U    A  
+       SALUTEM 
+       E    L  
+     DESCENDIT 
+       T    S  
+
+Dim: 15 by 13, Words: 7 out of 11, Cross: 9, Mix: 1  Ratio: 150 Loose 0 
+
+       H       
+     PROPTER   
+ H  E  M       
+ O  X  O       
+ M  M  F       
+ INCARNATUS D  
+ N  R  C    E  
+DESPIRITUSANCTO
+ S  A  U    A  
+       SALUTEM 
+       E    L  
+     DESCENDIT 
+       T    S  
+
+Dim: 15 by 13, Words: 9 out of 11, Cross: 12, Mix: 1  Ratio: 150 Loose 0 
+
+         H     
+       D O     
+       EXMARIA 
+       S O     
+       C F     
+      DECAELIS 
+       N C   A 
+       D T   L 
+       I U I U 
+DESPIRITUSANCTO
+         E C E 
+         S A M 
+     PROPTER   
+           N   
+           A   
+           T   
+           U   
+           S   
+
+Dim: 15 by 18, Words: 8 out of 11, Cross: 11, Mix: 1  Ratio: 157 Loose 0 
+
+ H             
+ O             
+ M             
+ O             
+ F             
+ A             
+ C             
+ T             
+ U             
+ S             
+DESPIRITUSANCTO
+ S             
+ T             
+
+Dim: 15 by 13, Words: 2 out of 11, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+   H             
+   O             
+   M             
+   O             
+   F             
+INCARNATUS       
+   C             
+   T             
+   U             
+   S             
+  DESPIRITUSANCTO
+   S             
+   T             
+
+Dim: 17 by 13, Words: 3 out of 11, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+D                
+E                
+S  H             
+C  O             
+E  M             
+N  O             
+D  F             
+INCARNATUS       
+T  C             
+   T             
+   U             
+   S             
+  DESPIRITUSANCTO
+   S             
+   T             
+
+Dim: 17 by 15, Words: 4 out of 11, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+DECAELIS         
+E                
+S  H             
+C  O             
+E  M             
+N  O             
+D  F             
+INCARNATUS       
+T  C             
+   T             
+   U             
+   S             
+  DESPIRITUSANCTO
+   S             
+   T             
+
+Dim: 17 by 15, Words: 5 out of 11, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+ D H             
+ E O             
+ S M             
+ C O       D     
+ E F       E     
+INCARNATUS C     
+ D C       A     
+ I T       E     
+ T U       L     
+   S       I     
+  DESPIRITUSANCTO
+   S             
+   T             
+
+Dim: 17 by 13, Words: 5 out of 11, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+      H             
+      O             
+      M             
+      O  D          
+      F  E          
+INCARNATUS          
+      C  C          
+      T  E          
+      U  N          
+      S  D          
+     DESPIRITUSANCTO
+      S  T          
+      T             
+
+Dim: 20 by 13, Words: 4 out of 11, Cross: 4, Mix: 1  Ratio: 133 Loose 0 
+
+      H             
+      O             
+      M             
+      O  DECAELIS   
+      F  E          
+INCARNATUS          
+      C  C  S       
+      T  EXMARIA    
+      U  N  L       
+      S  D  U       
+     DESPIRITUSANCTO
+      S  T  E       
+      T     M       
+
+Dim: 20 by 13, Words: 7 out of 11, Cross: 8, Mix: 1  Ratio: 133 Loose 0 
+
+     D                   
+PROPTER    H             
+     C     O             
+     A     M             
+     E     O  D          
+     L     F  E    H     
+     INCARNATUS    O     
+     S     C  C  S M     
+           T  EXMARIA    
+           U  N  L N     
+           S  D  U E     
+          DESPIRITUSANCTO
+           S  T  E       
+           T     M       
+
+Dim: 25 by 14, Words: 9 out of 11, Cross: 11, Mix: 1  Ratio: 137 Loose 0 
+
+D   P               
+E   R H             
+C   O O             
+A   P M             
+E   T O  D          
+L   E F  E    H     
+INCARNATUS    O     
+S     C  C  S M     
+      T  EXMARIA    
+      U  N  L N     
+      S  D  U E     
+     DESPIRITUSANCTO
+      S  T  E       
+      T     M       
+
+Dim: 20 by 14, Words: 9 out of 11, Cross: 11, Mix: 1  Ratio: 137 Loose 0 
+
+      H             
+    PROPTER         
+      M             
+  D   O  D          
+  E   F  E    H     
+INCARNATUS    O     
+  A   C  C  S M     
+  E   T  EXMARIA    
+  L   U  N  L N     
+  I   S  D  U E     
+  S  DESPIRITUSANCTO
+      S  T  E       
+      T     M       
+
+Dim: 20 by 13, Words: 9 out of 11, Cross: 11, Mix: 1  Ratio: 137 Loose 0 
+
+   H            
+   O            
+   M            
+   O            
+   F            
+DECAELIS        
+   C  N         
+   T  C   D     
+   U  A   E     
+ DESPIRITUSANCTO
+   E  N   C     
+   S SALUTEM    
+   T  T   N     
+      U   D     
+      S   I     
+          T     
+
+Dim: 16 by 16, Words: 6 out of 11, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+       H       
+       O       
+       M       
+       O       
+       F       
+ INCARNATUS D  
+       C    E  
+DESPIRITUSANCTO
+       U    A  
+       SALUTEM 
+       E    L  
+     DESCENDIT 
+       T    S  
+
+Dim: 15 by 13, Words: 6 out of 11, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+       H       
+       O       
+    E  M       
+    X  O       
+    M  F       
+ INCARNATUS D  
+    R  C    E  
+DESPIRITUSANCTO
+    A  U    A  
+       SALUTEM 
+       E    L  
+     DESCENDIT 
+       T    S  
+
+Dim: 15 by 13, Words: 7 out of 11, Cross: 9, Mix: 1  Ratio: 150 Loose 0 
+
+       H       
+     PROPTER   
+ H  E  M       
+ O  X  O       
+ M  M  F       
+ INCARNATUS D  
+ N  R  C    E  
+DESPIRITUSANCTO
+ S  A  U    A  
+       SALUTEM 
+       E    L  
+     DESCENDIT 
+       T    S  
+
+Dim: 15 by 13, Words: 9 out of 11, Cross: 12, Mix: 1  Ratio: 150 Loose 0 
+
+         H     
+       D O     
+       EXMARIA 
+       S O     
+       C F     
+      DECAELIS 
+       N C   A 
+       D T   L 
+       I U I U 
+DESPIRITUSANCTO
+         E C E 
+         S A M 
+     PROPTER   
+           N   
+           A   
+           T   
+           U   
+           S   
+
+Dim: 15 by 18, Words: 8 out of 11, Cross: 11, Mix: 1  Ratio: 157 Loose 0 
+
+           D   
+       DECAELIS
+       E   S   
+       S H P   
+       C O I   
+       EXMARIA 
+       N I I   
+       D N T   
+       I E U   
+HOMOFACTUSEST  
+           A   
+           N   
+           C   
+           T   
+           O   
+
+Dim: 15 by 15, Words: 6 out of 11, Cross: 8, Mix: 26  Ratio: 160 Loose 0 
+
+         H     
+       D O     
+       EXMARIA 
+       S O     
+       C F     
+      DECAELIS 
+       N C   A 
+       D T   L 
+       I U   U 
+DESPIRITUSANCTO
+         E   E 
+         S   M 
+         T     
+
+Dim: 15 by 13, Words: 6 out of 11, Cross: 8, Mix: 117  Ratio: 160 Loose 0 
+
+ H             
+ O             
+ M             
+ O             
+ F             
+ A             
+ C             
+ T             
+ U             
+ S             
+DESPIRITUSANCTO
+ S             
+ T             
+
+Dim: 15 by 13, Words: 2 out of 11, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+   H             
+   O             
+   M             
+   O             
+   F             
+INCARNATUS       
+   C             
+   T             
+   U             
+   S             
+  DESPIRITUSANCTO
+   S             
+   T             
+
+Dim: 17 by 13, Words: 3 out of 11, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+D                
+E                
+S  H             
+C  O             
+E  M             
+N  O             
+D  F             
+INCARNATUS       
+T  C             
+   T             
+   U             
+   S             
+  DESPIRITUSANCTO
+   S             
+   T             
+
+Dim: 17 by 15, Words: 4 out of 11, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+DECAELIS         
+E                
+S  H             
+C  O             
+E  M             
+N  O             
+D  F             
+INCARNATUS       
+T  C             
+   T             
+   U             
+   S             
+  DESPIRITUSANCTO
+   S             
+   T             
+
+Dim: 17 by 15, Words: 5 out of 11, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+    S            
+    A            
+    L            
+    U            
+    T            
+DECAELIS         
+E   M            
+S  H             
+C  O             
+E  M             
+N  O             
+D  F             
+INCARNATUS       
+T  C             
+   T             
+   U             
+   S             
+  DESPIRITUSANCTO
+   S             
+   T             
+
+Dim: 17 by 20, Words: 6 out of 11, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+     S           
+     A           
+DECAELIS         
+E    U           
+S  H T           
+C  O E           
+E  M M           
+N  O             
+D  F             
+INCARNATUS       
+T  C             
+   T             
+   U             
+   S             
+  DESPIRITUSANCTO
+   S             
+   T             
+
+Dim: 17 by 17, Words: 6 out of 11, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+DECAELIS         
+E                
+S  H             
+C  O   S         
+E  M   A         
+N  O   L         
+D  F   U         
+INCARNATUS       
+T  C   E         
+   T   M         
+   U             
+   S             
+  DESPIRITUSANCTO
+   S             
+   T             
+
+Dim: 17 by 15, Words: 6 out of 11, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+ D H             
+ E O             
+ S M             
+ C O       D     
+ E F       E     
+INCARNATUS C     
+ D C      SALUTEM
+ I T       E     
+ T U       L     
+   S       I     
+  DESPIRITUSANCTO
+   S             
+   T             
+
+Dim: 17 by 13, Words: 6 out of 11, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+   H             
+   O             
+   M             
+   O             
+   F             
+INCARNATUS       
+   C             
+   T          D  
+   U          E  
+   S        S S  
+  DESPIRITUSANCTO
+   S        L E  
+   T        U N  
+            T D  
+        DECAELIS 
+            M T  
+
+Dim: 17 by 16, Words: 6 out of 11, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+    H             
+    O             
+  HOMINES         
+    O  X          
+    F  M          
+ INCARNATUS       
+    C  R          
+    T  I       D  
+    U  A       E  
+    S        S S  
+   DESPIRITUSANCTO
+    S        L E  
+PROPTER      U N  
+             T D  
+         DECAELIS 
+             M T  
+
+Dim: 18 by 16, Words: 9 out of 11, Cross: 10, Mix: 1  Ratio: 125 Loose 0 
+
+   H             
+   O             
+ HOMINES         
+   O  X          
+   F  M          
+INCARNATUS       
+   C  R          
+   T  I       D  
+   U  A       E  
+   S        S S  
+  DESPIRITUSANCTO
+   S R      L E  
+   T O      U N  
+     P      T D  
+     T  DECAELIS 
+     E      M T  
+     R           
+
+Dim: 17 by 17, Words: 9 out of 11, Cross: 10, Mix: 1  Ratio: 125 Loose 0 
+
+   H             
+   O             
+ HOMINES         
+   O  X    D     
+   F  M    E     
+INCARNATUS C     
+   C  R    A     
+   T  I    E  D  
+   U  A  SALUTEM 
+   S       I  S  
+  DESPIRITUSANCTO
+   S          E  
+   T          N  
+              D  
+              I  
+          PROPTER
+
+Dim: 17 by 16, Words: 9 out of 11, Cross: 10, Mix: 1  Ratio: 125 Loose 0 
+
+    H             
+    O             
+  HOMINES       D 
+    O  X    D   E 
+    F  M    E   S 
+ INCARNATUS C   C 
+    C  R   SALUTEM
+    T  I    E   N 
+    U  A    L   D 
+    S       I   I 
+   DESPIRITUSANCTO
+    S             
+PROPTER           
+
+Dim: 18 by 13, Words: 9 out of 11, Cross: 10, Mix: 1  Ratio: 125 Loose 0 
+
+      H             
+      O             
+      M             
+      O  D          
+      F  E          
+INCARNATUS          
+      C  C          
+      T  E          
+      U  N          
+      S  D          
+     DESPIRITUSANCTO
+      S  T          
+      T             
+
+Dim: 20 by 13, Words: 4 out of 11, Cross: 4, Mix: 1  Ratio: 133 Loose 0 
+
+      H             
+      O             
+      M             
+      O  DECAELIS   
+      F  E          
+INCARNATUS          
+      C  C  S       
+      T  EXMARIA    
+      U  N  L       
+      S  D  U       
+     DESPIRITUSANCTO
+      S  T  E       
+      T     M       
+
+Dim: 20 by 13, Words: 7 out of 11, Cross: 8, Mix: 1  Ratio: 133 Loose 0 
+
+     D                   
+PROPTER    H             
+     C     O             
+     A     M             
+     E     O  D          
+     L     F  E    H     
+     INCARNATUS    O     
+     S     C  C  S M     
+           T  EXMARIA    
+           U  N  L N     
+           S  D  U E     
+          DESPIRITUSANCTO
+           S  T  E       
+           T     M       
+
+Dim: 25 by 14, Words: 9 out of 11, Cross: 11, Mix: 1  Ratio: 137 Loose 0 
+
+D   P               
+E   R H             
+C   O O             
+A   P M             
+E   T O  D          
+L   E F  E    H     
+INCARNATUS    O     
+S     C  C  S M     
+      T  EXMARIA    
+      U  N  L N     
+      S  D  U E     
+     DESPIRITUSANCTO
+      S  T  E       
+      T     M       
+
+Dim: 20 by 14, Words: 9 out of 11, Cross: 11, Mix: 1  Ratio: 137 Loose 0 
+
+      H             
+    PROPTER         
+      M             
+  D   O  D          
+  E   F  E    H     
+INCARNATUS    O     
+  A   C  C  S M     
+  E   T  EXMARIA    
+  L   U  N  L N     
+  I   S  D  U E     
+  S  DESPIRITUSANCTO
+      S  T  E       
+      T     M       
+
+Dim: 20 by 13, Words: 9 out of 11, Cross: 11, Mix: 1  Ratio: 137 Loose 0 
+
+ H             
+ O       I     
+ M   HOMINES D 
+ O       C A E 
+ F    DECAELIS 
+ A       R U C 
+ C     P N T E 
+ T EXMARIA E N 
+ U     O T M D 
+ S     P U   I 
+DESPIRITUSANCTO
+ S     E       
+ T     R       
+
+Dim: 15 by 13, Words: 9 out of 11, Cross: 11, Mix: 1  Ratio: 137 Loose 0 
+
+   H            
+   O            
+   M            
+   O            
+   F            
+DECAELIS        
+   C  N         
+   T  C   D     
+   U  A   E     
+ DESPIRITUSANCTO
+   E  N   C     
+   S SALUTEM    
+   T  T   N     
+      U   D     
+      S   I     
+          T     
+
+Dim: 16 by 16, Words: 6 out of 11, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+       H       
+       O       
+       M       
+       O       
+       F       
+ INCARNATUS D  
+       C    E  
+DESPIRITUSANCTO
+       U    A  
+       SALUTEM 
+       E    L  
+     DESCENDIT 
+       T    S  
+
+Dim: 15 by 13, Words: 6 out of 11, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+       H       
+       O       
+    E  M       
+    X  O       
+    M  F       
+ INCARNATUS D  
+    R  C    E  
+DESPIRITUSANCTO
+    A  U    A  
+       SALUTEM 
+       E    L  
+     DESCENDIT 
+       T    S  
+
+Dim: 15 by 13, Words: 7 out of 11, Cross: 9, Mix: 1  Ratio: 150 Loose 0 
+
+       H       
+     PROPTER   
+ H  E  M       
+ O  X  O       
+ M  M  F       
+ INCARNATUS D  
+ N  R  C    E  
+DESPIRITUSANCTO
+ S  A  U    A  
+       SALUTEM 
+       E    L  
+     DESCENDIT 
+       T    S  
+
+Dim: 15 by 13, Words: 9 out of 11, Cross: 12, Mix: 1  Ratio: 150 Loose 0 
+
+ N             
+ O             
+ S             
+ T             
+ R             
+ A             
+ M             
+ S             
+ A             
+ L             
+ U             
+ T             
+DESPIRITUSANCTO
+ M             
+
+Dim: 15 by 14, Words: 2 out of 14, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+ N             
+HOMOFACTUSEST  
+ S             
+ T             
+ R             
+ A             
+ M             
+ S             
+ A             
+ L             
+ U             
+ T             
+DESPIRITUSANCTO
+ M             
+
+Dim: 15 by 14, Words: 3 out of 14, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+   Q           
+   U           
+   I           
+   P           
+ N R           
+HOMOFACTUSEST  
+ S P           
+ T T           
+ R E           
+ A R           
+ M             
+ S             
+ A             
+ L             
+ U             
+ T             
+DESPIRITUSANCTO
+ M             
+
+Dim: 15 by 18, Words: 4 out of 14, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+      Q           
+      U           
+NOSHOMINES        
+      P           
+    N R           
+   HOMOFACTUSEST  
+    S P           
+    T T           
+    R E           
+    A R           
+    M             
+    S             
+    A             
+    L             
+    U             
+    T             
+   DESPIRITUSANCTO
+    M             
+
+Dim: 18 by 18, Words: 5 out of 14, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+      Q           
+I     U           
+NOSHOMINES        
+C     P           
+A   N R           
+R  HOMOFACTUSEST  
+N   S P           
+A   T T           
+T   R E           
+U   A R           
+S   M             
+    S             
+    A             
+    L             
+    U             
+    T             
+   DESPIRITUSANCTO
+    M             
+
+Dim: 18 by 18, Words: 6 out of 14, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+   Q           
+   U           
+   I           
+   P     N     
+ N R     O     
+HOMOFACTUSEST  
+ S P     H     
+ T T     O     
+ R E     M     
+ A R     I     
+ M  INCARNATUS 
+ S       E     
+ A       S     
+ L             
+ U             
+ T             
+DESPIRITUSANCTO
+ M             
+
+Dim: 15 by 18, Words: 6 out of 14, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+        Q           
+        U           
+        I           
+        P           
+      N R           
+     HOMOFACTUSEST  
+      S P           
+      T T           
+      R E           
+      A R           
+      M  N          
+      S  O          
+INCARNATUS          
+      L  H          
+      U  O          
+      T  M          
+     DESPIRITUSANCTO
+      M  N          
+         E          
+         S          
+
+Dim: 20 by 20, Words: 6 out of 14, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+                 Q           
+      H          U           
+      O          I           
+SALUTEM          P           
+      I        N R           
+      N  D    HOMOFACTUSEST  
+     DECAELIS  S P           
+      S  S     T T           
+         C     R E           
+         EXMARIA R           
+         N     M  N          
+         D     S  O          
+         INCARNATUS          
+         T     L  H          
+               U  O          
+               T  M          
+              DESPIRITUSANCTO
+               M  N          
+                  E          
+                  S          
+
+Dim: 29 by 20, Words: 11 out of 14, Cross: 12, Mix: 1  Ratio: 120 Loose 0 
+
+            Q           
+ H          U           
+ O          I           
+ M          P           
+ I        N R           
+ N  D    HOMOFACTUSEST  
+DECAELIS  S P           
+ S  S     T T           
+    C     R E           
+    EXMARIA R           
+    N     M  N          
+    D  S  S  O          
+    INCARNATUS          
+    T  L  L  H          
+       U  U  O          
+       T  T  M          
+       E DESPIRITUSANCTO
+       M  M  N          
+             E          
+             S          
+
+Dim: 24 by 20, Words: 11 out of 14, Cross: 12, Mix: 1  Ratio: 120 Loose 0 
+
+        Q           
+        U           
+        I           
+        P           
+      N R           
+D    HOMOFACTUSEST  
+E     S P           
+S     T T  S        
+C     R EXMARIA     
+E     A R  L        
+N D   M  N U        
+D E   S  O T        
+INCARNATUS E        
+T A   L  HOMINES    
+  E   U  O          
+  L   T  M          
+  I  DESPIRITUSANCTO
+  S   M  N          
+         E          
+         S          
+
+Dim: 20 by 20, Words: 11 out of 14, Cross: 12, Mix: 1  Ratio: 120 Loose 0 
+
+        Q      H    
+        U      O    
+        I D  S M    
+        P EXMARIA   
+      N R C  L N    
+D    HOMOFACTUSEST  
+E     S P E  T S    
+S     T T L  E      
+C     R E I  M      
+E     A R S         
+N     M  N          
+D     S  O          
+INCARNATUS          
+T     L  H          
+      U  O          
+      T  M          
+     DESPIRITUSANCTO
+      M  N          
+         E          
+         S          
+
+Dim: 20 by 20, Words: 11 out of 14, Cross: 13, Mix: 1  Ratio: 130 Loose 0 
+
+              H     
+        Q     O     
+        U     M     
+        I     I     
+        P  D  N     
+      N R  E  E     
+     HOMOFACTUSEST  
+    P S P  A        
+    R T T  E        
+    O R E  L        
+    P A R  I        
+SALUTEM  NOS        
+    E S  O          
+INCARNATUS          
+      L  H     E    
+      U  O     X    
+      T  M     M    
+     DESPIRITUSANCTO
+      M  N     R    
+        DESCENDIT   
+         S     A    
+
+Dim: 20 by 21, Words: 13 out of 14, Cross: 16, Mix: 1  Ratio: 133 Loose 0 
+
+        Q      H    
+        U      O    
+        I      M    
+        P  D   I    
+      N R  E   N    
+     HOMOFACTUSEST  
+    P S P  A   S    
+    R T T  E        
+    O R E  L        
+    P A R  I        
+SALUTEM  NOS        
+    E S  O          
+INCARNATUS          
+      L  H     E    
+      U  O     X    
+      T  M     M    
+     DESPIRITUSANCTO
+      M  N     R    
+        DESCENDIT   
+         S     A    
+
+Dim: 20 by 20, Words: 13 out of 14, Cross: 16, Mix: 1  Ratio: 133 Loose 0 
+
+        Q           
+        U           
+        I           
+        P           
+      N R           
+     HOMOFACTUSEST  
+    P S P           
+    R T T           
+    O R E           
+    P A R     D     
+SALUTEM  N    E     
+    E S  O E  C     
+INCARNATUS X  A     
+      L  HOMINES    
+      U  O A  L     
+      T  M R  I     
+     DESPIRITUSANCTO
+      M  N A        
+         E          
+       DESCENDIT    
+
+Dim: 20 by 20, Words: 12 out of 14, Cross: 15, Mix: 1  Ratio: 136 Loose 0 
+
+       Q D     
+    SALUTEM    
+       I C     
+   N   P A     
+ PROPTER E     
+   S   O L     
+ N H   P I     
+HOMOFACTUSEST  
+ S M   E       
+ T INCARNATUS  
+ R N           
+ A E           
+ M S           
+ S         D   
+ A         E   
+ L    H    S   
+ U    O    C   
+ T    M    E   
+DESPIRITUSANCTO
+ M    N    D   
+      EXMARIA  
+      S    T   
+
+Dim: 15 by 22, Words: 12 out of 14, Cross: 15, Mix: 1  Ratio: 136 Loose 0 
+
+       Q       
+    SALUTEM    
+       I       
+   N   P       
+ PROPTER       
+   S   O       
+ N H   P       
+HOMOFACTUSEST  
+ S M   E       
+ T INCARNATUS  
+ R N         D 
+ A E         E 
+ M S  DECAELIS 
+ S        X  C 
+ A      HOMINES
+ L        A  N 
+ U        R  D 
+ T        I  I 
+DESPIRITUSANCTO
+ M             
+
+Dim: 15 by 20, Words: 12 out of 14, Cross: 15, Mix: 1  Ratio: 136 Loose 0 
+
+ N             
+ O             
+ S             
+ T             
+ R             
+ A             
+ M             
+ S             
+ A             
+ L             
+ U             
+ T             
+DESPIRITUSANCTO
+ M             
+
+Dim: 15 by 14, Words: 2 out of 9, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+ N             
+HOMOFACTUSEST  
+ S             
+ T             
+ R             
+ A             
+ M             
+ S             
+ A             
+ L             
+ U             
+ T             
+DESPIRITUSANCTO
+ M             
+
+Dim: 15 by 14, Words: 3 out of 9, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+   Q           
+   U           
+   I           
+   P           
+ N R           
+HOMOFACTUSEST  
+ S P           
+ T T           
+ R E           
+ A R           
+ M             
+ S             
+ A             
+ L             
+ U             
+ T             
+DESPIRITUSANCTO
+ M             
+
+Dim: 15 by 18, Words: 4 out of 9, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+      Q           
+      U           
+NOSHOMINES        
+      P           
+    N R           
+   HOMOFACTUSEST  
+    S P           
+    T T           
+    R E           
+    A R           
+    M             
+    S             
+    A             
+    L             
+    U             
+    T             
+   DESPIRITUSANCTO
+    M             
+
+Dim: 18 by 18, Words: 5 out of 9, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+      Q           
+I     U           
+NOSHOMINES        
+C     P           
+A   N R           
+R  HOMOFACTUSEST  
+N   S P           
+A   T T           
+T   R E           
+U   A R           
+S   M             
+    S             
+    A             
+    L             
+    U             
+    T             
+   DESPIRITUSANCTO
+    M             
+
+Dim: 18 by 18, Words: 6 out of 9, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+   Q           
+   U           
+   I           
+   P     N     
+ N R     O     
+HOMOFACTUSEST  
+ S P     H     
+ T T     O     
+ R E     M     
+ A R     I     
+ M  INCARNATUS 
+ S       E     
+ A       S     
+ L             
+ U             
+ T             
+DESPIRITUSANCTO
+ M             
+
+Dim: 15 by 18, Words: 6 out of 9, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+        Q           
+        U           
+        I           
+        P           
+      N R           
+     HOMOFACTUSEST  
+      S P           
+      T T           
+      R E           
+      A R           
+      M  N          
+      S  O          
+INCARNATUS          
+      L  H          
+      U  O          
+      T  M          
+     DESPIRITUSANCTO
+      M  N          
+         E          
+         S          
+
+Dim: 20 by 20, Words: 6 out of 9, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+       Q       
+       U       
+       I       
+   N   P       
+   O   R       
+   S   O       
+ N H   P       
+HOMOFACTUSEST  
+ S M   E       
+ T INCARNATUS  
+ R N           
+ A E           
+ M S           
+ S             
+ A             
+ L             
+ U             
+ T             
+DESPIRITUSANCTO
+ M             
+
+Dim: 15 by 20, Words: 6 out of 9, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+ N      Q        
+HOMOFACTUSEST    
+ S      I        
+ T      P        
+ R      R        
+ A     NOSHOMINES
+ M      P    N   
+ S      T    C   
+ A      E    A   
+ L      R    R   
+ U           N   
+ T           A   
+DESPIRITUSANCTO  
+ M           U   
+             S   
+
+Dim: 17 by 15, Words: 6 out of 9, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+ N      Q          
+HOMOFACTUSEST      
+ S      I          
+ T      P          
+ R      R          
+ A     NOSHOMINES  
+ M      P    N     
+ S      T  DECAELIS
+ A      E  E A     
+ L      R  S R     
+ U         C N     
+ T         E A     
+DESPIRITUSANCTO    
+ M         D U     
+           I S     
+           T       
+
+Dim: 19 by 16, Words: 8 out of 9, Cross: 9, Mix: 1  Ratio: 128 Loose 0 
+
+ N      Q         
+HOMOFACTUSEST     
+ S      I         
+ T      P         
+ R      R         
+ A     NOSHOMINES 
+ M      P    N    
+ S      T  D C    
+ A      E DECAELIS
+ L      R  S R    
+ U         C N    
+ T         E A    
+DESPIRITUSANCTO   
+ M         D U    
+           I S    
+           T      
+
+Dim: 18 by 16, Words: 8 out of 9, Cross: 9, Mix: 1  Ratio: 128 Loose 0 
+
+      N              
+     HOMOFACTUSEST   
+      S              
+      T              
+      R              
+      A       D   Q  
+      M  N    E   U  
+      S  O DESCENDIT 
+INCARNATUS    A   P  
+      L  H    EXMARIA
+      U  O    L   O  
+      T  M    I   P  
+     DESPIRITUSANCTO 
+      M  N        E  
+         E        R  
+         S           
+
+Dim: 21 by 16, Words: 9 out of 9, Cross: 11, Mix: 1  Ratio: 137 Loose 0 
+
+ N                     
+ O    D                
+ S    E  N             
+ H    S  O             
+HOMOFACTUSEST          
+ M    E  T   Q         
+ I   INCARNATUS        
+ N    D  A   I         
+DECAELIS M   P         
+ S    T  S   R         
+         A   O         
+         L   P         
+         U   T         
+         T   E         
+        DESPIRITUSANCTO
+         M             
+
+Dim: 23 by 16, Words: 8 out of 9, Cross: 10, Mix: 1  Ratio: 142 Loose 0 
+
+D                 
+E                 
+S                 
+C                 
+E   N  I          
+NOSHOMINES        
+D   S  C          
+I   T  A          
+T   R  R          
+    A  N  Q D     
+  HOMOFACTUSEST   
+    S  T  I C     
+    A  U  P A     
+    L  S  R E     
+    U     O L     
+    T     P I     
+   DESPIRITUSANCTO
+    M     E       
+          R       
+
+Dim: 18 by 19, Words: 8 out of 9, Cross: 10, Mix: 1  Ratio: 142 Loose 0 
+
+              D   
+              E   
+    N  I      S   
+NOSHOMINES    C   
+    S  C      E   
+    T  A      N   
+    R  R      D   
+    A  N  Q D I   
+  HOMOFACTUSEST   
+    S  T  I C     
+    A  U  P A     
+    L  S  R E     
+    U     O L     
+    T     P I     
+   DESPIRITUSANCTO
+    M     E       
+          R       
+
+Dim: 18 by 17, Words: 8 out of 9, Cross: 10, Mix: 1  Ratio: 142 Loose 0 
+
+    N  I          
+NOSHOMINES        
+    S  C          
+    T  A          
+    R  R        D 
+    A  N  Q D   E 
+  HOMOFACTUSEST S 
+    S  T  I C   C 
+    A  U  P A   E 
+    L  S  R E   N 
+    U     O L   D 
+    T     P I   I 
+   DESPIRITUSANCTO
+    M     E       
+          R       
+
+Dim: 18 by 15, Words: 8 out of 9, Cross: 10, Mix: 1  Ratio: 142 Loose 0 
+
+ N                 
+ O                 
+ S                 
+ T                 
+ R      I          
+ A      N          
+ M      C   H      
+ S      A   O Q    
+ A      R   M U    
+ L      NOSHOMINES 
+ U      A   F P    
+ T      T   A R    
+DESPIRITUSANCTO    
+ M      S   T P    
+            U T    
+          DESCENDIT
+            E R    
+            S      
+            T      
+
+Dim: 19 by 19, Words: 7 out of 9, Cross: 9, Mix: 1  Ratio: 150 Loose 0 
+
+       N      D     
+       O      E     
+     DESPIRITUSANCTO
+       T      C     
+       R      E     
+ INCARNATUS   N     
+  O    M      D     
+  S    S      I     
+  HOMOFACTUSEST     
+  O    L            
+  M    U            
+QUIPROPTER          
+  N    E            
+  E    M            
+  S                 
+
+Dim: 20 by 15, Words: 7 out of 9, Cross: 9, Mix: 1  Ratio: 150 Loose 0 
+
+       D              
+       E              
+       S              
+       C         D    
+       E NOSHOMINES   
+       N O       C    
+       DESPIRITUSANCTO
+       I T N     E    
+QUIPROPTER C     L    
+         A A     I    
+       EXMARIA   S    
+         S N          
+         A A          
+         L T          
+         U U          
+  HOMOFACTUSEST       
+         E            
+         M            
+
+Dim: 22 by 18, Words: 9 out of 9, Cross: 12, Mix: 1  Ratio: 150 Loose 0 
+
+            H      
+            O Q    
+            M U    
+        NOSHOMINES 
+  N         F P    
+  O         A R    
+DESPIRITUSANCTO    
+E T N       T P    
+C R C       U T    
+A A A     DESCENDIT
+EXMARIA     E R    
+L S N       S      
+I A A       T      
+S L T              
+  U U              
+  T S              
+  E                
+  M                
+
+Dim: 19 by 18, Words: 9 out of 9, Cross: 12, Mix: 1  Ratio: 150 Loose 0 
+
+    N    Q     I  
+    O D  U     N  
+  DESCENDIT    C  
+    T C  P     A  
+EXMARIA  R     R  
+    A E NOSHOMINES
+    M L  P     A  
+  DESPIRITUSANCTO 
+    A S  E     U  
+    L    R     S  
+    U             
+    T             
+    E             
+  HOMOFACTUSEST   
+
+Dim: 18 by 14, Words: 9 out of 9, Cross: 12, Mix: 1  Ratio: 150 Loose 0 
+
+  N    Q        
+  O D  U        
+DESCENDIT H     
+  T C  P  O     
+  R A  R  M     
+  A E NOSHOMINES
+  M L  P  F N   
+DESPIRITUSANCTO 
+  A S  E  C A   
+  L    R  T R   
+  U       U N   
+  T       S A   
+  E       E T   
+  M       S U   
+          T S   
+
+Dim: 16 by 15, Words: 8 out of 9, Cross: 11, Mix: 1  Ratio: 157 Loose 0 
+
+    N    Q        
+    O D  U        
+  DESCENDIT H     
+    T C  P  O     
+EXMARIA  R  M     
+    A E NOSHOMINES
+    M L  P  F N   
+  DESPIRITUSANCTO 
+    A S  E  C A   
+    L    R  T R   
+    U       U N   
+    T       S A   
+    E       E T   
+    M       S U   
+            T S   
+
+Dim: 18 by 15, Words: 9 out of 9, Cross: 13, Mix: 1  Ratio: 162 Loose 0 
+
+      DESCENDIT
+           O N 
+           S C 
+           H A 
+   Q   N   O R 
+   U   O   M N 
+   I   S   I A 
+DESPIRITUSANCTO
+   R   R   E U 
+  HOMOFACTUSEST
+   P   M       
+   T   S       
+   E   A       
+   R   L       
+       U       
+       T       
+       E       
+       M       
+
+Dim: 15 by 18, Words: 7 out of 9, Cross: 10, Mix: 1  Ratio: 166 Loose 0 
+
+ N             
+ O             
+ S             
+ T             
+ R             
+ A             
+ M             
+ S             
+ A             
+ L             
+ U             
+ T             
+DESPIRITUSANCTO
+ M             
+
+Dim: 15 by 14, Words: 2 out of 9, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+ N             
+HOMOFACTUSEST  
+ S             
+ T             
+ R             
+ A             
+ M             
+ S             
+ A             
+ L             
+ U             
+ T             
+DESPIRITUSANCTO
+ M             
+
+Dim: 15 by 14, Words: 3 out of 9, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+   Q           
+   U           
+   I           
+   P           
+ N R           
+HOMOFACTUSEST  
+ S P           
+ T T           
+ R E           
+ A R           
+ M             
+ S             
+ A             
+ L             
+ U             
+ T             
+DESPIRITUSANCTO
+ M             
+
+Dim: 15 by 18, Words: 4 out of 9, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+      Q           
+      U           
+NOSHOMINES        
+      P           
+    N R           
+   HOMOFACTUSEST  
+    S P           
+    T T           
+    R E           
+    A R           
+    M             
+    S             
+    A             
+    L             
+    U             
+    T             
+   DESPIRITUSANCTO
+    M             
+
+Dim: 18 by 18, Words: 5 out of 9, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+      Q           
+I     U           
+NOSHOMINES        
+C     P           
+A   N R           
+R  HOMOFACTUSEST  
+N   S P           
+A   T T           
+T   R E           
+U   A R           
+S   M             
+    S             
+    A             
+    L             
+    U             
+    T             
+   DESPIRITUSANCTO
+    M             
+
+Dim: 18 by 18, Words: 6 out of 9, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+   Q           
+   U           
+   I           
+   P     N     
+ N R     O     
+HOMOFACTUSEST  
+ S P     H     
+ T T     O     
+ R E     M     
+ A R     I     
+ M  INCARNATUS 
+ S       E     
+ A       S     
+ L             
+ U             
+ T             
+DESPIRITUSANCTO
+ M             
+
+Dim: 15 by 18, Words: 6 out of 9, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+        Q           
+        U           
+        I           
+        P           
+      N R           
+     HOMOFACTUSEST  
+      S P           
+      T T           
+      R E           
+      A R           
+      M  N          
+      S  O          
+INCARNATUS          
+      L  H          
+      U  O          
+      T  M          
+     DESPIRITUSANCTO
+      M  N          
+         E          
+         S          
+
+Dim: 20 by 20, Words: 6 out of 9, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+       Q       
+       U       
+       I       
+   N   P       
+   O   R       
+   S   O       
+ N H   P       
+HOMOFACTUSEST  
+ S M   E       
+ T INCARNATUS  
+ R N           
+ A E           
+ M S           
+ S             
+ A             
+ L             
+ U             
+ T             
+DESPIRITUSANCTO
+ M             
+
+Dim: 15 by 20, Words: 6 out of 9, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+ N      Q        
+HOMOFACTUSEST    
+ S      I        
+ T      P        
+ R      R        
+ A     NOSHOMINES
+ M      P    N   
+ S      T    C   
+ A      E    A   
+ L      R    R   
+ U           N   
+ T           A   
+DESPIRITUSANCTO  
+ M           U   
+             S   
+
+Dim: 17 by 15, Words: 6 out of 9, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+ N      Q          
+HOMOFACTUSEST      
+ S      I          
+ T      P          
+ R      R          
+ A     NOSHOMINES  
+ M      P    N     
+ S      T  DECAELIS
+ A      E  E A     
+ L      R  S R     
+ U         C N     
+ T         E A     
+DESPIRITUSANCTO    
+ M         D U     
+           I S     
+           T       
+
+Dim: 19 by 16, Words: 8 out of 9, Cross: 9, Mix: 1  Ratio: 128 Loose 0 
+
+ N      Q         
+HOMOFACTUSEST     
+ S      I         
+ T      P         
+ R      R         
+ A     NOSHOMINES 
+ M      P    N    
+ S      T  D C    
+ A      E DECAELIS
+ L      R  S R    
+ U         C N    
+ T         E A    
+DESPIRITUSANCTO   
+ M         D U    
+           I S    
+           T      
+
+Dim: 18 by 16, Words: 8 out of 9, Cross: 9, Mix: 1  Ratio: 128 Loose 0 
+
+      N              
+     HOMOFACTUSEST   
+      S              
+      T              
+      R              
+      A       D   Q  
+      M  N    E   U  
+      S  O DESCENDIT 
+INCARNATUS    A   P  
+      L  H    EXMARIA
+      U  O    L   O  
+      T  M    I   P  
+     DESPIRITUSANCTO 
+      M  N        E  
+         E        R  
+         S           
+
+Dim: 21 by 16, Words: 9 out of 9, Cross: 11, Mix: 1  Ratio: 137 Loose 0 
+
+ N                     
+ O    D                
+ S    E  N             
+ H    S  O             
+HOMOFACTUSEST          
+ M    E  T   Q         
+ I   INCARNATUS        
+ N    D  A   I         
+DECAELIS M   P         
+ S    T  S   R         
+         A   O         
+         L   P         
+         U   T         
+         T   E         
+        DESPIRITUSANCTO
+         M             
+
+Dim: 23 by 16, Words: 8 out of 9, Cross: 10, Mix: 1  Ratio: 142 Loose 0 
+
+D                 
+E                 
+S                 
+C                 
+E   N  I          
+NOSHOMINES        
+D   S  C          
+I   T  A          
+T   R  R          
+    A  N  Q D     
+  HOMOFACTUSEST   
+    S  T  I C     
+    A  U  P A     
+    L  S  R E     
+    U     O L     
+    T     P I     
+   DESPIRITUSANCTO
+    M     E       
+          R       
+
+Dim: 18 by 19, Words: 8 out of 9, Cross: 10, Mix: 1  Ratio: 142 Loose 0 
+
+              D   
+              E   
+    N  I      S   
+NOSHOMINES    C   
+    S  C      E   
+    T  A      N   
+    R  R      D   
+    A  N  Q D I   
+  HOMOFACTUSEST   
+    S  T  I C     
+    A  U  P A     
+    L  S  R E     
+    U     O L     
+    T     P I     
+   DESPIRITUSANCTO
+    M     E       
+          R       
+
+Dim: 18 by 17, Words: 8 out of 9, Cross: 10, Mix: 1  Ratio: 142 Loose 0 
+
+    N  I          
+NOSHOMINES        
+    S  C          
+    T  A          
+    R  R        D 
+    A  N  Q D   E 
+  HOMOFACTUSEST S 
+    S  T  I C   C 
+    A  U  P A   E 
+    L  S  R E   N 
+    U     O L   D 
+    T     P I   I 
+   DESPIRITUSANCTO
+    M     E       
+          R       
+
+Dim: 18 by 15, Words: 8 out of 9, Cross: 10, Mix: 1  Ratio: 142 Loose 0 
+
+ N                 
+ O                 
+ S                 
+ T                 
+ R      I          
+ A      N          
+ M      C   H      
+ S      A   O Q    
+ A      R   M U    
+ L      NOSHOMINES 
+ U      A   F P    
+ T      T   A R    
+DESPIRITUSANCTO    
+ M      S   T P    
+            U T    
+          DESCENDIT
+            E R    
+            S      
+            T      
+
+Dim: 19 by 19, Words: 7 out of 9, Cross: 9, Mix: 1  Ratio: 150 Loose 0 
+
+       N      D     
+       O      E     
+     DESPIRITUSANCTO
+       T      C     
+       R      E     
+ INCARNATUS   N     
+  O    M      D     
+  S    S      I     
+  HOMOFACTUSEST     
+  O    L            
+  M    U            
+QUIPROPTER          
+  N    E            
+  E    M            
+  S                 
+
+Dim: 20 by 15, Words: 7 out of 9, Cross: 9, Mix: 1  Ratio: 150 Loose 0 
+
+       D              
+       E              
+       S              
+       C         D    
+       E NOSHOMINES   
+       N O       C    
+       DESPIRITUSANCTO
+       I T N     E    
+QUIPROPTER C     L    
+         A A     I    
+       EXMARIA   S    
+         S N          
+         A A          
+         L T          
+         U U          
+  HOMOFACTUSEST       
+         E            
+         M            
+
+Dim: 22 by 18, Words: 9 out of 9, Cross: 12, Mix: 1  Ratio: 150 Loose 0 
+
+            H      
+            O Q    
+            M U    
+        NOSHOMINES 
+  N         F P    
+  O         A R    
+DESPIRITUSANCTO    
+E T N       T P    
+C R C       U T    
+A A A     DESCENDIT
+EXMARIA     E R    
+L S N       S      
+I A A       T      
+S L T              
+  U U              
+  T S              
+  E                
+  M                
+
+Dim: 19 by 18, Words: 9 out of 9, Cross: 12, Mix: 1  Ratio: 150 Loose 0 
+
+    N    Q     I  
+    O D  U     N  
+  DESCENDIT    C  
+    T C  P     A  
+EXMARIA  R     R  
+    A E NOSHOMINES
+    M L  P     A  
+  DESPIRITUSANCTO 
+    A S  E     U  
+    L    R     S  
+    U             
+    T             
+    E             
+  HOMOFACTUSEST   
+
+Dim: 18 by 14, Words: 9 out of 9, Cross: 12, Mix: 1  Ratio: 150 Loose 0 
+
+  N    Q        
+  O D  U        
+DESCENDIT H     
+  T C  P  O     
+  R A  R  M     
+  A E NOSHOMINES
+  M L  P  F N   
+DESPIRITUSANCTO 
+  A S  E  C A   
+  L    R  T R   
+  U       U N   
+  T       S A   
+  E       E T   
+  M       S U   
+          T S   
+
+Dim: 16 by 15, Words: 8 out of 9, Cross: 11, Mix: 1  Ratio: 157 Loose 0 
+
+    N    Q        
+    O D  U        
+  DESCENDIT H     
+    T C  P  O     
+EXMARIA  R  M     
+    A E NOSHOMINES
+    M L  P  F N   
+  DESPIRITUSANCTO 
+    A S  E  C A   
+    L    R  T R   
+    U       U N   
+    T       S A   
+    E       E T   
+    M       S U   
+            T S   
+
+Dim: 18 by 15, Words: 9 out of 9, Cross: 13, Mix: 1  Ratio: 162 Loose 0 
