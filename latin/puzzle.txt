@@ -1,0 +1,1300 @@
+
+  P     
+  L     
+SCAPULAE
+  U     
+  D     
+  I     
+  T     
+  E     
+
+Dim: 8 by 8, Words: 2 out of 10, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+   P     
+   L     
+ SCAPULAE
+   U     
+   D     
+MANIBUS  
+   T     
+   E     
+
+Dim: 9 by 8, Words: 3 out of 10, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+   PEDES 
+   L     
+ SCAPULAE
+   U     
+   D     
+MANIBUS  
+   T     
+   E     
+
+Dim: 9 by 8, Words: 4 out of 10, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+   PEDES 
+   L     
+ SCAPULAE
+   U     
+ C D     
+MANIBUS  
+ P T     
+ U E     
+ T       
+
+Dim: 9 by 9, Words: 5 out of 10, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+   PEDES 
+   L    G
+ SCAPULAE
+   U    N
+ C D    U
+MANIBUS A
+ P T     
+ U E     
+ T       
+
+Dim: 9 by 9, Words: 6 out of 10, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+ CAPUT   
+   L    G
+ SCAPULAE
+   U    N
+   D    U
+MANIBUS A
+   T     
+  PEDES  
+
+Dim: 9 by 8, Words: 6 out of 10, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+        G 
+ SCAPULAE 
+    L   N 
+   MANIBUS
+    U   A 
+  PEDES   
+    I     
+CAPUT     
+    E     
+
+Dim: 10 by 9, Words: 6 out of 10, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+        G 
+ SCAPULAE 
+    L   N 
+   MANIBUS
+    U   A 
+    D     
+OCULI     
+ A  T     
+ PEDES    
+ U        
+ T        
+
+Dim: 10 by 11, Words: 7 out of 10, Cross: 8, Mix: 1  Ratio: 133 Loose 0 
+
+    PEDES
+    L    
+  C A M  
+SCAPULAE 
+  P D N  
+OCULI I  
+  T T B  
+   GENUA 
+      S  
+
+Dim: 9 by 9, Words: 7 out of 10, Cross: 8, Mix: 1  Ratio: 133 Loose 0 
+
+    P   
+    L   
+  N A M 
+SCAPULAE
+  S D N 
+OCULI I 
+  S T B 
+   GENUA
+      S 
+
+Dim: 8 by 9, Words: 6 out of 10, Cross: 7, Mix: 60  Ratio: 140 Loose 0 
+
+ S     
+ CAPUT 
+ A L   
+ P A   
+ U U  N
+ L D  A
+MANIBUS
+ E T  U
+  PEDES
+
+Dim: 7 by 9, Words: 6 out of 10, Cross: 7, Mix: 216  Ratio: 140 Loose 0 
+
+  P     
+  L     
+SCAPULAE
+  U     
+  D     
+  I     
+  T     
+  E     
+
+Dim: 8 by 8, Words: 2 out of 10, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+   P     
+   L     
+ SCAPULAE
+   U     
+   D     
+MANIBUS  
+   T     
+   E     
+
+Dim: 9 by 8, Words: 3 out of 10, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+   PEDES 
+   L     
+ SCAPULAE
+   U     
+   D     
+MANIBUS  
+   T     
+   E     
+
+Dim: 9 by 8, Words: 4 out of 10, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+   PEDES 
+   L     
+ SCAPULAE
+   U     
+ C D     
+MANIBUS  
+ P T     
+ U E     
+ T       
+
+Dim: 9 by 9, Words: 5 out of 10, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+ CAPUT   
+   L     
+ SCAPULAE
+   U     
+   D     
+MANIBUS  
+   T     
+  PEDES  
+
+Dim: 9 by 8, Words: 5 out of 10, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+CAPUT   
+  L   M 
+SCAPULAE
+  U   N 
+PEDES I 
+  I   B 
+  T   U 
+  E   S 
+
+Dim: 8 by 8, Words: 5 out of 10, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+    PEDES
+    L    
+    A C  
+SCAPULAE 
+    D P  
+ MANIBUS 
+    T T  
+    E    
+
+Dim: 9 by 8, Words: 5 out of 10, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+    P   
+    L   
+    A C 
+SCAPULAE
+    D P 
+ MANIBUS
+    T T 
+ PEDES  
+
+Dim: 8 by 8, Words: 5 out of 10, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+ S   
+ C   
+ A   
+ P G 
+AURES
+ L N 
+NASUS
+ E A 
+
+Dim: 5 by 8, Words: 4 out of 10, Cross: 4, Mix: 13  Ratio: 133 Loose 0 
+
+        G 
+ SCAPULAE 
+    L   N 
+   MANIBUS
+    U   A 
+  A D     
+OCULI     
+  R T     
+ PEDES    
+  S       
+
+Dim: 10 by 10, Words: 7 out of 10, Cross: 8, Mix: 36  Ratio: 133 Loose 0 
+
+    P   
+    L   
+  N A M 
+SCAPULAE
+  S D N 
+OCULI I 
+  S T B 
+   GENUA
+      S 
+
+Dim: 8 by 9, Words: 6 out of 10, Cross: 7, Mix: 60  Ratio: 140 Loose 0 
+
+ S     
+ CAPUT 
+ A L   
+ P A   
+ U U  N
+ L D  A
+MANIBUS
+ E T  U
+  PEDES
+
+Dim: 7 by 9, Words: 6 out of 10, Cross: 7, Mix: 216  Ratio: 140 Loose 0 
+
+  P     
+  L     
+SCAPULAE
+  U     
+  D     
+  I     
+  T     
+  E     
+
+Dim: 8 by 8, Words: 2 out of 10, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+   P     
+   L     
+ SCAPULAE
+   U     
+   D     
+MANIBUS  
+   T     
+   E     
+
+Dim: 9 by 8, Words: 3 out of 10, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+   PEDES 
+   L     
+ SCAPULAE
+   U     
+   D     
+MANIBUS  
+   T     
+   E     
+
+Dim: 9 by 8, Words: 4 out of 10, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+   PEDES 
+   L     
+ SCAPULAE
+   U     
+ C D     
+MANIBUS  
+ P T     
+ U E     
+ T       
+
+Dim: 9 by 9, Words: 5 out of 10, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+   PEDES 
+   L    G
+ SCAPULAE
+   U    N
+ C D    U
+MANIBUS A
+ P T     
+ U E     
+ T       
+
+Dim: 9 by 9, Words: 6 out of 10, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+ CAPUT   
+   L    G
+ SCAPULAE
+   U    N
+   D    U
+MANIBUS A
+   T     
+  PEDES  
+
+Dim: 9 by 8, Words: 6 out of 10, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+        G 
+ SCAPULAE 
+    L   N 
+   MANIBUS
+    U   A 
+  PEDES   
+    I     
+CAPUT     
+    E     
+
+Dim: 10 by 9, Words: 6 out of 10, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+        G 
+ SCAPULAE 
+    L   N 
+   MANIBUS
+    U   A 
+    D     
+OCULI     
+ A  T     
+ PEDES    
+ U        
+ T        
+
+Dim: 10 by 11, Words: 7 out of 10, Cross: 8, Mix: 1  Ratio: 133 Loose 0 
+
+    PEDES
+    L    
+  C A M  
+SCAPULAE 
+  P D N  
+OCULI I  
+  T T B  
+   GENUA 
+      S  
+
+Dim: 9 by 9, Words: 7 out of 10, Cross: 8, Mix: 1  Ratio: 133 Loose 0 
+
+    P   
+    L   
+  N A M 
+SCAPULAE
+  S D N 
+OCULI I 
+  S T B 
+   GENUA
+      S 
+
+Dim: 8 by 9, Words: 6 out of 10, Cross: 7, Mix: 60  Ratio: 140 Loose 0 
+
+ S     
+ CAPUT 
+ A L   
+ P A   
+ U U  N
+ L D  A
+MANIBUS
+ E T  U
+  PEDES
+
+Dim: 7 by 9, Words: 6 out of 10, Cross: 7, Mix: 216  Ratio: 140 Loose 0 
+
+  P     
+  L     
+SCAPULAE
+  U     
+  D     
+  I     
+  T     
+  E     
+
+Dim: 8 by 8, Words: 2 out of 10, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+   P     
+   L     
+ SCAPULAE
+   U     
+   D     
+MANIBUS  
+   T     
+   E     
+
+Dim: 9 by 8, Words: 3 out of 10, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+   PEDES 
+   L     
+ SCAPULAE
+   U     
+   D     
+MANIBUS  
+   T     
+   E     
+
+Dim: 9 by 8, Words: 4 out of 10, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+   PEDES 
+   L     
+ SCAPULAE
+   U     
+ C D     
+MANIBUS  
+ P T     
+ U E     
+ T       
+
+Dim: 9 by 9, Words: 5 out of 10, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+ CAPUT   
+   L     
+ SCAPULAE
+   U     
+   D     
+MANIBUS  
+   T     
+  PEDES  
+
+Dim: 9 by 8, Words: 5 out of 10, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+CAPUT   
+  L   M 
+SCAPULAE
+  U   N 
+PEDES I 
+  I   B 
+  T   U 
+  E   S 
+
+Dim: 8 by 8, Words: 5 out of 10, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+    PEDES
+    L    
+    A C  
+SCAPULAE 
+    D P  
+ MANIBUS 
+    T T  
+    E    
+
+Dim: 9 by 8, Words: 5 out of 10, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+    P   
+    L   
+    A C 
+SCAPULAE
+    D P 
+ MANIBUS
+    T T 
+ PEDES  
+
+Dim: 8 by 8, Words: 5 out of 10, Cross: 5, Mix: 1  Ratio: 125 Loose 0 
+
+ S   
+ C   
+ A   
+ P G 
+AURES
+ L N 
+NASUS
+ E A 
+
+Dim: 5 by 8, Words: 4 out of 10, Cross: 4, Mix: 13  Ratio: 133 Loose 0 
+
+        G 
+ SCAPULAE 
+    L   N 
+   MANIBUS
+    U   A 
+  A D     
+OCULI     
+  R T     
+ PEDES    
+  S       
+
+Dim: 10 by 10, Words: 7 out of 10, Cross: 8, Mix: 36  Ratio: 133 Loose 0 
+
+    P   
+    L   
+  N A M 
+SCAPULAE
+  S D N 
+OCULI I 
+  S T B 
+   GENUA
+      S 
+
+Dim: 8 by 9, Words: 6 out of 10, Cross: 7, Mix: 60  Ratio: 140 Loose 0 
+
+ S     
+ CAPUT 
+ A L   
+ P A   
+ U U  N
+ L D  A
+MANIBUS
+ E T  U
+  PEDES
+
+Dim: 7 by 9, Words: 6 out of 10, Cross: 7, Mix: 216  Ratio: 140 Loose 0 
+
+P           
+L           
+A           
+U           
+DIGITIPEDIUM
+I           
+T           
+E           
+
+Dim: 12 by 8, Words: 2 out of 11, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+SCAPULAE       
+   L           
+   A           
+   U           
+   DIGITIPEDIUM
+   I           
+   T           
+   E           
+
+Dim: 15 by 8, Words: 3 out of 11, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+M              
+A              
+N              
+I              
+B              
+U              
+SCAPULAE       
+   L           
+   A           
+   U           
+   DIGITIPEDIUM
+   I           
+   T           
+   E           
+
+Dim: 15 by 14, Words: 4 out of 11, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+ M              
+CAPUT           
+ N              
+ I              
+ B              
+ U              
+ SCAPULAE       
+    L           
+    A           
+    U           
+    DIGITIPEDIUM
+    I           
+    T           
+    E           
+
+Dim: 16 by 14, Words: 5 out of 11, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+M              
+A              
+N              
+I              
+B              
+U              
+SCAPULAE       
+ A L           
+ P A           
+ U U           
+ T DIGITIPEDIUM
+   I           
+   T           
+   E           
+
+Dim: 15 by 14, Words: 5 out of 11, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+ SCAPULAE       
+    L           
+   MANIBUS      
+    U           
+    DIGITIPEDIUM
+    I           
+CAPUT           
+    E           
+
+Dim: 16 by 8, Words: 5 out of 11, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+SCAPULAE       
+   L         C 
+  MANIBUS    A 
+   U         P 
+   DIGITIPEDIUM
+   I         T 
+   T           
+   E           
+
+Dim: 15 by 8, Words: 5 out of 11, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+  P           
+  L        M  
+SCAPULAE   A  
+  U        N  
+  DIGITIPEDIUM
+  I        B  
+  T     CAPUT 
+  E        S  
+
+Dim: 14 by 8, Words: 5 out of 11, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+P           
+L     S     
+A     CAPUT 
+U     A     
+DIGITIPEDIUM
+I     U     
+T     L     
+E    MANIBUS
+      E     
+
+Dim: 12 by 9, Words: 5 out of 11, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+P   MANIBUS 
+L         C 
+A     C   A 
+U     A   P 
+DIGITIPEDIUM
+I     U   L 
+T     T   A 
+E         E 
+
+Dim: 12 by 8, Words: 5 out of 11, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+    P          
+    L          
+    A M        
+SCAPULAE       
+    D N        
+   DIGITIPEDIUM
+    T B        
+    E U        
+      S        
+
+Dim: 15 by 9, Words: 4 out of 11, Cross: 4, Mix: 1  Ratio: 133 Loose 0 
+
+    P          
+    L          
+    A M        
+SCAPULAE       
+ A  D N        
+ P DIGITIPEDIUM
+ U  T B        
+ T GENUA       
+      S        
+
+Dim: 15 by 9, Words: 6 out of 11, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+  CAPUT      
+    L        
+    A M      
+SCAPULAE     
+    D N      
+ DIGITIPEDIUM
+    T B      
+   GENUA     
+      S      
+
+Dim: 13 by 9, Words: 6 out of 11, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+   P        
+   L     O  
+  NASUS  C  
+   U  CAPUT 
+   D  A  L  
+DIGITIPEDIUM
+   T  U     
+   E  L     
+      A     
+      E     
+
+Dim: 12 by 10, Words: 6 out of 11, Cross: 7, Mix: 2  Ratio: 140 Loose 0 
+
+   C D A 
+  MANIBUS
+   P G R 
+PLAUDITE 
+   T T S 
+     I   
+     P   
+     E   
+     D   
+     I   
+     U   
+     M   
+
+Dim: 9 by 12, Words: 5 out of 11, Cross: 6, Mix: 41  Ratio: 150 Loose 0 
+
+     M A  G 
+   SCAPULAE 
+     N R  N 
+DIGITIPEDIUM
+     B S  A 
+     U      
+     S      
+
+Dim: 12 by 7, Words: 5 out of 11, Cross: 6, Mix: 356  Ratio: 150 Loose 0 
+
+P           
+L           
+A           
+U           
+DIGITIPEDIUM
+I           
+T           
+E           
+
+Dim: 12 by 8, Words: 2 out of 11, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+SCAPULAE       
+   L           
+   A           
+   U           
+   DIGITIPEDIUM
+   I           
+   T           
+   E           
+
+Dim: 15 by 8, Words: 3 out of 11, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+M              
+A              
+N              
+I              
+B              
+U              
+SCAPULAE       
+   L           
+   A           
+   U           
+   DIGITIPEDIUM
+   I           
+   T           
+   E           
+
+Dim: 15 by 14, Words: 4 out of 11, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+ M              
+CAPUT           
+ N              
+ I              
+ B              
+ U              
+ SCAPULAE       
+    L           
+    A           
+    U           
+    DIGITIPEDIUM
+    I           
+    T           
+    E           
+
+Dim: 16 by 14, Words: 5 out of 11, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+   G            
+   E            
+ M N            
+CAPUT           
+ N A            
+ I              
+ B              
+ U              
+ SCAPULAE       
+    L           
+    A           
+    U           
+    DIGITIPEDIUM
+    I           
+    T           
+    E           
+
+Dim: 16 by 16, Words: 6 out of 11, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+ M              
+CAPUT           
+ N     G        
+ I     E        
+ B     N        
+ U     U        
+ SCAPULAE       
+    L           
+    A           
+    U           
+    DIGITIPEDIUM
+    I           
+    T           
+    E           
+
+Dim: 16 by 14, Words: 6 out of 11, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+M              
+A              
+N G            
+I E            
+B N            
+U U            
+SCAPULAE       
+ A L           
+ P A           
+ U U           
+ T DIGITIPEDIUM
+   I           
+   T           
+   E           
+
+Dim: 15 by 14, Words: 6 out of 11, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+ SCAPULAE       
+    L           
+ G MANIBUS      
+ E  U           
+ N  DIGITIPEDIUM
+ U  I           
+CAPUT           
+    E           
+
+Dim: 16 by 8, Words: 6 out of 11, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+SCAPULAE       
+   L         C 
+  MANIBUS    A 
+   U         P 
+   DIGITIPEDIUM
+   I         T 
+   T           
+  GENUA        
+
+Dim: 15 by 8, Words: 6 out of 11, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+  P           
+  L        M  
+SCAPULAE   A  
+  U        N  
+  DIGITIPEDIUM
+  I        B  
+  T     CAPUT 
+ GENUA     S  
+
+Dim: 14 by 8, Words: 6 out of 11, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+ P           
+ L     S     
+ A     CAPUT 
+ U     A     
+ DIGITIPEDIUM
+ I     U     
+ T     L     
+GENUA MANIBUS
+       E     
+
+Dim: 13 by 9, Words: 6 out of 11, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+P           
+L     S     
+A     CAPUT 
+U     A     
+DIGITIPEDIUM
+I E   U     
+T N   L     
+E U  MANIBUS
+  A   E     
+
+Dim: 12 by 9, Words: 6 out of 11, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+P         S 
+L  M      C 
+A CAPUT   A 
+U  N      P 
+DIGITIPEDIUM
+I  B      L 
+T  U  GENUA 
+E  S      E 
+
+Dim: 12 by 8, Words: 6 out of 11, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+       G      
+SCAPULAE      
+   L   N      
+  MANIBUS   C 
+   U   A    A 
+   D        P 
+  DIGITIPEDIUM
+   T        T 
+   E          
+
+Dim: 14 by 9, Words: 6 out of 11, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+    P          
+    L          
+    A M        
+SCAPULAE       
+    D N        
+   DIGITIPEDIUM
+    T B        
+    E U        
+      S        
+
+Dim: 15 by 9, Words: 4 out of 11, Cross: 4, Mix: 1  Ratio: 133 Loose 0 
+
+    P          
+    L          
+    A M        
+SCAPULAE       
+ A  D N        
+ P DIGITIPEDIUM
+ U  T B        
+ T GENUA       
+      S        
+
+Dim: 15 by 9, Words: 6 out of 11, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+  CAPUT      
+    L        
+    A M      
+SCAPULAE     
+    D N      
+ DIGITIPEDIUM
+    T B      
+   GENUA     
+      S      
+
+Dim: 13 by 9, Words: 6 out of 11, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+   P        
+   L     O  
+  NASUS  C  
+   U  CAPUT 
+   D  A  L  
+DIGITIPEDIUM
+   T  U     
+   E  L     
+      A     
+      E     
+
+Dim: 12 by 10, Words: 6 out of 11, Cross: 7, Mix: 2  Ratio: 140 Loose 0 
+
+   C D A 
+  MANIBUS
+   P G R 
+PLAUDITE 
+   T T S 
+     I   
+     P   
+     E   
+     D   
+     I   
+     U   
+     M   
+
+Dim: 9 by 12, Words: 5 out of 11, Cross: 6, Mix: 41  Ratio: 150 Loose 0 
+
+     M A  G 
+   SCAPULAE 
+     N R  N 
+DIGITIPEDIUM
+     B S  A 
+     U      
+     S      
+
+Dim: 12 by 7, Words: 5 out of 11, Cross: 6, Mix: 356  Ratio: 150 Loose 0 
+
+P           
+L           
+A           
+U           
+DIGITIPEDIUM
+I           
+T           
+E           
+
+Dim: 12 by 8, Words: 2 out of 11, Cross: 1, Mix: 1  Ratio: 100 Loose 1 
+
+SCAPULAE       
+   L           
+   A           
+   U           
+   DIGITIPEDIUM
+   I           
+   T           
+   E           
+
+Dim: 15 by 8, Words: 3 out of 11, Cross: 2, Mix: 1  Ratio: 100 Loose 1 
+
+M              
+A              
+N              
+I              
+B              
+U              
+SCAPULAE       
+   L           
+   A           
+   U           
+   DIGITIPEDIUM
+   I           
+   T           
+   E           
+
+Dim: 15 by 14, Words: 4 out of 11, Cross: 3, Mix: 1  Ratio: 100 Loose 1 
+
+ M              
+CAPUT           
+ N              
+ I              
+ B              
+ U              
+ SCAPULAE       
+    L           
+    A           
+    U           
+    DIGITIPEDIUM
+    I           
+    T           
+    E           
+
+Dim: 16 by 14, Words: 5 out of 11, Cross: 4, Mix: 1  Ratio: 100 Loose 1 
+
+   G            
+   E            
+ M N            
+CAPUT           
+ N A            
+ I              
+ B              
+ U              
+ SCAPULAE       
+    L           
+    A           
+    U           
+    DIGITIPEDIUM
+    I           
+    T           
+    E           
+
+Dim: 16 by 16, Words: 6 out of 11, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+ M              
+CAPUT           
+ N     G        
+ I     E        
+ B     N        
+ U     U        
+ SCAPULAE       
+    L           
+    A           
+    U           
+    DIGITIPEDIUM
+    I           
+    T           
+    E           
+
+Dim: 16 by 14, Words: 6 out of 11, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+M              
+A              
+N G            
+I E            
+B N            
+U U            
+SCAPULAE       
+ A L           
+ P A           
+ U U           
+ T DIGITIPEDIUM
+   I           
+   T           
+   E           
+
+Dim: 15 by 14, Words: 6 out of 11, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+ SCAPULAE       
+    L           
+ G MANIBUS      
+ E  U           
+ N  DIGITIPEDIUM
+ U  I           
+CAPUT           
+    E           
+
+Dim: 16 by 8, Words: 6 out of 11, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+SCAPULAE       
+   L         C 
+  MANIBUS    A 
+   U         P 
+   DIGITIPEDIUM
+   I         T 
+   T           
+  GENUA        
+
+Dim: 15 by 8, Words: 6 out of 11, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+  P           
+  L        M  
+SCAPULAE   A  
+  U        N  
+  DIGITIPEDIUM
+  I        B  
+  T     CAPUT 
+ GENUA     S  
+
+Dim: 14 by 8, Words: 6 out of 11, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+ P           
+ L     S     
+ A     CAPUT 
+ U     A     
+ DIGITIPEDIUM
+ I     U     
+ T     L     
+GENUA MANIBUS
+       E     
+
+Dim: 13 by 9, Words: 6 out of 11, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+P           
+L     S     
+A     CAPUT 
+U     A     
+DIGITIPEDIUM
+I E   U     
+T N   L     
+E U  MANIBUS
+  A   E     
+
+Dim: 12 by 9, Words: 6 out of 11, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+P         S 
+L  M      C 
+A CAPUT   A 
+U  N      P 
+DIGITIPEDIUM
+I  B      L 
+T  U  GENUA 
+E  S      E 
+
+Dim: 12 by 8, Words: 6 out of 11, Cross: 5, Mix: 1  Ratio: 100 Loose 1 
+
+       G      
+SCAPULAE      
+   L   N      
+  MANIBUS   C 
+   U   A    A 
+   D        P 
+  DIGITIPEDIUM
+   T        T 
+   E          
+
+Dim: 14 by 9, Words: 6 out of 11, Cross: 6, Mix: 1  Ratio: 120 Loose 0 
+
+    P          
+    L          
+    A M        
+SCAPULAE       
+    D N        
+   DIGITIPEDIUM
+    T B        
+    E U        
+      S        
+
+Dim: 15 by 9, Words: 4 out of 11, Cross: 4, Mix: 1  Ratio: 133 Loose 0 
+
+    P          
+    L          
+    A M        
+SCAPULAE       
+ A  D N        
+ P DIGITIPEDIUM
+ U  T B        
+ T GENUA       
+      S        
+
+Dim: 15 by 9, Words: 6 out of 11, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+  CAPUT      
+    L        
+    A M      
+SCAPULAE     
+    D N      
+ DIGITIPEDIUM
+    T B      
+   GENUA     
+      S      
+
+Dim: 13 by 9, Words: 6 out of 11, Cross: 7, Mix: 1  Ratio: 140 Loose 0 
+
+          P  
+     SCAPULAE
+      A E A  
+DIGITIPEDIUM 
+      U E D  
+      T S I  
+          T  
+       AURES 
+
+Dim: 13 by 8, Words: 6 out of 11, Cross: 7, Mix: 24  Ratio: 140 Loose 0 
+
+   N D A 
+  MANIBUS
+   S G R 
+PLAUDITE 
+   S T S 
+     I   
+     P G 
+    PEDES
+     D N 
+     I U 
+ SCAPULAE
+     M   
+
+Dim: 9 by 12, Words: 8 out of 11, Cross: 10, Mix: 42  Ratio: 142 Loose 0 
+
+   S     
+   C     
+   A     
+   P D G 
+PLAUDITE 
+   L G N 
+  MANIBUS
+   E T A 
+     I   
+     P   
+     E   
+     D   
+     I   
+     U   
+     M   
+
+Dim: 9 by 15, Words: 5 out of 11, Cross: 6, Mix: 82  Ratio: 150 Loose 0 
+
+   S     
+   C D   
+   A I   
+   P G G 
+PLAUDITE 
+   L T N 
+  MANIBUS
+   E P A 
+     E   
+     D   
+     I   
+     U   
+     M   
+
+Dim: 9 by 13, Words: 5 out of 11, Cross: 6, Mix: 82  Ratio: 150 Loose 0 
+
+   D   
+   I   
+   G   
+ S I   
+ C T   
+MANIBUS
+ P P   
+AURES  
+ L D   
+ A I   
+GENUA  
+   M   
+
+Dim: 7 by 12, Words: 5 out of 11, Cross: 6, Mix: 136  Ratio: 150 Loose 0 

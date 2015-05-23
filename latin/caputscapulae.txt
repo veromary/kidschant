@@ -1,0 +1,11 @@
+CAPUT: head
+OCULI: eyes
+NASUS: nose
+OS: mouth
+AURES: ears
+SCAPULAE: shoulders
+GENUA: knees
+PEDES: feet
+PLAUDITE: ye applaud
+MANIBUS: from the hands
+DIGITIPEDIUM: digits of the feet (toes)

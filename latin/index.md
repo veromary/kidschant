@@ -43,3 +43,6 @@ Psalm 113:14 talks about false gods: Aures habent, et non audient; nares habent,
 My Latin isn’t great but sounds like nares is somehow related to nasus – maybe nostrils?
 
 So, there’s your lesson plan – a song with actions, plus digging around in prayer books and Scripture for examples.
+
+**BONUS!** [Crossword Puzzle](CaputScapulaeblank.html) with [answer key](CaputScapulaeetal.html) thanks to [Armored Penguin](http://www.armoredpenguin.com).
+
