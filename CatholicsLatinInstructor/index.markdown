@@ -9,4 +9,13 @@ The book is a series of exercises consisting of putting together the Latin from 
 
 Because of this correspondence between the Latin and the English it lends itself to flash card programs like Hot Potatoes, Quizlet.com and Anki. So the plan here is to collect supporting online materials to make this book more useful.
 
+* Altar Server Latin
+   - Exercise 1 - accusatives and ablatives with preposition
+      - [Ex1 5a](AltarServer/Ex1-5a.html) 
+      - [Ex1 5b](AltarServer/Ex1-5b.html) 
+      - [Ex1 5c](AltarServer/Ex1-5c.html) 
+      - [Ex1 5d](AltarServer/Ex1-5d.html) 
+      - [Full set on Quizlet](https://quizlet.com/_hlrjq)
+
+Also working on a similar collection over at [www.brandt.id.au/latin](http://www.brandt.id.au/latin).  I need to consolidate these somehow.  Perhaps this very night!
 
