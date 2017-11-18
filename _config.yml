@@ -1,5 +1,15 @@
-markdown: kramdown
+title: Kids Chant
+author: Veronica Brandt
+email: veronica@kidschant.com
+description: > # this means to ignore newlines until "baseurl:"
+     Passing on Gregorian Chant to Kids
 
-#url: http://localhost:4000
-url: http://www.kidschant.com
+twitter_username: veromarybrrr
+github_username:  veromary
 
+sass:
+    style: compressed
+
+header_pages:
+    - pater.html
+    - rosary/index.md
