@@ -1,6 +1,6 @@
 $( document ).ready(function() {
 
-  var words = ["What if I have a long word here?", "<a href='link.html'>li</a>nks?", "delor", "sit", "amet", "consect", "adipisci", "elit,", "sed.", "Eiusmod", "tempor", "a", "enim", "minim", "season", "nulla", "dolore", "sint", "id", "est", "laboris", "ut.", "aute", "laborum", "toe"];
+  var words = ["<a href='http://www.brandt.id.au/newbookoldhymns/hymns/rorate.html'>rorate</a>", "<a href='http://www.brandt.id.au/newbookoldhymns/hymns/conditor.html'>Conditor</a>", "<a href='http://www.brandt.id.au/newbookoldhymns/hymns/alma.html'>alma</a>", "sit", "amet", "consect", "adipisci", "elit,", "sed.", "Eiusmod", "tempor", "a", "enim", "minim", "season", "nulla", "dolore", "sint", "id", "est", "laboris", "ut.", "aute", "laborum", "toe"];
 
   var message = "";
   var date = new Date();
@@ -14,8 +14,8 @@ $( document ).ready(function() {
     $("#message").text(message).show();
   }  
 
-  day=25; // uncomment to skip to 25
-  month=12;
+//  day=1; // uncomment to skip to 25
+//  month=12;
 
   // Only work in December
   if(month === 12) {
